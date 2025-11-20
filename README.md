@@ -49,7 +49,7 @@ The final **Driver Rating** is a weighted sum of the normalized scores. The syst
 | **Positions Gained** | **15%** | Medium |
 | **Avg Lap Speed** | **15%** | Medium |
 | **Laps Led** | **10%** | Medium |
-| **Fastest Lap Time** | **05%** | Low |
+| **Fastest Lap Time** | **5%** | Low |
 
 > **The Master Formula:**
 > 
