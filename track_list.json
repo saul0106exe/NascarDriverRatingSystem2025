@@ -1,0 +1,30 @@
+[
+    {
+        "track_id": "daytona",
+        "track_name": "Daytona International Speedway",
+        "track_legth_miles": 2.5,
+        "track_category": "Superspeedway",
+        "track_info_file_path": "CODENAME_NSIGHT\\track_info\\2.16.25daytona.csv"
+    },
+    {
+        "track_id": "atlanta",
+        "track_name": "Atlanta Motor Speedway",
+        "track_legth_miles": 1.54,
+        "track_category": "Superspeedway",
+        "track_info_file_path": "CODENAME_NSIGHT\\track_info\\2.23.25atlanta.csv"
+    },
+    {
+        "track_id": "cota",
+        "track_name": "Circuit of the Americas",
+        "track_legth_miles": 2.356,
+        "track_category": "Road Course",
+        "track_info_file_path": "CODENAME_NSIGHT\\track_info\\3.02.25cota.csv"
+    },
+    {
+        "track_id": "phoenix",
+        "track_name": "Phoenix Raceway",
+        "track_legth_miles": 1.0,
+        "track_category": "Short Intermediate",
+        "track_info_file_path": "CODENAME_NSIGHT\\track_info\\3.09.25phoenix.csv"
+    }
+]
