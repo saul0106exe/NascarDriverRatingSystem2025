@@ -1,8 +1,10 @@
 import pandas as pd
+import json
+import os
 
 def calculate_driver_ratings(csv_path):
-
     try:
+
         laps_df = pd.read_csv(csv_path)
     except FileNotFoundError:
         print(f"Error: The file was not found at {csv_path}")
@@ -39,6 +41,7 @@ def calculate_driver_ratings(csv_path):
 
     stats_df = pd.DataFrame(driver_stats)
 
+    # metric scores
     for col in ['positions_gained', 'avg_lap_speed', 'laps_led']:
         min_val = stats_df[col].min()
         max_val = stats_df[col].max()
@@ -55,6 +58,7 @@ def calculate_driver_ratings(csv_path):
         else:
             stats_df[f'{col}_score'] = 100
 
+    # calc weights
     weights = {
         'finish_position_score': 0.30,
         'avg_running_position_score': 0.25,
@@ -73,17 +77,80 @@ def calculate_driver_ratings(csv_path):
         stats_df['fastest_lap_time_score'] * weights['fastest_lap_time_score']
     )
 
+    # sort, decending
     final_ratings = stats_df.sort_values(by='driver_rating', ascending=False)
 
     return final_ratings[['driver_name', 'driver_rating']]
 
 
-if __name__ == '__main__':
-    csv_file_path = r'daytona_test_ratings\2.16.25daytona_laps.csv'
-    
-    driver_ratings_df = calculate_driver_ratings(csv_file_path)
+def analyze_all_tracks(tracks_metadata):
+    all_ratings = []
+    for track in tracks_metadata:
+        csv_file_path = os.path.join('track_info', os.path.basename(track['track_info_file_path']))
+        
+        print(f"\n--- Analyzing {track['track_name']} ---")
+        ratings_df = calculate_driver_ratings(csv_file_path)
 
-    if driver_ratings_df is not None:
-        print("--- NASCAR Driver Ratings ---")
-        print(driver_ratings_df.to_string(index=False))
+        if ratings_df is not None:
+            ratings_df['track_category'] = track['track_category']
+            all_ratings.append(ratings_df)
+        else:
+            print(f"Could not calculate ratings for {track['track_name']}.")
 
+    if not all_ratings:
+        print("\nNo ratings could be calculated from the provided files.")
+        return
+
+    # single df
+    combined_ratings_df = pd.concat(all_ratings)
+
+    # calcs----
+    # ovr
+    overall_ratings = combined_ratings_df.groupby('driver_name')['driver_rating'].mean().reset_index()
+    overall_ratings = overall_ratings.rename(columns={'driver_rating': 'Overall_rating'})
+
+    # category
+    category_ratings_pivot = combined_ratings_df.pivot_table(
+        index='driver_name',
+        columns='track_category',
+        values='driver_rating',
+        aggfunc='mean'
+    ).reset_index()
+
+    # merge ovr and cat. ratings
+    final_df = pd.merge(overall_ratings, category_ratings_pivot, on='driver_name', how='outer')
+    final_df = final_df.sort_values(by='Overall_rating', ascending=False)
+
+    # columns 
+    # | OVR | SSW | SW | INT | S.INT | C | RC |
+    final_df = final_df.rename(columns={
+        'Superspeedway': 'SSW',
+        'Speedway': 'SW',
+        'Intermediate': 'INT',
+        'Short Intermediate': 'S.INT',
+        'Concrete': 'C',
+        'Road Course': 'RC',
+    })
+
+    # fill value for missing ratings
+    final_df.fillna('x', inplace=True)
+
+    print("\n\n--- Saul's Nascar Driver Ratings ---")
+    print(final_df.to_string(index=False))
+
+
+if __name__ == '__main__': 
+    json_file_path = 'track_list.json'
+
+    try:
+        with open(json_file_path, 'r') as f:
+            tracks = json.load(f)
+        
+        analyze_all_tracks(tracks)
+
+    except FileNotFoundError:
+        print(f"Error: The file was not found at {json_file_path}")
+    except json.JSONDecodeError:
+        print(f"Error: Could not decode JSON from the file at {json_file_path}")
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
