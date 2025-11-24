@@ -4,10 +4,9 @@ import os
 
 def calculate_driver_ratings(csv_path):
     try:
-
         laps_df = pd.read_csv(csv_path)
     except FileNotFoundError:
-        print(f"Error: The file was not found at {csv_path}")
+        print(f" Error | The file was not found at {csv_path}")
         return None
 
     drivers = laps_df['driver_name'].unique()
@@ -86,16 +85,21 @@ def calculate_driver_ratings(csv_path):
 def analyze_all_tracks(tracks_metadata):
     all_ratings = []
     for track in tracks_metadata:
-        csv_file_path = os.path.join('track_info', os.path.basename(track['track_info_file_path']))
+
+        if str(track.get('point_race')).lower() != 'true':
+            print(f"--- {track ['race_num']} | Skipping {track['race_name']}")
+            continue
+
+        csv_file_path = os.path.join('track_info', os.path.basename(track['race_lap_info_file-path']))
         
-        print(f"\n--- Analyzing {track['track_name']} ---")
+        print(f"--- {track ['race_num']} | Analyzing {track['race_name']}")
         ratings_df = calculate_driver_ratings(csv_file_path)
 
         if ratings_df is not None:
             ratings_df['track_category'] = track['track_category']
             all_ratings.append(ratings_df)
         else:
-            print(f"Could not calculate ratings for {track['track_name']}.")
+            print(f" Error | Could not calculate ratings for {track['race_name']}.")
 
     if not all_ratings:
         print("\nNo ratings could be calculated from the provided files.")
@@ -124,6 +128,8 @@ def analyze_all_tracks(tracks_metadata):
     # columns 
     # | OVR | SSW | SW | INT | S.INT | C | RC |
     final_df = final_df.rename(columns={
+        'driver_name': 'Driver',
+        'Overall_rating': 'OVR',
         'Superspeedway': 'SSW',
         'Speedway': 'SW',
         'Intermediate': 'INT',
@@ -149,7 +155,7 @@ if __name__ == '__main__':
         analyze_all_tracks(tracks)
 
     except FileNotFoundError:
-        print(f"Error: The file was not found at {json_file_path}")
+        print(f" Error | The file was not found at {json_file_path}")
     except json.JSONDecodeError:
         print(f"Error: Could not decode JSON from the file at {json_file_path}")
     except Exception as e:
