@@ -1,9 +1,5 @@
 [
     {
-        "track_id": "daytona",
-        "track_name": "Daytona International Speedway",
-        "track_legth_miles": 2.5,[
-    {
         "race_num": "01",
         "track_id": "bowman_gray",
         "track_name": "Bowman Gray Stadium",
@@ -353,3 +349,4 @@
     }
 
 ]
+
