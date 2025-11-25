@@ -10,7 +10,7 @@
         "track_leght_miles": 0.25,
         "track_category": "Short Intermediate",
         "point_race": "False",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\2.02.25bowman_gray.csv"
+        "race_lap_info_file-path": "2.02.25bowman_gray.csv"
     },
 
     {
@@ -24,7 +24,7 @@
         "track_leght_miles": 2.5,
         "track_category": "Superspeedway",
         "point_race": "False",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\2.13.25daytona_duel_1.csv"
+        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_ino\\2.13.25daytona_duel_1.csv"
     },
 
     {
@@ -38,7 +38,7 @@
         "track_leght_miles": 2.5,
         "track_category": "Superspeedway",
         "point_race": "False",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\2.13.25daytona_duel_2.csv"
+        "race_lap_info_file-path": "2.13.25daytona_duel_2.csv"
     },
 
     {
@@ -52,7 +52,7 @@
         "track_leght_miles": 2.5,
         "track_category": "Superspeedway",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\2.16.25daytona.csv"
+        "race_lap_info_file-path": "2.16.25daytona.csv"
     },
 
     {
@@ -66,7 +66,7 @@
         "track_leght_miles": 1.54,
         "track_category": "Superspeedway",
         "point_race": "True",
-        "race_lap_info_file-path":"CODENAME_NSIGHT\\track_info\\2.23.25atlanta.csv"
+        "race_lap_info_file-path":"2.23.25atlanta.csv"
     },
 
     {
@@ -80,7 +80,7 @@
         "track_leght_miles": 2.356,
         "track_category": "Road Course",
         "point_race": "True",
-        "race_lap_info_file-path":"CODENAME_NSIGHT\\track_info\\3.02.25cota.csv"
+        "race_lap_info_file-path":"3.02.25cota.csv"
     },
 
     {
@@ -94,7 +94,7 @@
         "track_leght_miles": 1.0,
         "track_category": "Short Intermediate",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\3.09.25phoenix.csv"
+        "race_lap_info_file-path": "3.09.25phoenix.csv"
     },
 
     {
@@ -108,7 +108,7 @@
         "track_leght_miles": 1.5,
         "track_category": "Intermediate",
         "point_race":"True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\3.16.25las_vegas.csv"
+        "race_lap_info_file-path": "3.16.25las_vegas.csv"
     },
 
     {
@@ -122,7 +122,7 @@
         "track_leght_miles": 1.5,
         "track_category": "Intermediate",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\3.23.25homestead_miami.csv"
+        "race_lap_info_file-path": "3.23.25homestead_miami.csv"
     },
 
     {
@@ -136,7 +136,7 @@
         "track_leght_miles": 0.526,
         "track_category": "Concrete",
         "point_race": "True",
-        "race_lap_info_file-path":"CODENAME_NSIGHT\\track_info\\3.30.25martinsville.csv"
+        "race_lap_info_file-path":"3.30.25martinsville.csv"
     },
 
     {
@@ -150,7 +150,7 @@
         "track_leght_miles": 1.366,
         "track_category": "Intermediate",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\4.06.25darlington.csv"
+        "race_lap_info_file-path": "4.06.25darlington.csv"
     },
 
     {
@@ -164,7 +164,7 @@
         "track_leght_miles": 0.533,
         "track_category": "Concrete",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\4.13.25bristol.csv"
+        "race_lap_info_file-path": "4.13.25bristol.csv"
     },
 
     {
@@ -178,7 +178,7 @@
         "track_leght_miles": 2.66,
         "track_category": "Superspeedway",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\4.27.25talladega.csv"
+        "race_lap_info_file-path": "4.27.25talladega.csv"
     },
 
     {
@@ -192,7 +192,7 @@
         "track_leght_miles": 1.5,
         "track_category": "Intermediate",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\5.04.25texas.csv"
+        "race_lap_info_file-path": "5.04.25texas.csv"
     },
     
     {
@@ -206,7 +206,7 @@
         "track_leght_miles": 1.5,
         "track_category": "Intermediate",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\5.11.25kansas.csv"
+        "race_lap_info_file-path": "5.11.25kansas.csv"
     },
 
     {
@@ -220,7 +220,7 @@
         "track_leght_miles": 0.625,
         "track_category": "Short Intermediate",
         "point_race": "False",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\5.18.25north_wilkesboro_open.csv"
+        "race_lap_info_file-path": "5.18.25north_wilkesboro_open.csv"
     },
 
     {
@@ -234,7 +234,7 @@
         "track_leght_miles": 0.625,
         "track_category": "Short Intermediate",
         "point_race": "False",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\5.18.25north_wilkesboro_all_star_race.csv"
+        "race_lap_info_file-path": "5.18.25north_wilkesboro_all_star_race.csv"
     },
 
     {
@@ -248,7 +248,7 @@
         "track_leght_miles": 1.5,
         "track_category": "Intermediate",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\5.25.25charlotte.csv"
+        "race_lap_info_file-path": "5.25.25charlotte.csv"
     },
 
     {
@@ -262,7 +262,7 @@
         "track_leght_miles": 1.333,
         "track_category": "Concrete",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\6.01.25nashville.csv"
+        "race_lap_info_file-path": "6.01.25nashville.csv"
     },
 
     {
@@ -276,7 +276,7 @@
         "track_leght_miles": 2.0,
         "track_category": "Speedway",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\6.08.25michigan.csv"
+        "race_lap_info_file-path": "6.08.25michigan.csv"
     },
 
     {
@@ -290,7 +290,7 @@
         "track_leght_miles": 2.42,
         "track_category": "Road Course",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\6.15.25mexico.csv "
+        "race_lap_info_file-path": "6.15.25mexico.csv"
     },
 
     {
@@ -304,7 +304,7 @@
         "track_leght_miles": 2.5,
         "track_category" : "Speedway",
         "point_race": "True",
-        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_info\\6.22.25pocono.csv"
+        "race_lap_info_file-path": "6.22.25pocono.csv"
     },
 
     {
@@ -318,7 +318,7 @@
         "track_leght_miles": 1.54,
         "track_category": "Superspeedway",
         "point_race": "True",
-        "race_lap_info_file-path":"CODENAME_NSIGHT\\track_info\\6.28.25atlanta.csv"
+        "race_lap_info_file-path":"6.28.25atlanta.csv"
     }
 
     
