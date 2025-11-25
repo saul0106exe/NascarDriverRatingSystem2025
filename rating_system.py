@@ -87,12 +87,12 @@ def analyze_all_tracks(tracks_metadata):
     for track in tracks_metadata:
 
         if str(track.get('point_race')).lower() != 'true':
-            print(f"--- {track ['race_num']} | Skipping {track['race_name']}")
+            print(f"--- {track ['race_num']} |-{track['race_date']}-| Skipping {track['race_name']}")
             continue
 
         csv_file_path = os.path.join('track_info', os.path.basename(track['race_lap_info_file-path']))
         
-        print(f"--- {track ['race_num']} | Analyzing {track['race_name']}")
+        print(f"--- {track ['race_num']} | {track['race_date']} | Analyzing {track['race_name']}")
         ratings_df = calculate_driver_ratings(csv_file_path)
 
         if ratings_df is not None:
