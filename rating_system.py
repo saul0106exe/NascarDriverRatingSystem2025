@@ -125,6 +125,12 @@ def analyze_all_tracks(tracks_metadata):
     final_df = pd.merge(overall_ratings, category_ratings_pivot, on='driver_name', how='outer')
     final_df = final_df.sort_values(by='Overall_rating', ascending=False)
 
+    # rounder
+    rating_cols = final_df.select_dtypes(include=['number']).columns
+    for col in rating_cols:
+        final_df[col] = final_df[col].round(2)
+
+
     # columns 
     # | OVR | SSW | SW | INT | S.INT | C | RC |
     final_df = final_df.rename(columns={
