@@ -1,5 +1,5 @@
 # 2025 NASCAR Driver Rating System (NDRS25)
-### *Version 1.2 (Gamefy Update)*
+### *Version 1.2 (Gamify Update)*
 
 ## 🏁 System Overview
 This Python-based rating system evaluates NASCAR driver performance for the 2025 season. Unlike simple points standings, this model utilizes raw, lap-by-lap data to generate a comprehensive **Driver Rating (0-100)**. 
