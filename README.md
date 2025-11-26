@@ -36,7 +36,7 @@ The input file must contain the following headers:
 
 ## 🧮 Methodology
 
-The system operates in two distinct phases: **Individual Race Scoring** (calculating the 0-100 score for a single event) and **Season Aggregation** (combining those scores into an Overall Rating).
+The system operates in two distinct phases: **Individual Race Scoring** (calculating the 0-100 score for a single event), **Season Aggregation** (combining those scores into an Overall Rating to Season Overall or Track Category Overall), and for `rating_system_gamify`, **Gamify Scaling** (boosting ratings by adding the diffence of 100 minus the highest rating for each category to all ratings)
 
 ---
 
@@ -77,7 +77,7 @@ The final **Driver Rating** is a weighted sum of the normalized scores. The syst
 | **Laps Led** | **10%** | Medium |
 | **Fastest Lap Time** | **5%** | Low |
 
-> **The Master Formula:**
+> **Raw Formula:**
 > 
 > `Rating = 0.30(Finish) + 0.25(AvgPos) + 0.15(PosGained) + 0.15(Speed) + 0.10(Led) + 0.05(Fastest)`
 
@@ -105,6 +105,19 @@ The system dynamically calculates averages based on the `track_category` defined
     * Races marked `point_race: "false"` are excluded from OVR.
     * Drivers who did not compete in a category receive an `'x'` placeholder.
 
+---
+
+### Phase 3: Gamified Scaling (The Curve) 
+#### **This applies for `rating_system_gamify.py` only.**
+
+To create the final ratings, the system identifies the "Class Leader" for each category and shifts the curve so the leader sits at 100.
+
+The Logic:
+1. Find the highest Raw Score in a specific column (e.g., Superspeedways).
+2. Calculate the `Adjustment Factor = 100 - Leader's Score`.
+3. Add the `Adjustment Factor` to every driver's score in that column.
+
+
 ## 💻 Usage Guide
 
 ### Prerequisites
@@ -126,9 +139,14 @@ The system dynamically calculates averages based on the `track_category` defined
 ```
 
 ### Execution
-Run  the script from your Terminal:
+Run  the **Orginal** script from your Terminal:
 ```
-python rating_system_test.py
+python rating_system.py
+```
+
+Rub the **Gamified** script from your Terminal:
+```
+python rating_system_gamify.py
 ```
 ### Understand the Output
 #### Legend:
