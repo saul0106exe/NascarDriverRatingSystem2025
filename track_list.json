@@ -47,7 +47,7 @@
         "track_name": "Daytona International Speedway",
         "race_name": "Daytona 500",
         "race_date": "2.16.25",
-        "race_date_full": "Feb. 15, 2025",
+        "race_date_full": "Feb. 16, 2025",
         "race_laps": 200,
         "track_leght_miles": 2.5,
         "track_category": "Superspeedway",
@@ -573,3 +573,4 @@
         "race_lap_info_file-path": "11.02.25phoenix.csv"
     }
 ]   
+
