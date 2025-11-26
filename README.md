@@ -1,23 +1,49 @@
 # 2025 NASCAR Driver Rating System (NDRS25)
-### *Version 1.0 - Daytona 500 Era*
+### *Version 1.1 (Full Initial Release) - 2025 NCS*
 
 ## 🏁 System Overview
 This Python-based rating system evaluates NASCAR driver performance for the 2025 season. Unlike simple points standings, this model utilizes raw, lap-by-lap data to generate a comprehensive **Driver Rating (0-100)**. 
 
-The system currently processes data from the **Daytona 500 (Feb 16, 2025)** but is being developed to scale for the full season.
+At first **(v.1.0)** this program just processed data from the Daytona 500 but now **(v.1.1)**, it processes data from all races from the full **2025 NASCAR Cup Series**. Not just that, drivers arent just given a rating for the whole season but a **rating for each type of track**, from superspeedways to road courses.
 
 ## 📊 Data Sources & Requirements
-The system ingests raw CSV data provided by **[LapRaptor.com](https://www.lapraptor.com)**.
+The system uses raw CSV data provided by **[LapRaptor.com](https://www.lapraptor.com)**.
+
+### Required File Structure
+```text 
+/project_root
+ │
+ ├── rating_system.py       # The main script
+ ├── track_list.json        # Configuration file for the schedule
+ └── track_info/            # Folder containing all race CSV files
+      ├── 2.02.25bowman_gray.csv
+      ├── 2.13.25daytona_duel_1.csv
+      └── ...
+```
 
 ### Required CSV Columns
 The input file must contain the following headers:
 `driver_name`, `driver_id`, `manufacturer`, `car_number`, `lap_number`, `running_position`, `lap_speed`, `lap_time`, `team`, `playoffs`, `points_ineligible`, `starting_position`, `finish_position`, `statuses`
 
+### Required Config. keys
+- `race_num`: Number to easily identify in the .json file
+- `race_name`:  Name of the race 
+- `race_date`:  Date of the race
+- `track_category`: Defines what type of track rating is going to go into
+- `point_race`: Defines if the race is going or not going to be used in  ratings
+- `race_lap_info_file-path`: The file path for .csv files  
+### **Hint**: Other config. keys may be used for future updates😊
+
 ## 🧮 Methodology
 
-The rating is calculated in three stages: **Aggregation**, **Normalization**, and **Weighting**.
+The system operates in two distinct phases: **Individual Race Scoring** (calculating the 0-100 score for a single event) and **Season Aggregation** (combining those scores into an Overall Rating).
 
-### 1. Metric Aggregation
+---
+
+### Phase 1: Individual Race Scoring
+For every specific race, the rating is calculated in three stages: **Aggregation**, **Normalization**, and **Weighting**.
+
+#### 1. Metric Aggregation
 For every driver, the script calculates six key performance metrics:
 
 | Metric | Description |
@@ -29,7 +55,7 @@ For every driver, the script calculates six key performance metrics:
 | **Laps Led** | The total number of laps where the driver's `running_position` was 1. |
 | **Fastest Lap Time** | The single lowest lap time recorded by the driver. |
 
-### 2. Score Normalization (0-100 Scale)
+#### 2. Score Normalization (0-100 Scale)
 To make different units comparable (e.g., speed vs. position), all metrics are normalized to a 0-100 scale using **Min-Max Normalization**.
 
 * **Standard Metrics:** (Higher is Better)
@@ -39,7 +65,7 @@ To make different units comparable (e.g., speed vs. position), all metrics are n
     * *Finish Position, Avg Running Position, Fastest Lap Time*
     * Formula: `100 * (Max - Value) / (Max - Min)`
 
-### 3. The Weighted Formula
+#### 3. The Weighted Formula
 The final **Driver Rating** is a weighted sum of the normalized scores. The system prioritizes finishing well and running up front consistently.
 
 | Metric Component | Weight | Impact |
@@ -57,16 +83,62 @@ The final **Driver Rating** is a weighted sum of the normalized scores. The syst
 
 ---
 
+### Phase 2: Season Aggregation
+Once individual races are scored, the system aggregates the data to track long-term performance.
+
+#### 4. Global Metrics
+The system groups the individual race ratings to generate the following high-level stats:
+
+| Aggregated Metric | Description |
+| :--- | :--- |
+| **OVR (Overall Rating)** | The simple average of the driver's rating across *all* points-paying races. |
+| **Track Category Rating** | The average rating for specific track types (e.g., "Superspeedway"). |
+
+#### 5. Aggregation Logic
+The system dynamically calculates averages based on the `track_category` defined in `track_list.json`.
+
+* **Overall Formula:**
+    * `OVR = Sum(All Ratings) / Count(All Races)`
+* **Category Formula:**
+    * `Category Score = Sum(Ratings in Category) / Count(Races in Category)`
+* **Exclusions:**
+    * Races marked `point_race: "false"` are excluded from OVR.
+    * Drivers who did not compete in a category receive an `'x'` placeholder.
+
 ## 💻 Usage Guide
 
 ### Prerequisites
 * Python 3.x
 * pandas library (`pip install pandas`)
 
-### Running the Script
-1.  Ensure your CSV file is located in the directory.
-2.  Update the `csv_file_path` variable in the `__main__` block if necessary.
-3.  Run the script:
+### Ensure your `track_list.json` has the following
+```
+[
+    {
+        "race_num": "1",
+        "race_name": "Daytona 500",
+        "race_date": "2.16.25",
+        "track_category": "Superspeedway",
+        "point_race": "true",
+        "race_lap_info_file-path": "2.16.25daytona_laps.csv"
+    }
+]
+```
 
-```bash
+### Execution
+Run  the script from your Terminal:
+```
 python rating_system_test.py
+```
+### Understand the Output
+#### Legend:
+|  | Description |
+| :--- | :--- |
+OVR | Overall  Rating
+SSW | Superspeedway (Daytona, Talladega, Atlanta)
+SW | Speedway (Large ovals)
+INT| Intermediate (1.5-mile tracks)
+S.INT | Short-Intermediate (e.g., Darlington, Gateway)
+C | Concrete (Bristol, Dover, Nashville)
+RC | Road Course
+x | Indicates the driver has not competed in this track category yet.
