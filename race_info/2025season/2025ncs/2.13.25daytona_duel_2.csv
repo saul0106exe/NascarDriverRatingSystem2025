@@ -1,0 +1,1283 @@
+driver_name,driver_id,manufacturer,car_number,lap_number,running_position,lap_speed,lap_time,team,playoffs,points_ineligible,starting_position,finish_position,statuses
+Shane Van Gisbergen,4469,Chv,88,47,11,195.240,46.097,Trackhouse Racing,False,False,15,14,green
+Anthony Alfredo,4301,Chv,62,47,13,195.228,46.100,Beard Motorsports,False,True,20,13,green
+Erik Jones,4059,Tyt,43,47,14,195.101,46.130,Legacy Motor Club,False,False,18,2,green
+Christopher Bell,4153,Tyt,20,46,19,194.129,46.361,Joe Gibbs Racing,False,False,4,10,green
+John Hunter Nemechek,4092,Tyt,42,60,9,194.091,46.370,Legacy Motor Club,False,False,19,9,pitting in
+Alex Bowman,4045,Chv,48,47,10,194.053,46.379,Hendrick Motorsports,False,False,6,22,green
+Riley Herbst,4269,Tyt,35,59,16,193.861,46.425,23XI Racing,False,False,13,12,green
+Denny Hamlin,1361,Tyt,11,46,18,193.844,46.429,Joe Gibbs Racing,False,False,3,4,pitting in
+John Hunter Nemechek,4092,Tyt,42,59,13,193.773,46.446,Legacy Motor Club,False,False,19,9,green
+Denny Hamlin,1361,Tyt,11,57,12,193.761,46.449,Joe Gibbs Racing,False,False,3,4,green
+Christopher Bell,4153,Tyt,20,58,14,193.753,46.451,Joe Gibbs Racing,False,False,4,10,green
+Riley Herbst,4269,Tyt,35,47,16,193.715,46.460,23XI Racing,False,False,13,12,green
+Erik Jones,4059,Tyt,43,60,1,193.653,46.475,Legacy Motor Club,False,False,18,2,pitting in
+Todd Gilliland,4231,Frd,34,60,7,193.632,46.480,Front Row Motorsports,False,False,7,7,pitting in
+Chris Buescher,3989,Frd,17,60,3,193.619,46.483,RFK Racing,False,False,9,3,pitting in
+Corey LaJoie,4096,Frd,01,60,6,193.619,46.483,Rick Ware Racing,False,False,17,6,pitting in
+Christopher Bell,4153,Tyt,20,47,17,193.611,46.485,Joe Gibbs Racing,False,False,4,10,green
+Denny Hamlin,1361,Tyt,11,60,4,193.573,46.494,Joe Gibbs Racing,False,False,3,4,pitting in
+Ryan Blaney,4023,Frd,12,60,8,193.469,46.519,Team Penske,False,False,10,8,pitting in
+BJ McLeod,3973,Chv,78,58,16,193.461,46.521,Live Fast Motorsports,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,58,9,193.453,46.523,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,58,13,193.440,46.526,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Frd,51,59,10,193.436,46.527,Rick Ware Racing,False,False,22,15,green
+Todd Gilliland,4231,Frd,34,59,7,193.382,46.540,Front Row Motorsports,False,False,7,7,green
+Cody Ware,4125,Frd,51,58,15,193.262,46.569,Rick Ware Racing,False,False,22,15,green
+Erik Jones,4059,Tyt,43,58,7,193.216,46.580,Legacy Motor Club,False,False,18,2,green
+Todd Gilliland,4231,Frd,34,58,12,193.187,46.587,Front Row Motorsports,False,False,7,7,green
+Jimmie Johnson,1717,Tyt,84,59,19,193.133,46.600,Legacy Motor Club,False,False,14,19,green
+Daniel Suarez,4113,Chv,99,47,9,193.087,46.611,Trackhouse Racing,False,False,12,21,pitting in
+Erik Jones,4059,Tyt,43,59,3,193.063,46.617,Legacy Motor Club,False,False,18,2,green
+Denny Hamlin,1361,Tyt,11,59,5,192.992,46.634,Joe Gibbs Racing,False,False,3,4,green
+Riley Herbst,4269,Tyt,35,57,11,192.938,46.647,23XI Racing,False,False,13,12,green
+Austin Cindric,4180,Frd,2,60,2,192.934,46.648,Team Penske,False,False,1,1,pitting in
+BJ McLeod,3973,Chv,78,56,18,192.901,46.656,Live Fast Motorsports,False,False,21,17,green
+Anthony Alfredo,4301,Chv,62,57,8,192.897,46.657,Beard Motorsports,False,True,20,13,green
+Jimmie Johnson,1717,Tyt,84,55,18,192.885,46.660,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,57,9,192.885,46.660,Haas Factory Team,False,False,16,16,green
+Joey Logano,3859,Frd,22,59,2,192.823,46.675,Team Penske,False,False,2,5,green
+Chris Buescher,3989,Frd,17,57,1,192.806,46.679,RFK Racing,False,False,9,3,green
+Ryan Blaney,4023,Frd,12,57,5,192.802,46.680,Team Penske,False,False,10,8,green
+Shane Van Gisbergen,4469,Chv,88,57,7,192.798,46.681,Trackhouse Racing,False,False,15,14,green
+Austin Cindric,4180,Frd,2,59,1,192.798,46.681,Team Penske,False,False,1,1,green
+Noah Gragson,4224,Frd,4,58,5,192.798,46.681,Front Row Motorsports,False,False,11,18,green
+Noah Gragson,4224,Frd,4,47,7,192.786,46.684,Front Row Motorsports,False,False,11,18,green
+Corey LaJoie,4096,Frd,01,57,3,192.786,46.684,Rick Ware Racing,False,False,17,6,green
+Christopher Bell,4153,Tyt,20,60,10,192.786,46.684,Joe Gibbs Racing,False,False,4,10,pitting in
+Jimmie Johnson,1717,Tyt,84,57,19,192.769,46.688,Legacy Motor Club,False,False,14,19,green
+Joey Logano,3859,Frd,22,58,2,192.753,46.692,Team Penske,False,False,2,5,green
+Todd Gilliland,4231,Frd,34,47,8,192.740,46.695,Front Row Motorsports,False,False,7,7,green
+John Hunter Nemechek,4092,Tyt,42,57,13,192.715,46.701,Legacy Motor Club,False,False,19,9,green
+Austin Cindric,4180,Frd,2,58,1,192.699,46.705,Team Penske,False,False,1,1,green
+Joey Logano,3859,Frd,22,60,5,192.645,46.718,Team Penske,False,False,2,5,pitting in
+Erik Jones,4059,Tyt,43,46,15,192.616,46.725,Legacy Motor Club,False,False,18,2,green
+BJ McLeod,3973,Chv,78,59,17,192.612,46.726,Live Fast Motorsports,False,False,21,17,green
+Christopher Bell,4153,Tyt,20,59,15,192.588,46.732,Joe Gibbs Racing,False,False,4,10,green
+BJ McLeod,3973,Chv,78,57,18,192.588,46.732,Live Fast Motorsports,False,False,21,17,green
+Jimmie Johnson,1717,Tyt,84,58,19,192.579,46.734,Legacy Motor Club,False,False,14,19,green
+Austin Cindric,4180,Frd,2,57,2,192.542,46.743,Team Penske,False,False,1,1,green
+Cole Custer,4104,Frd,41,58,11,192.542,46.743,Haas Factory Team,False,False,16,16,green
+Noah Gragson,4224,Frd,4,57,6,192.522,46.748,Front Row Motorsports,False,False,11,18,green
+Joey Logano,3859,Frd,22,57,4,192.509,46.751,Team Penske,False,False,2,5,green
+Anthony Alfredo,4301,Chv,62,58,10,192.460,46.763,Beard Motorsports,False,True,20,13,green
+Kyle Larson,4030,Chv,5,57,15,192.435,46.769,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,2,56,1,192.390,46.780,Team Penske,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,58,6,192.361,46.787,Team Penske,False,False,10,8,green
+Shane Van Gisbergen,4469,Chv,88,58,8,192.357,46.788,Trackhouse Racing,False,False,15,14,green
+Corey LaJoie,4096,Frd,01,58,4,192.353,46.789,Rick Ware Racing,False,False,17,6,green
+Chris Buescher,3989,Frd,17,58,3,192.341,46.792,RFK Racing,False,False,9,3,green
+Joey Logano,3859,Frd,22,56,3,192.304,46.801,Team Penske,False,False,2,5,green
+Kyle Larson,4030,Chv,5,59,14,192.271,46.809,Hendrick Motorsports,False,False,5,11,green
+Shane Van Gisbergen,4469,Chv,88,56,8,192.230,46.819,Trackhouse Racing,False,False,15,14,green
+Ryan Blaney,4023,Frd,12,56,6,192.213,46.823,Team Penske,False,False,10,8,green
+Noah Gragson,4224,Frd,4,56,5,192.184,46.830,Front Row Motorsports,False,False,11,18,green
+Cole Custer,4104,Frd,41,59,12,192.168,46.834,Haas Factory Team,False,False,16,16,green
+Corey LaJoie,4096,Frd,01,56,4,192.164,46.835,Rick Ware Racing,False,False,17,6,green
+Anthony Alfredo,4301,Chv,62,56,10,192.148,46.839,Beard Motorsports,False,True,20,13,green
+Erik Jones,4059,Tyt,43,57,10,192.139,46.841,Legacy Motor Club,False,False,18,2,green
+Erik Jones,4059,Tyt,43,56,7,192.123,46.845,Legacy Motor Club,False,False,18,2,green
+Chris Buescher,3989,Frd,17,59,4,192.119,46.846,RFK Racing,False,False,9,3,green
+Cole Custer,4104,Frd,41,56,11,192.111,46.848,Haas Factory Team,False,False,16,16,green
+John Hunter Nemechek,4092,Tyt,42,56,15,192.111,46.848,Legacy Motor Club,False,False,19,9,green
+Corey LaJoie,4096,Frd,01,59,6,192.102,46.850,Rick Ware Racing,False,False,17,6,green
+John Hunter Nemechek,4092,Tyt,42,55,15,192.098,46.851,Legacy Motor Club,False,False,19,9,green
+Chris Buescher,3989,Frd,17,56,2,192.086,46.854,RFK Racing,False,False,9,3,green
+Ryan Blaney,4023,Frd,12,59,9,192.078,46.856,Team Penske,False,False,10,8,green
+Todd Gilliland,4231,Frd,34,56,9,192.061,46.860,Front Row Motorsports,False,False,7,7,green
+Shane Van Gisbergen,4469,Chv,88,59,11,192.037,46.866,Trackhouse Racing,False,False,15,14,green
+Anthony Alfredo,4301,Chv,62,46,14,192.037,46.866,Beard Motorsports,False,True,20,13,green
+Kyle Larson,4030,Chv,5,56,16,192.029,46.868,Hendrick Motorsports,False,False,5,11,green
+Riley Herbst,4269,Tyt,35,56,13,192.029,46.868,23XI Racing,False,False,13,12,green
+Noah Gragson,4224,Frd,4,59,8,192.000,46.875,Front Row Motorsports,False,False,11,18,green
+Christopher Bell,4153,Tyt,20,56,14,191.975,46.881,Joe Gibbs Racing,False,False,4,10,green
+Cody Ware,4125,Frd,51,56,12,191.959,46.885,Rick Ware Racing,False,False,22,15,green
+Denny Hamlin,1361,Tyt,11,56,17,191.828,46.917,Joe Gibbs Racing,False,False,3,4,green
+John Hunter Nemechek,4092,Tyt,42,58,17,191.828,46.917,Legacy Motor Club,False,False,19,9,green
+Cody Ware,4125,Frd,51,45,4,191.763,46.933,Rick Ware Racing,False,False,22,15,pitting in
+Chris Buescher,3989,Frd,17,45,2,191.681,46.953,RFK Racing,False,False,9,3,pitting in
+Jimmie Johnson,1717,Tyt,84,44,22,191.657,46.959,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,46,17,191.628,46.966,Legacy Motor Club,False,False,19,9,pitting in
+Riley Herbst,4269,Tyt,35,46,16,191.502,46.997,23XI Racing,False,False,13,12,green
+Christopher Bell,4153,Tyt,20,57,17,191.489,47.000,Joe Gibbs Racing,False,False,4,10,green
+Todd Gilliland,4231,Frd,34,57,14,191.436,47.013,Front Row Motorsports,False,False,7,7,green
+BJ McLeod,3973,Chv,78,55,19,191.432,47.014,Live Fast Motorsports,False,False,21,17,green
+Brad Keselowski,1816,Frd,6,45,1,191.416,47.018,RFK Racing,False,False,8,20,"pitting in,pitting in"
+Noah Gragson,4224,Frd,4,33,14,191.367,47.030,Front Row Motorsports,False,False,11,18,green
+Cody Ware,4125,Frd,51,57,16,191.318,47.042,Rick Ware Racing,False,False,22,15,green
+Kyle Larson,4030,Chv,5,55,16,191.266,47.055,Hendrick Motorsports,False,False,5,11,green
+Chris Buescher,3989,Frd,17,55,1,191.079,47.101,RFK Racing,False,False,9,3,green
+Cole Custer,4104,Frd,41,55,12,191.046,47.109,Haas Factory Team,False,False,16,16,green
+Corey LaJoie,4096,Frd,01,55,4,191.034,47.112,Rick Ware Racing,False,False,17,6,green
+Shane Van Gisbergen,4469,Chv,88,55,8,191.010,47.118,Trackhouse Racing,False,False,15,14,green
+Anthony Alfredo,4301,Chv,62,55,10,191.010,47.118,Beard Motorsports,False,True,20,13,green
+Ryan Blaney,4023,Frd,12,55,6,190.990,47.123,Team Penske,False,False,10,8,green
+Anthony Alfredo,4301,Chv,62,59,18,190.957,47.131,Beard Motorsports,False,True,20,13,green
+Jimmie Johnson,1717,Tyt,84,56,19,190.888,47.148,Legacy Motor Club,False,False,14,19,green
+Christopher Bell,4153,Tyt,20,55,14,190.884,47.149,Joe Gibbs Racing,False,False,4,10,green
+Riley Herbst,4269,Tyt,35,55,13,190.856,47.156,23XI Racing,False,False,13,12,green
+Cody Ware,4125,Frd,51,55,11,190.811,47.167,Rick Ware Racing,False,False,22,15,green
+Todd Gilliland,4231,Frd,34,55,9,190.783,47.174,Front Row Motorsports,False,False,7,7,green
+Erik Jones,4059,Tyt,43,55,7,190.771,47.177,Legacy Motor Club,False,False,18,2,green
+Noah Gragson,4224,Frd,4,55,5,190.755,47.181,Front Row Motorsports,False,False,11,18,green
+Joey Logano,3859,Frd,22,55,3,190.718,47.190,Team Penske,False,False,2,5,green
+Shane Van Gisbergen,4469,Chv,88,46,13,190.710,47.192,Trackhouse Racing,False,False,15,14,green
+Austin Cindric,4180,Frd,2,55,2,190.642,47.209,Team Penske,False,False,1,1,green
+Alex Bowman,4045,Chv,48,46,12,190.597,47.220,Hendrick Motorsports,False,False,6,22,green
+Denny Hamlin,1361,Tyt,11,55,17,190.589,47.222,Joe Gibbs Racing,False,False,3,4,green
+Riley Herbst,4269,Tyt,35,58,18,190.577,47.225,23XI Racing,False,False,13,12,green
+BJ McLeod,3973,Chv,78,35,21,190.569,47.227,Live Fast Motorsports,False,False,21,17,green
+Austin Cindric,4180,Frd,2,47,3,190.488,47.247,Team Penske,False,False,1,1,green
+Joey Logano,3859,Frd,22,47,4,190.476,47.250,Team Penske,False,False,2,5,green
+Corey LaJoie,4096,Frd,01,47,5,190.243,47.308,Rick Ware Racing,False,False,17,6,green
+Shane Van Gisbergen,4469,Chv,88,35,19,190.130,47.336,Trackhouse Racing,False,False,15,14,green
+Ryan Blaney,4023,Frd,12,47,6,190.078,47.349,Team Penske,False,False,10,8,green
+Cole Custer,4104,Frd,41,45,3,189.986,47.372,Haas Factory Team,False,False,16,16,pitting in
+Anthony Alfredo,4301,Chv,62,33,11,189.942,47.383,Beard Motorsports,False,True,20,13,green
+Riley Herbst,4269,Tyt,35,33,20,189.921,47.388,23XI Racing,False,False,13,12,green
+Alex Bowman,4045,Chv,48,33,9,189.797,47.419,Hendrick Motorsports,False,False,6,22,green
+Joey Logano,3859,Frd,22,33,8,189.793,47.420,Team Penske,False,False,2,5,green
+Cody Ware,4125,Frd,51,35,20,189.773,47.425,Rick Ware Racing,False,False,22,15,green
+Ryan Blaney,4023,Frd,12,33,2,189.765,47.427,Team Penske,False,False,10,8,green
+Cody Ware,4125,Frd,51,33,19,189.733,47.435,Rick Ware Racing,False,False,22,15,green
+Austin Cindric,4180,Frd,2,33,5,189.721,47.438,Team Penske,False,False,1,1,green
+John Hunter Nemechek,4092,Tyt,42,33,17,189.649,47.456,Legacy Motor Club,False,False,19,9,green
+Kyle Larson,4030,Chv,5,33,6,189.649,47.456,Hendrick Motorsports,False,False,5,11,green
+BJ McLeod,3973,Chv,78,33,22,189.605,47.467,Live Fast Motorsports,False,False,21,17,green
+Christopher Bell,4153,Tyt,20,35,15,189.593,47.470,Joe Gibbs Racing,False,False,4,10,green
+Shane Van Gisbergen,4469,Chv,88,39,16,189.569,47.476,Trackhouse Racing,False,False,15,14,green
+Daniel Suarez,4113,Chv,99,38,1,189.557,47.479,Trackhouse Racing,False,False,12,21,green
+Denny Hamlin,1361,Tyt,11,38,2,189.530,47.486,Joe Gibbs Racing,False,False,3,4,green
+Noah Gragson,4224,Frd,4,44,4,189.522,47.488,Front Row Motorsports,False,False,11,18,pitting in
+Chris Buescher,3989,Frd,17,35,18,189.518,47.489,RFK Racing,False,False,9,3,green
+Riley Herbst,4269,Tyt,35,34,14,189.494,47.495,23XI Racing,False,False,13,12,green
+Daniel Suarez,4113,Chv,99,33,1,189.494,47.495,Trackhouse Racing,False,False,12,21,green
+Riley Herbst,4269,Tyt,35,35,13,189.486,47.497,23XI Racing,False,False,13,12,green
+Shane Van Gisbergen,4469,Chv,88,43,14,189.418,47.514,Trackhouse Racing,False,False,15,14,pitting in
+John Hunter Nemechek,4092,Tyt,42,43,17,189.410,47.516,Legacy Motor Club,False,False,19,9,pitting in
+Corey LaJoie,4096,Frd,01,44,5,189.406,47.517,Rick Ware Racing,False,False,17,6,pitting in
+Joey Logano,3859,Frd,22,44,3,189.402,47.518,Team Penske,False,False,2,5,pitting in
+Kyle Larson,4030,Chv,5,38,3,189.398,47.519,Hendrick Motorsports,False,False,5,11,green
+Cole Custer,4104,Frd,41,44,7,189.398,47.519,Haas Factory Team,False,False,16,16,green
+Austin Cindric,4180,Frd,2,44,2,189.362,47.528,Team Penske,False,False,1,1,pitting in
+Denny Hamlin,1361,Tyt,11,33,3,189.362,47.528,Joe Gibbs Racing,False,False,3,4,green
+Brad Keselowski,1816,Frd,6,44,6,189.362,47.528,RFK Racing,False,False,8,20,green
+Todd Gilliland,4231,Frd,34,44,9,189.342,47.533,Front Row Motorsports,False,False,7,7,pitting in
+Anthony Alfredo,4301,Chv,62,38,5,189.334,47.535,Beard Motorsports,False,True,20,13,green
+Kyle Larson,4030,Chv,5,37,5,189.330,47.536,Hendrick Motorsports,False,False,5,11,green
+John Hunter Nemechek,4092,Tyt,42,34,11,189.326,47.537,Legacy Motor Club,False,False,19,9,green
+Todd Gilliland,4231,Frd,34,35,17,189.326,47.537,Front Row Motorsports,False,False,7,7,green
+Ryan Blaney,4023,Frd,12,44,1,189.322,47.538,Team Penske,False,False,10,8,pitting in
+Noah Gragson,4224,Frd,4,35,9,189.318,47.539,Front Row Motorsports,False,False,11,18,green
+Cole Custer,4104,Frd,41,35,16,189.314,47.540,Haas Factory Team,False,False,16,16,green
+Corey LaJoie,4096,Frd,01,35,12,189.310,47.541,Rick Ware Racing,False,False,17,6,green
+Brad Keselowski,1816,Frd,6,35,14,189.310,47.541,RFK Racing,False,False,8,20,green
+Austin Cindric,4180,Frd,2,34,3,189.286,47.547,Team Penske,False,False,1,1,green
+Joey Logano,3859,Frd,22,34,5,189.259,47.554,Team Penske,False,False,2,5,green
+Ryan Blaney,4023,Frd,12,34,1,189.255,47.555,Team Penske,False,False,10,8,green
+Denny Hamlin,1361,Tyt,11,37,3,189.251,47.556,Joe Gibbs Racing,False,False,3,4,green
+Chris Buescher,3989,Frd,17,44,8,189.251,47.556,RFK Racing,False,False,9,3,green
+Ryan Blaney,4023,Frd,12,43,5,189.239,47.559,Team Penske,False,False,10,8,green
+Cole Custer,4104,Frd,41,33,16,189.231,47.561,Haas Factory Team,False,False,16,16,green
+Erik Jones,4059,Tyt,43,38,10,189.227,47.562,Legacy Motor Club,False,False,18,2,green
+Erik Jones,4059,Tyt,43,43,9,189.203,47.568,Legacy Motor Club,False,False,18,2,pitting in
+Christopher Bell,4153,Tyt,20,43,12,189.195,47.570,Joe Gibbs Racing,False,False,4,10,pitting in
+Daniel Suarez,4113,Chv,99,37,1,189.183,47.573,Trackhouse Racing,False,False,12,21,green
+Shane Van Gisbergen,4469,Chv,88,36,18,189.179,47.574,Trackhouse Racing,False,False,15,14,green
+Alex Bowman,4045,Chv,48,38,8,189.179,47.574,Hendrick Motorsports,False,False,6,22,green
+Anthony Alfredo,4301,Chv,62,35,7,189.175,47.575,Beard Motorsports,False,True,20,13,green
+Chris Buescher,3989,Frd,17,33,18,189.175,47.575,RFK Racing,False,False,9,3,green
+Jimmie Johnson,1717,Tyt,84,43,22,189.175,47.575,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,36,15,189.171,47.576,Haas Factory Team,False,False,16,16,green
+Chris Buescher,3989,Frd,17,36,17,189.171,47.576,RFK Racing,False,False,9,3,green
+Cody Ware,4125,Frd,51,37,20,189.163,47.578,Rick Ware Racing,False,False,22,15,green
+Shane Van Gisbergen,4469,Chv,88,37,17,189.147,47.582,Trackhouse Racing,False,False,15,14,green
+Alex Bowman,4045,Chv,48,37,8,189.143,47.583,Hendrick Motorsports,False,False,6,22,green
+Todd Gilliland,4231,Frd,34,37,18,189.143,47.583,Front Row Motorsports,False,False,7,7,green
+Austin Cindric,4180,Frd,2,43,7,189.139,47.584,Team Penske,False,False,1,1,green
+Riley Herbst,4269,Tyt,35,38,12,189.127,47.587,23XI Racing,False,False,13,12,green
+Joey Logano,3859,Frd,22,43,8,189.123,47.588,Team Penske,False,False,2,5,green
+Corey LaJoie,4096,Frd,01,37,11,189.123,47.588,Rick Ware Racing,False,False,17,6,green
+BJ McLeod,3973,Chv,78,39,21,189.119,47.589,Live Fast Motorsports,False,False,21,17,green
+Christopher Bell,4153,Tyt,20,38,14,189.115,47.590,Joe Gibbs Racing,False,False,4,10,green
+John Hunter Nemechek,4092,Tyt,42,35,11,189.111,47.591,Legacy Motor Club,False,False,19,9,green
+Brad Keselowski,1816,Frd,6,37,13,189.111,47.591,RFK Racing,False,False,8,20,green
+Shane Van Gisbergen,4469,Chv,88,33,21,189.107,47.592,Trackhouse Racing,False,False,15,14,green
+Riley Herbst,4269,Tyt,35,43,10,189.107,47.592,23XI Racing,False,False,13,12,pitting in
+Christopher Bell,4153,Tyt,20,39,14,189.107,47.592,Joe Gibbs Racing,False,False,4,10,green
+Corey LaJoie,4096,Frd,01,33,13,189.095,47.595,Rick Ware Racing,False,False,17,6,green
+Kyle Larson,4030,Chv,5,60,11,189.092,47.596,Hendrick Motorsports,False,False,5,11,pitting in
+Brad Keselowski,1816,Frd,6,33,15,189.084,47.598,RFK Racing,False,False,8,20,green
+Corey LaJoie,4096,Frd,01,43,13,189.072,47.601,Rick Ware Racing,False,False,17,6,green
+Brad Keselowski,1816,Frd,6,36,13,189.072,47.601,RFK Racing,False,False,8,20,green
+Christopher Bell,4153,Tyt,20,33,10,189.068,47.602,Joe Gibbs Racing,False,False,4,10,green
+Alex Bowman,4045,Chv,48,43,6,189.064,47.603,Hendrick Motorsports,False,False,6,22,pitting in
+Erik Jones,4059,Tyt,43,37,10,189.064,47.603,Legacy Motor Club,False,False,18,2,green
+Daniel Suarez,4113,Chv,99,39,1,189.060,47.604,Trackhouse Racing,False,False,12,21,green
+Noah Gragson,4224,Frd,4,37,9,189.056,47.605,Front Row Motorsports,False,False,11,18,green
+Riley Herbst,4269,Tyt,35,37,12,189.044,47.608,23XI Racing,False,False,13,12,green
+Noah Gragson,4224,Frd,4,36,8,189.044,47.608,Front Row Motorsports,False,False,11,18,green
+Todd Gilliland,4231,Frd,34,33,12,189.040,47.609,Front Row Motorsports,False,False,7,7,green
+Riley Herbst,4269,Tyt,35,36,12,189.036,47.610,23XI Racing,False,False,13,12,green
+Anthony Alfredo,4301,Chv,62,37,6,189.032,47.611,Beard Motorsports,False,True,20,13,green
+Riley Herbst,4269,Tyt,35,39,11,189.032,47.611,23XI Racing,False,False,13,12,green
+Cole Custer,4104,Frd,41,37,14,189.028,47.612,Haas Factory Team,False,False,16,16,green
+Chris Buescher,3989,Frd,17,37,16,189.028,47.612,RFK Racing,False,False,9,3,green
+Noah Gragson,4224,Frd,4,39,9,189.020,47.614,Front Row Motorsports,False,False,11,18,green
+Christopher Bell,4153,Tyt,20,36,14,189.016,47.615,Joe Gibbs Racing,False,False,4,10,green
+Cody Ware,4125,Frd,51,44,10,189.008,47.617,Rick Ware Racing,False,False,22,15,green
+Noah Gragson,4224,Frd,4,43,11,189.008,47.617,Front Row Motorsports,False,False,11,18,green
+Brad Keselowski,1816,Frd,6,43,15,189.008,47.617,RFK Racing,False,False,8,20,green
+Alex Bowman,4045,Chv,48,39,8,189.004,47.618,Hendrick Motorsports,False,False,6,22,green
+Erik Jones,4059,Tyt,43,39,10,189.004,47.618,Legacy Motor Club,False,False,18,2,green
+Anthony Alfredo,4301,Chv,62,34,8,188.996,47.620,Beard Motorsports,False,True,20,13,green
+Joey Logano,3859,Frd,22,39,7,188.996,47.620,Team Penske,False,False,2,5,green
+Corey LaJoie,4096,Frd,01,39,12,188.992,47.621,Rick Ware Racing,False,False,17,6,green
+Corey LaJoie,4096,Frd,01,36,11,188.988,47.622,Rick Ware Racing,False,False,17,6,green
+John Hunter Nemechek,4092,Tyt,42,39,19,188.988,47.622,Legacy Motor Club,False,False,19,9,green
+Denny Hamlin,1361,Tyt,11,39,2,188.988,47.622,Joe Gibbs Racing,False,False,3,4,green
+Daniel Suarez,4113,Chv,99,35,2,188.984,47.623,Trackhouse Racing,False,False,12,21,green
+Austin Cindric,4180,Frd,2,35,3,188.972,47.626,Team Penske,False,False,1,1,green
+Kyle Larson,4030,Chv,5,35,6,188.968,47.627,Hendrick Motorsports,False,False,5,11,green
+Ryan Blaney,4023,Frd,12,39,4,188.968,47.627,Team Penske,False,False,10,8,green
+Ryan Blaney,4023,Frd,12,35,1,188.964,47.628,Team Penske,False,False,10,8,green
+Denny Hamlin,1361,Tyt,11,34,4,188.964,47.628,Joe Gibbs Racing,False,False,3,4,green
+Alex Bowman,4045,Chv,48,35,8,188.961,47.629,Hendrick Motorsports,False,False,6,22,green
+Denny Hamlin,1361,Tyt,11,35,4,188.957,47.630,Joe Gibbs Racing,False,False,3,4,green
+Joey Logano,3859,Frd,22,35,5,188.949,47.632,Team Penske,False,False,2,5,green
+Ryan Blaney,4023,Frd,12,38,4,188.945,47.633,Team Penske,False,False,10,8,green
+Brad Keselowski,1816,Frd,6,39,13,188.941,47.634,RFK Racing,False,False,8,20,green
+Austin Cindric,4180,Frd,2,39,5,188.937,47.635,Team Penske,False,False,1,1,green
+Erik Jones,4059,Tyt,43,33,4,188.937,47.635,Legacy Motor Club,False,False,18,2,green
+Austin Cindric,4180,Frd,2,38,6,188.933,47.636,Team Penske,False,False,1,1,green
+Noah Gragson,4224,Frd,4,34,10,188.929,47.637,Front Row Motorsports,False,False,11,18,green
+Chris Buescher,3989,Frd,17,43,18,188.921,47.639,RFK Racing,False,False,9,3,green
+Jimmie Johnson,1717,Tyt,84,33,7,188.921,47.639,Legacy Motor Club,False,False,14,19,pitting in
+Todd Gilliland,4231,Frd,34,43,19,188.913,47.641,Front Row Motorsports,False,False,7,7,green
+Cole Custer,4104,Frd,41,43,16,188.913,47.641,Haas Factory Team,False,False,16,16,green
+Kyle Larson,4030,Chv,5,39,3,188.901,47.644,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Frd,51,39,20,188.897,47.645,Rick Ware Racing,False,False,22,15,green
+Anthony Alfredo,4301,Chv,62,39,6,188.889,47.647,Beard Motorsports,False,True,20,13,green
+Christopher Bell,4153,Tyt,20,37,15,188.889,47.647,Joe Gibbs Racing,False,False,4,10,green
+Anthony Alfredo,4301,Chv,62,36,7,188.889,47.647,Beard Motorsports,False,True,20,13,green
+Erik Jones,4059,Tyt,43,35,10,188.889,47.647,Legacy Motor Club,False,False,18,2,green
+Anthony Alfredo,4301,Chv,62,43,4,188.885,47.648,Beard Motorsports,False,True,20,13,pitting in
+Todd Gilliland,4231,Frd,34,39,18,188.877,47.650,Front Row Motorsports,False,False,7,7,green
+Chris Buescher,3989,Frd,17,38,16,188.873,47.651,RFK Racing,False,False,9,3,green
+Cole Custer,4104,Frd,41,38,15,188.869,47.652,Haas Factory Team,False,False,16,16,green
+Joey Logano,3859,Frd,22,38,7,188.865,47.653,Team Penske,False,False,2,5,green
+Denny Hamlin,1361,Tyt,11,43,2,188.865,47.653,Joe Gibbs Racing,False,False,3,4,pitting in
+Daniel Suarez,4113,Chv,99,43,1,188.861,47.654,Trackhouse Racing,False,False,12,21,pitting in
+Jimmie Johnson,1717,Tyt,84,42,22,188.861,47.654,Legacy Motor Club,False,False,14,19,green
+Kyle Larson,4030,Chv,5,34,6,188.857,47.655,Hendrick Motorsports,False,False,5,11,green
+Ryan Blaney,4023,Frd,12,37,2,188.853,47.656,Team Penske,False,False,10,8,green
+Noah Gragson,4224,Frd,4,38,9,188.849,47.657,Front Row Motorsports,False,False,11,18,green
+Chris Buescher,3989,Frd,17,39,17,188.849,47.657,RFK Racing,False,False,9,3,green
+Cole Custer,4104,Frd,41,39,15,188.849,47.657,Haas Factory Team,False,False,16,16,green
+Kyle Larson,4030,Chv,5,43,3,188.849,47.657,Hendrick Motorsports,False,False,5,11,pitting in
+Alex Bowman,4045,Chv,48,34,7,188.846,47.658,Hendrick Motorsports,False,False,6,22,green
+Jimmie Johnson,1717,Tyt,84,45,22,188.842,47.659,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,40,17,188.842,47.659,Legacy Motor Club,False,False,19,9,green
+Shane Van Gisbergen,4469,Chv,88,32,18,188.834,47.661,Trackhouse Racing,False,False,15,14,green
+Corey LaJoie,4096,Frd,01,38,11,188.822,47.664,Rick Ware Racing,False,False,17,6,green
+Joey Logano,3859,Frd,22,36,5,188.818,47.665,Team Penske,False,False,2,5,green
+Daniel Suarez,4113,Chv,99,34,2,188.810,47.667,Trackhouse Racing,False,False,12,21,green
+BJ McLeod,3973,Chv,78,37,21,188.810,47.667,Live Fast Motorsports,False,False,21,17,green
+BJ McLeod,3973,Chv,78,38,21,188.806,47.668,Live Fast Motorsports,False,False,21,17,green
+John Hunter Nemechek,4092,Tyt,42,38,19,188.802,47.669,Legacy Motor Club,False,False,19,9,green
+Riley Herbst,4269,Tyt,35,60,11,188.794,47.671,23XI Racing,False,False,13,12,caution
+Cody Ware,4125,Frd,51,43,21,188.794,47.671,Rick Ware Racing,False,False,22,15,green
+Brad Keselowski,1816,Frd,6,38,13,188.786,47.673,RFK Racing,False,False,8,20,green
+Austin Cindric,4180,Frd,2,37,4,188.782,47.674,Team Penske,False,False,1,1,green
+Austin Cindric,4180,Frd,2,36,3,188.758,47.680,Team Penske,False,False,1,1,green
+Daniel Suarez,4113,Chv,99,36,2,188.750,47.682,Trackhouse Racing,False,False,12,21,green
+Ryan Blaney,4023,Frd,12,36,1,188.743,47.684,Team Penske,False,False,10,8,green
+Joey Logano,3859,Frd,22,37,7,188.739,47.685,Team Penske,False,False,2,5,green
+Todd Gilliland,4231,Frd,34,38,18,188.739,47.685,Front Row Motorsports,False,False,7,7,green
+Denny Hamlin,1361,Tyt,11,36,4,188.695,47.696,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,36,6,188.667,47.703,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Frd,51,38,20,188.652,47.707,Rick Ware Racing,False,False,22,15,green
+Shane Van Gisbergen,4469,Chv,88,38,17,188.640,47.710,Trackhouse Racing,False,False,15,14,green
+Erik Jones,4059,Tyt,43,36,10,188.624,47.714,Legacy Motor Club,False,False,18,2,green
+Anthony Alfredo,4301,Chv,62,42,4,188.592,47.722,Beard Motorsports,False,True,20,13,green
+BJ McLeod,3973,Chv,78,43,20,188.580,47.725,Live Fast Motorsports,False,False,21,17,pitting in
+Alex Bowman,4045,Chv,48,36,9,188.541,47.735,Hendrick Motorsports,False,False,6,22,green
+Chris Buescher,3989,Frd,17,32,16,188.525,47.739,RFK Racing,False,False,9,3,green
+Cody Ware,4125,Frd,51,36,20,188.486,47.749,Rick Ware Racing,False,False,22,15,green
+Brad Keselowski,1816,Frd,6,32,14,188.482,47.750,RFK Racing,False,False,8,20,green
+Cole Custer,4104,Frd,41,32,15,188.438,47.761,Haas Factory Team,False,False,16,16,green
+Todd Gilliland,4231,Frd,34,36,19,188.415,47.767,Front Row Motorsports,False,False,7,7,green
+John Hunter Nemechek,4092,Tyt,42,42,18,188.407,47.769,Legacy Motor Club,False,False,19,9,green
+Kyle Larson,4030,Chv,5,42,3,188.336,47.787,Hendrick Motorsports,False,False,5,11,green
+BJ McLeod,3973,Chv,78,36,21,188.316,47.792,Live Fast Motorsports,False,False,21,17,green
+BJ McLeod,3973,Chv,78,42,20,188.304,47.795,Live Fast Motorsports,False,False,21,17,green
+Shane Van Gisbergen,4469,Chv,88,42,15,188.300,47.796,Trackhouse Racing,False,False,15,14,green
+Daniel Suarez,4113,Chv,99,42,1,188.288,47.799,Trackhouse Racing,False,False,12,21,green
+Alex Bowman,4045,Chv,48,42,6,188.281,47.801,Hendrick Motorsports,False,False,6,22,green
+Denny Hamlin,1361,Tyt,11,42,2,188.277,47.802,Joe Gibbs Racing,False,False,3,4,green
+Cole Custer,4104,Frd,41,42,16,188.269,47.804,Haas Factory Team,False,False,16,16,green
+Christopher Bell,4153,Tyt,20,42,13,188.229,47.814,Joe Gibbs Racing,False,False,4,10,green
+Jimmie Johnson,1717,Tyt,84,40,22,188.229,47.814,Legacy Motor Club,False,False,14,19,green
+Chris Buescher,3989,Frd,17,42,17,188.225,47.815,RFK Racing,False,False,9,3,green
+Corey LaJoie,4096,Frd,01,34,12,188.222,47.816,Rick Ware Racing,False,False,17,6,green
+Anthony Alfredo,4301,Chv,62,60,12,188.214,47.818,Beard Motorsports,False,True,20,13,pitting in
+Kyle Larson,4030,Chv,5,40,3,188.210,47.819,Hendrick Motorsports,False,False,5,11,green
+Brad Keselowski,1816,Frd,6,34,13,188.182,47.826,RFK Racing,False,False,8,20,green
+Corey LaJoie,4096,Frd,01,42,12,188.166,47.830,Rick Ware Racing,False,False,17,6,green
+Riley Herbst,4269,Tyt,35,42,11,188.155,47.833,23XI Racing,False,False,13,12,green
+Austin Cindric,4180,Frd,2,42,7,188.147,47.835,Team Penske,False,False,1,1,green
+Brad Keselowski,1816,Frd,6,42,14,188.143,47.836,RFK Racing,False,False,8,20,green
+Riley Herbst,4269,Tyt,35,40,11,188.135,47.838,23XI Racing,False,False,13,12,green
+Noah Gragson,4224,Frd,4,42,10,188.135,47.838,Front Row Motorsports,False,False,11,18,green
+Erik Jones,4059,Tyt,43,42,9,188.127,47.840,Legacy Motor Club,False,False,18,2,green
+Christopher Bell,4153,Tyt,20,40,13,188.107,47.845,Joe Gibbs Racing,False,False,4,10,green
+Joey Logano,3859,Frd,22,42,8,188.096,47.848,Team Penske,False,False,2,5,green
+BJ McLeod,3973,Chv,78,32,22,188.084,47.851,Live Fast Motorsports,False,False,21,17,green
+Ryan Blaney,4023,Frd,12,42,5,188.080,47.852,Team Penske,False,False,10,8,green
+Cole Custer,4104,Frd,41,34,15,188.080,47.852,Haas Factory Team,False,False,16,16,green
+Denny Hamlin,1361,Tyt,11,40,2,188.076,47.853,Joe Gibbs Racing,False,False,3,4,green
+Todd Gilliland,4231,Frd,34,42,19,188.072,47.854,Front Row Motorsports,False,False,7,7,green
+Cody Ware,4125,Frd,51,42,21,188.060,47.857,Rick Ware Racing,False,False,22,15,green
+Todd Gilliland,4231,Frd,34,40,19,188.056,47.858,Front Row Motorsports,False,False,7,7,green
+John Hunter Nemechek,4092,Tyt,42,36,16,188.048,47.860,Legacy Motor Club,False,False,19,9,green
+BJ McLeod,3973,Chv,78,40,21,188.045,47.861,Live Fast Motorsports,False,False,21,17,green
+Jimmie Johnson,1717,Tyt,84,41,22,188.041,47.862,Legacy Motor Club,False,False,14,19,green
+Erik Jones,4059,Tyt,43,40,9,188.033,47.864,Legacy Motor Club,False,False,18,2,green
+Cody Ware,4125,Frd,51,40,20,188.029,47.865,Rick Ware Racing,False,False,22,15,green
+Shane Van Gisbergen,4469,Chv,88,40,15,188.021,47.867,Trackhouse Racing,False,False,15,14,green
+BJ McLeod,3973,Chv,78,41,20,188.017,47.868,Live Fast Motorsports,False,False,21,17,green
+Anthony Alfredo,4301,Chv,62,40,4,188.013,47.869,Beard Motorsports,False,True,20,13,green
+Daniel Suarez,4113,Chv,99,40,1,188.013,47.869,Trackhouse Racing,False,False,12,21,green
+Alex Bowman,4045,Chv,48,40,7,187.990,47.875,Hendrick Motorsports,False,False,6,22,green
+Chris Buescher,3989,Frd,17,34,18,187.978,47.878,RFK Racing,False,False,9,3,green
+Austin Cindric,4180,Frd,2,32,8,187.891,47.900,Team Penske,False,False,1,1,green
+Corey LaJoie,4096,Frd,01,32,11,187.884,47.902,Rick Ware Racing,False,False,17,6,green
+Chris Buescher,3989,Frd,17,40,18,187.872,47.905,RFK Racing,False,False,9,3,green
+Joey Logano,3859,Frd,22,32,10,187.856,47.909,Team Penske,False,False,2,5,green
+Anthony Alfredo,4301,Chv,62,32,13,187.844,47.912,Beard Motorsports,False,True,20,13,green
+Cole Custer,4104,Frd,41,40,16,187.840,47.913,Haas Factory Team,False,False,16,16,green
+Erik Jones,4059,Tyt,43,34,9,187.829,47.916,Legacy Motor Club,False,False,18,2,green
+Brad Keselowski,1816,Frd,6,40,14,187.797,47.924,RFK Racing,False,False,8,20,green
+John Hunter Nemechek,4092,Tyt,42,37,19,187.786,47.927,Legacy Motor Club,False,False,19,9,green
+Christopher Bell,4153,Tyt,20,17,9,187.774,47.930,Joe Gibbs Racing,False,False,4,10,green
+Denny Hamlin,1361,Tyt,11,41,2,187.754,47.935,Joe Gibbs Racing,False,False,3,4,green
+Corey LaJoie,4096,Frd,01,40,12,187.743,47.938,Rick Ware Racing,False,False,17,6,green
+Daniel Suarez,4113,Chv,99,41,1,187.739,47.939,Trackhouse Racing,False,False,12,21,green
+Kyle Larson,4030,Chv,5,41,3,187.739,47.939,Hendrick Motorsports,False,False,5,11,green
+Alex Bowman,4045,Chv,48,41,6,187.719,47.944,Hendrick Motorsports,False,False,6,22,green
+Daniel Suarez,4113,Chv,99,46,11,187.711,47.946,Trackhouse Racing,False,False,12,21,green
+Noah Gragson,4224,Frd,4,32,20,187.688,47.952,Front Row Motorsports,False,False,11,18,green
+Noah Gragson,4224,Frd,4,40,10,187.688,47.952,Front Row Motorsports,False,False,11,18,green
+Joey Logano,3859,Frd,22,40,8,187.672,47.956,Team Penske,False,False,2,5,green
+Anthony Alfredo,4301,Chv,62,41,4,187.652,47.961,Beard Motorsports,False,True,20,13,green
+Austin Cindric,4180,Frd,2,40,6,187.641,47.964,Team Penske,False,False,1,1,green
+Shane Van Gisbergen,4469,Chv,88,34,20,187.637,47.965,Trackhouse Racing,False,False,15,14,green
+Todd Gilliland,4231,Frd,34,32,9,187.613,47.971,Front Row Motorsports,False,False,7,7,green
+Ryan Blaney,4023,Frd,12,41,5,187.570,47.982,Team Penske,False,False,10,8,green
+Ryan Blaney,4023,Frd,12,40,5,187.570,47.982,Team Penske,False,False,10,8,green
+Austin Cindric,4180,Frd,2,41,7,187.535,47.991,Team Penske,False,False,1,1,green
+Erik Jones,4059,Tyt,43,41,9,187.516,47.996,Legacy Motor Club,False,False,18,2,green
+Joey Logano,3859,Frd,22,41,8,187.508,47.998,Team Penske,False,False,2,5,green
+Riley Herbst,4269,Tyt,35,41,11,187.484,48.004,23XI Racing,False,False,13,12,green
+Noah Gragson,4224,Frd,4,41,10,187.477,48.006,Front Row Motorsports,False,False,11,18,green
+Daniel Suarez,4113,Chv,99,17,5,187.461,48.010,Trackhouse Racing,False,False,12,21,green
+Brad Keselowski,1816,Frd,6,41,14,187.453,48.012,RFK Racing,False,False,8,20,green
+Corey LaJoie,4096,Frd,01,41,12,187.426,48.019,Rick Ware Racing,False,False,17,6,green
+Christopher Bell,4153,Tyt,20,32,6,187.418,48.021,Joe Gibbs Racing,False,False,4,10,green
+Christopher Bell,4153,Tyt,20,41,13,187.391,48.028,Joe Gibbs Racing,False,False,4,10,green
+Cole Custer,4104,Frd,41,41,15,187.371,48.033,Haas Factory Team,False,False,16,16,green
+Shane Van Gisbergen,4469,Chv,88,19,20,187.367,48.034,Trackhouse Racing,False,False,15,14,green
+Cody Ware,4125,Frd,51,34,19,187.356,48.037,Rick Ware Racing,False,False,22,15,green
+Todd Gilliland,4231,Frd,34,41,19,187.352,48.038,Front Row Motorsports,False,False,7,7,green
+Chris Buescher,3989,Frd,17,41,17,187.340,48.041,RFK Racing,False,False,9,3,green
+BJ McLeod,3973,Chv,78,34,21,187.266,48.060,Live Fast Motorsports,False,False,21,17,green
+Cody Ware,4125,Frd,51,41,21,187.266,48.060,Rick Ware Racing,False,False,22,15,green
+Denny Hamlin,1361,Tyt,11,32,3,187.219,48.072,Joe Gibbs Racing,False,False,3,4,green
+Shane Van Gisbergen,4469,Chv,88,41,16,187.219,48.072,Trackhouse Racing,False,False,15,14,green
+Daniel Suarez,4113,Chv,99,32,1,187.184,48.081,Trackhouse Racing,False,False,12,21,green
+Ryan Blaney,4023,Frd,12,32,5,187.176,48.083,Team Penske,False,False,10,8,green
+Corey LaJoie,4096,Frd,01,19,17,187.169,48.085,Rick Ware Racing,False,False,17,6,green
+Kyle Larson,4030,Chv,5,32,7,187.134,48.094,Hendrick Motorsports,False,False,5,11,green
+Erik Jones,4059,Tyt,43,32,2,187.130,48.095,Legacy Motor Club,False,False,18,2,green
+John Hunter Nemechek,4092,Tyt,42,19,14,187.118,48.098,Legacy Motor Club,False,False,19,9,green
+Alex Bowman,4045,Chv,48,32,12,187.087,48.106,Hendrick Motorsports,False,False,6,22,green
+Jimmie Johnson,1717,Tyt,84,32,4,187.071,48.110,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,41,18,187.067,48.111,Legacy Motor Club,False,False,19,9,green
+Cody Ware,4125,Frd,51,19,19,186.959,48.139,Rick Ware Racing,False,False,22,15,green
+Riley Herbst,4269,Tyt,35,18,7,186.784,48.184,23XI Racing,False,False,13,12,green
+Christopher Bell,4153,Tyt,20,18,5,186.776,48.186,Joe Gibbs Racing,False,False,4,10,green
+Todd Gilliland,4231,Frd,34,34,17,186.734,48.197,Front Row Motorsports,False,False,7,7,green
+BJ McLeod,3973,Chv,78,19,22,186.734,48.197,Live Fast Motorsports,False,False,21,17,green
+John Hunter Nemechek,4092,Tyt,42,17,18,186.703,48.205,Legacy Motor Club,False,False,19,9,green
+Daniel Suarez,4113,Chv,99,18,3,186.648,48.219,Trackhouse Racing,False,False,12,21,green
+Christopher Bell,4153,Tyt,20,34,16,186.641,48.221,Joe Gibbs Racing,False,False,4,10,green
+Anthony Alfredo,4301,Chv,62,17,15,186.606,48.230,Beard Motorsports,False,True,20,13,green
+Ryan Blaney,4023,Frd,12,18,1,186.567,48.240,Team Penske,False,False,10,8,green
+Anthony Alfredo,4301,Chv,62,18,11,186.552,48.244,Beard Motorsports,False,True,20,13,green
+Shane Van Gisbergen,4469,Chv,88,60,13,186.528,48.250,Trackhouse Racing,False,False,15,14,pitting in
+Cody Ware,4125,Frd,51,32,19,186.413,48.280,Rick Ware Racing,False,False,22,15,green
+Riley Herbst,4269,Tyt,35,32,21,186.409,48.281,23XI Racing,False,False,13,12,green
+Corey LaJoie,4096,Frd,01,2,16,186.362,48.293,Rick Ware Racing,False,False,17,6,green
+Shane Van Gisbergen,4469,Chv,88,2,14,186.335,48.300,Trackhouse Racing,False,False,15,14,green
+Cody Ware,4125,Frd,51,60,14,186.305,48.308,Rick Ware Racing,False,False,22,15,pitting in
+Jimmie Johnson,1717,Tyt,84,19,2,186.293,48.311,Legacy Motor Club,False,False,14,19,green
+Cody Ware,4125,Frd,51,2,19,186.285,48.313,Rick Ware Racing,False,False,22,15,green
+Erik Jones,4059,Tyt,43,19,1,186.254,48.321,Legacy Motor Club,False,False,18,2,green
+Anthony Alfredo,4301,Chv,62,19,11,186.216,48.331,Beard Motorsports,False,True,20,13,green
+Riley Herbst,4269,Tyt,35,2,11,186.185,48.339,23XI Racing,False,False,13,12,green
+John Hunter Nemechek,4092,Tyt,42,3,21,186.166,48.344,Legacy Motor Club,False,False,19,9,green
+John Hunter Nemechek,4092,Tyt,42,32,17,186.120,48.356,Legacy Motor Club,False,False,19,9,green
+Cole Custer,4104,Frd,41,19,16,186.097,48.362,Haas Factory Team,False,False,16,16,green
+Riley Herbst,4269,Tyt,35,19,6,186.062,48.371,23XI Racing,False,False,13,12,green
+Todd Gilliland,4231,Frd,34,19,7,186.023,48.381,Front Row Motorsports,False,False,7,7,green
+Austin Cindric,4180,Frd,2,18,9,186.016,48.383,Team Penske,False,False,1,1,green
+Austin Cindric,4180,Frd,2,19,9,186.000,48.387,Team Penske,False,False,1,1,green
+Brad Keselowski,1816,Frd,6,19,15,186.000,48.387,RFK Racing,False,False,8,20,green
+Todd Gilliland,4231,Frd,34,18,8,185.993,48.389,Front Row Motorsports,False,False,7,7,green
+Alex Bowman,4045,Chv,48,19,13,185.981,48.392,Hendrick Motorsports,False,False,6,22,green
+Kyle Larson,4030,Chv,5,19,10,185.973,48.394,Hendrick Motorsports,False,False,5,11,green
+Joey Logano,3859,Frd,22,19,12,185.958,48.398,Team Penske,False,False,2,5,green
+Noah Gragson,4224,Frd,4,2,9,185.947,48.401,Front Row Motorsports,False,False,11,18,green
+Denny Hamlin,1361,Tyt,11,19,8,185.935,48.404,Joe Gibbs Racing,False,False,3,4,green
+Todd Gilliland,4231,Frd,34,2,5,185.904,48.412,Front Row Motorsports,False,False,7,7,green
+Joey Logano,3859,Frd,22,18,12,185.897,48.414,Team Penske,False,False,2,5,green
+Denny Hamlin,1361,Tyt,11,18,6,185.893,48.415,Joe Gibbs Racing,False,False,3,4,green
+Christopher Bell,4153,Tyt,20,19,5,185.893,48.415,Joe Gibbs Racing,False,False,4,10,green
+Chris Buescher,3989,Frd,17,2,8,185.889,48.416,RFK Racing,False,False,9,3,green
+Ryan Blaney,4023,Frd,12,17,3,185.858,48.424,Team Penske,False,False,10,8,green
+Kyle Larson,4030,Chv,5,18,10,185.854,48.425,Hendrick Motorsports,False,False,5,11,green
+Kyle Larson,4030,Chv,5,2,3,185.828,48.432,Hendrick Motorsports,False,False,5,11,green
+Noah Gragson,4224,Frd,4,19,21,185.824,48.433,Front Row Motorsports,False,False,11,18,green
+Denny Hamlin,1361,Tyt,11,2,1,185.797,48.440,Joe Gibbs Racing,False,False,3,4,green
+Jimmie Johnson,1717,Tyt,84,18,4,185.774,48.446,Legacy Motor Club,False,False,14,19,green
+Chris Buescher,3989,Frd,17,19,18,185.759,48.450,RFK Racing,False,False,9,3,green
+Noah Gragson,4224,Frd,4,24,22,185.747,48.453,Front Row Motorsports,False,False,11,18,green
+Alex Bowman,4045,Chv,48,18,13,185.736,48.456,Hendrick Motorsports,False,False,6,22,green
+Erik Jones,4059,Tyt,43,18,2,185.728,48.458,Legacy Motor Club,False,False,18,2,green
+Austin Cindric,4180,Frd,2,3,2,185.728,48.458,Team Penske,False,False,1,1,green
+Jimmie Johnson,1717,Tyt,84,39,22,185.724,48.459,Legacy Motor Club,False,False,14,19,green
+Riley Herbst,4269,Tyt,35,24,17,185.713,48.462,23XI Racing,False,False,13,12,green
+Denny Hamlin,1361,Tyt,11,3,1,185.709,48.463,Joe Gibbs Racing,False,False,3,4,green
+Ryan Blaney,4023,Frd,12,19,3,185.709,48.463,Team Penske,False,False,10,8,green
+Kyle Larson,4030,Chv,5,3,3,185.682,48.470,Hendrick Motorsports,False,False,5,11,green
+Joey Logano,3859,Frd,22,3,4,185.678,48.471,Team Penske,False,False,2,5,green
+Austin Cindric,4180,Frd,2,2,2,185.667,48.474,Team Penske,False,False,1,1,green
+Brad Keselowski,1816,Frd,6,18,14,185.663,48.475,RFK Racing,False,False,8,20,green
+Noah Gragson,4224,Frd,4,25,20,185.659,48.476,Front Row Motorsports,False,False,11,18,green
+Joey Logano,3859,Frd,22,2,4,185.640,48.481,Team Penske,False,False,2,5,green
+Cole Custer,4104,Frd,41,18,15,185.636,48.482,Haas Factory Team,False,False,16,16,green
+Daniel Suarez,4113,Chv,99,19,4,185.594,48.493,Trackhouse Racing,False,False,12,21,green
+BJ McLeod,3973,Chv,78,3,22,185.590,48.494,Live Fast Motorsports,False,False,21,17,green
+Alex Bowman,4045,Chv,48,2,6,185.575,48.498,Hendrick Motorsports,False,False,6,22,green
+John Hunter Nemechek,4092,Tyt,42,2,22,185.559,48.502,Legacy Motor Club,False,False,19,9,green
+Alex Bowman,4045,Chv,48,3,5,185.525,48.511,Hendrick Motorsports,False,False,6,22,green
+Cody Ware,4125,Frd,51,3,18,185.494,48.519,Rick Ware Racing,False,False,22,15,green
+Todd Gilliland,4231,Frd,34,3,6,185.475,48.524,Front Row Motorsports,False,False,7,7,green
+Brad Keselowski,1816,Frd,6,2,7,185.471,48.525,RFK Racing,False,False,8,20,green
+John Hunter Nemechek,4092,Tyt,42,18,17,185.460,48.528,Legacy Motor Club,False,False,19,9,green
+Cody Ware,4125,Frd,51,17,20,185.445,48.532,Rick Ware Racing,False,False,22,15,green
+Ryan Blaney,4023,Frd,12,2,10,185.437,48.534,Team Penske,False,False,10,8,green
+Corey LaJoie,4096,Frd,01,3,15,185.429,48.536,Rick Ware Racing,False,False,17,6,green
+Brad Keselowski,1816,Frd,6,17,14,185.429,48.536,RFK Racing,False,False,8,20,green
+Christopher Bell,4153,Tyt,20,3,20,185.410,48.541,Joe Gibbs Racing,False,False,4,10,green
+Cole Custer,4104,Frd,41,17,16,185.406,48.542,Haas Factory Team,False,False,16,16,green
+Shane Van Gisbergen,4469,Chv,88,3,13,185.399,48.544,Trackhouse Racing,False,False,15,14,green
+Daniel Suarez,4113,Chv,99,2,12,185.399,48.544,Trackhouse Racing,False,False,12,21,green
+Corey LaJoie,4096,Frd,01,17,19,185.364,48.553,Rick Ware Racing,False,False,17,6,green
+Christopher Bell,4153,Tyt,20,2,20,185.364,48.553,Joe Gibbs Racing,False,False,4,10,green
+Chris Buescher,3989,Frd,17,3,8,185.357,48.555,RFK Racing,False,False,9,3,green
+Brad Keselowski,1816,Frd,6,3,7,185.338,48.560,RFK Racing,False,False,8,20,green
+Ryan Blaney,4023,Frd,12,3,9,185.326,48.563,Team Penske,False,False,10,8,green
+Jimmie Johnson,1717,Tyt,84,2,13,185.311,48.567,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,2,15,185.307,48.568,Haas Factory Team,False,False,16,16,green
+Anthony Alfredo,4301,Chv,62,3,19,185.300,48.570,Beard Motorsports,False,True,20,13,green
+Noah Gragson,4224,Frd,4,3,10,185.296,48.571,Front Row Motorsports,False,False,11,18,green
+Erik Jones,4059,Tyt,43,3,17,185.258,48.581,Legacy Motor Club,False,False,18,2,green
+BJ McLeod,3973,Chv,78,2,21,185.254,48.582,Live Fast Motorsports,False,False,21,17,green
+Erik Jones,4059,Tyt,43,2,17,185.250,48.583,Legacy Motor Club,False,False,18,2,green
+Noah Gragson,4224,Frd,4,30,20,185.250,48.583,Front Row Motorsports,False,False,11,18,green
+Daniel Suarez,4113,Chv,99,3,12,185.246,48.584,Trackhouse Racing,False,False,12,21,green
+Riley Herbst,4269,Tyt,35,3,11,185.246,48.584,23XI Racing,False,False,13,12,green
+BJ McLeod,3973,Chv,78,24,21,185.235,48.587,Live Fast Motorsports,False,False,21,17,green
+Jimmie Johnson,1717,Tyt,84,3,14,185.227,48.589,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,3,16,185.212,48.593,Haas Factory Team,False,False,16,16,green
+Anthony Alfredo,4301,Chv,62,2,18,185.204,48.595,Beard Motorsports,False,True,20,13,green
+Cole Custer,4104,Frd,41,25,17,185.189,48.599,Haas Factory Team,False,False,16,16,green
+BJ McLeod,3973,Chv,78,17,22,185.174,48.603,Live Fast Motorsports,False,False,21,17,green
+BJ McLeod,3973,Chv,78,27,21,185.155,48.608,Live Fast Motorsports,False,False,21,17,green
+Brad Keselowski,1816,Frd,6,25,15,185.113,48.619,RFK Racing,False,False,8,20,green
+Shane Van Gisbergen,4469,Chv,88,26,20,185.098,48.623,Trackhouse Racing,False,False,15,14,green
+Jimmie Johnson,1717,Tyt,84,25,2,185.090,48.625,Legacy Motor Club,False,False,14,19,green
+Cody Ware,4125,Frd,51,24,15,185.090,48.625,Rick Ware Racing,False,False,22,15,green
+Christopher Bell,4153,Tyt,20,25,5,185.086,48.626,Joe Gibbs Racing,False,False,4,10,green
+Shane Van Gisbergen,4469,Chv,88,27,20,185.086,48.626,Trackhouse Racing,False,False,15,14,green
+Erik Jones,4059,Tyt,43,25,1,185.079,48.628,Legacy Motor Club,False,False,18,2,green
+BJ McLeod,3973,Chv,78,60,16,185.075,48.629,Live Fast Motorsports,False,False,21,17,pitting in
+Ryan Blaney,4023,Frd,12,25,3,185.075,48.629,Team Penske,False,False,10,8,green
+Chris Buescher,3989,Frd,17,25,18,185.060,48.633,RFK Racing,False,False,9,3,green
+Chris Buescher,3989,Frd,17,17,13,185.048,48.636,RFK Racing,False,False,9,3,green
+Corey LaJoie,4096,Frd,01,18,19,185.044,48.637,Rick Ware Racing,False,False,17,6,green
+BJ McLeod,3973,Chv,78,18,22,185.025,48.642,Live Fast Motorsports,False,False,21,17,green
+Anthony Alfredo,4301,Chv,62,25,13,185.021,48.643,Beard Motorsports,False,True,20,13,green
+Chris Buescher,3989,Frd,17,18,16,185.014,48.645,RFK Racing,False,False,9,3,green
+Erik Jones,4059,Tyt,43,17,1,185.014,48.645,Legacy Motor Club,False,False,18,2,green
+Corey LaJoie,4096,Frd,01,24,13,185.010,48.646,Rick Ware Racing,False,False,17,6,green
+Cody Ware,4125,Frd,51,18,20,185.006,48.647,Rick Ware Racing,False,False,22,15,green
+Todd Gilliland,4231,Frd,34,17,6,184.991,48.651,Front Row Motorsports,False,False,7,7,green
+Joey Logano,3859,Frd,22,25,12,184.983,48.653,Team Penske,False,False,2,5,green
+Todd Gilliland,4231,Frd,34,26,8,184.976,48.655,Front Row Motorsports,False,False,7,7,green
+Riley Herbst,4269,Tyt,35,17,12,184.972,48.656,23XI Racing,False,False,13,12,green
+Chris Buescher,3989,Frd,17,27,19,184.964,48.658,RFK Racing,False,False,9,3,green
+Daniel Suarez,4113,Chv,99,25,4,184.964,48.658,Trackhouse Racing,False,False,12,21,green
+Shane Van Gisbergen,4469,Chv,88,24,20,184.961,48.659,Trackhouse Racing,False,False,15,14,green
+Cole Custer,4104,Frd,41,27,17,184.949,48.662,Haas Factory Team,False,False,16,16,green
+Chris Buescher,3989,Frd,17,24,19,184.945,48.663,RFK Racing,False,False,9,3,green
+BJ McLeod,3973,Chv,78,26,21,184.934,48.666,Live Fast Motorsports,False,False,21,17,green
+Jimmie Johnson,1717,Tyt,84,17,2,184.930,48.667,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,25,11,184.923,48.669,Legacy Motor Club,False,False,19,9,green
+Alex Bowman,4045,Chv,48,17,10,184.904,48.674,Hendrick Motorsports,False,False,6,22,green
+Denny Hamlin,1361,Tyt,11,25,6,184.896,48.676,Joe Gibbs Racing,False,False,3,4,green
+Noah Gragson,4224,Frd,4,17,17,184.877,48.681,Front Row Motorsports,False,False,11,18,green
+Austin Cindric,4180,Frd,2,25,10,184.873,48.682,Team Penske,False,False,1,1,green
+Kyle Larson,4030,Chv,5,25,7,184.866,48.684,Hendrick Motorsports,False,False,5,11,green
+Joey Logano,3859,Frd,22,24,12,184.866,48.684,Team Penske,False,False,2,5,green
+Corey LaJoie,4096,Frd,01,26,13,184.854,48.687,Rick Ware Racing,False,False,17,6,green
+Kyle Larson,4030,Chv,5,17,7,184.850,48.688,Hendrick Motorsports,False,False,5,11,green
+Anthony Alfredo,4301,Chv,62,24,14,184.843,48.690,Beard Motorsports,False,True,20,13,green
+Todd Gilliland,4231,Frd,34,24,8,184.839,48.691,Front Row Motorsports,False,False,7,7,green
+Cole Custer,4104,Frd,41,24,18,184.839,48.691,Haas Factory Team,False,False,16,16,green
+Denny Hamlin,1361,Tyt,11,24,5,184.835,48.692,Joe Gibbs Racing,False,False,3,4,green
+Cody Ware,4125,Frd,51,26,15,184.831,48.693,Rick Ware Racing,False,False,22,15,green
+Daniel Suarez,4113,Chv,99,24,4,184.824,48.695,Trackhouse Racing,False,False,12,21,green
+Brad Keselowski,1816,Frd,6,27,15,184.813,48.698,RFK Racing,False,False,8,20,green
+Austin Cindric,4180,Frd,2,26,10,184.797,48.702,Team Penske,False,False,1,1,green
+Alex Bowman,4045,Chv,48,25,8,184.794,48.703,Hendrick Motorsports,False,False,6,22,green
+Kyle Larson,4030,Chv,5,24,7,184.794,48.703,Hendrick Motorsports,False,False,5,11,green
+Riley Herbst,4269,Tyt,35,27,18,184.790,48.704,23XI Racing,False,False,13,12,green
+Corey LaJoie,4096,Frd,01,25,14,184.790,48.704,Rick Ware Racing,False,False,17,6,green
+Alex Bowman,4045,Chv,48,24,9,184.782,48.706,Hendrick Motorsports,False,False,6,22,green
+Brad Keselowski,1816,Frd,6,24,16,184.778,48.707,RFK Racing,False,False,8,20,green
+Brad Keselowski,1816,Frd,6,29,15,184.778,48.707,RFK Racing,False,False,8,20,green
+Cody Ware,4125,Frd,51,25,16,184.763,48.711,Rick Ware Racing,False,False,22,15,green
+Austin Cindric,4180,Frd,2,24,10,184.759,48.712,Team Penske,False,False,1,1,green
+Noah Gragson,4224,Frd,4,18,18,184.744,48.716,Front Row Motorsports,False,False,11,18,green
+Christopher Bell,4153,Tyt,20,24,6,184.740,48.717,Joe Gibbs Racing,False,False,4,10,green
+John Hunter Nemechek,4092,Tyt,42,26,11,184.737,48.718,Legacy Motor Club,False,False,19,9,green
+John Hunter Nemechek,4092,Tyt,42,24,11,184.737,48.718,Legacy Motor Club,False,False,19,9,green
+Ryan Blaney,4023,Frd,12,24,3,184.729,48.720,Team Penske,False,False,10,8,green
+Cole Custer,4104,Frd,41,29,17,184.710,48.725,Haas Factory Team,False,False,16,16,green
+Denny Hamlin,1361,Tyt,11,17,4,184.706,48.726,Joe Gibbs Racing,False,False,3,4,green
+Alex Bowman,4045,Chv,48,26,9,184.680,48.733,Hendrick Motorsports,False,False,6,22,green
+Daniel Suarez,4113,Chv,99,29,2,184.680,48.733,Trackhouse Racing,False,False,12,21,green
+Riley Herbst,4269,Tyt,35,26,18,184.676,48.734,23XI Racing,False,False,13,12,green
+Anthony Alfredo,4301,Chv,62,29,14,184.668,48.736,Beard Motorsports,False,True,20,13,green
+Joey Logano,3859,Frd,22,26,12,184.668,48.736,Team Penske,False,False,2,5,green
+Anthony Alfredo,4301,Chv,62,22,13,184.668,48.736,Beard Motorsports,False,True,20,13,green
+Todd Gilliland,4231,Frd,34,25,9,184.657,48.739,Front Row Motorsports,False,False,7,7,green
+Erik Jones,4059,Tyt,43,24,1,184.653,48.740,Legacy Motor Club,False,False,18,2,green
+Denny Hamlin,1361,Tyt,11,29,4,184.653,48.740,Joe Gibbs Racing,False,False,3,4,green
+Corey LaJoie,4096,Frd,01,29,13,184.649,48.741,Rick Ware Racing,False,False,17,6,green
+Joey Logano,3859,Frd,22,17,11,184.642,48.743,Team Penske,False,False,2,5,green
+Jimmie Johnson,1717,Tyt,84,24,2,184.642,48.743,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,21,12,184.634,48.745,Legacy Motor Club,False,False,19,9,green
+Anthony Alfredo,4301,Chv,62,27,13,184.634,48.745,Beard Motorsports,False,True,20,13,green
+Chris Buescher,3989,Frd,17,29,19,184.627,48.747,RFK Racing,False,False,9,3,green
+Joey Logano,3859,Frd,22,29,12,184.627,48.747,Team Penske,False,False,2,5,green
+Austin Cindric,4180,Frd,2,17,8,184.615,48.750,Team Penske,False,False,1,1,green
+Anthony Alfredo,4301,Chv,62,26,14,184.608,48.752,Beard Motorsports,False,True,20,13,green
+Christopher Bell,4153,Tyt,20,29,7,184.608,48.752,Joe Gibbs Racing,False,False,4,10,green
+Shane Van Gisbergen,4469,Chv,88,18,21,184.604,48.753,Trackhouse Racing,False,False,15,14,green
+Todd Gilliland,4231,Frd,34,29,8,184.600,48.754,Front Row Motorsports,False,False,7,7,green
+Corey LaJoie,4096,Frd,01,21,15,184.600,48.754,Rick Ware Racing,False,False,17,6,green
+John Hunter Nemechek,4092,Tyt,42,5,18,184.593,48.756,Legacy Motor Club,False,False,19,9,green
+Daniel Suarez,4113,Chv,99,26,3,184.585,48.758,Trackhouse Racing,False,False,12,21,green
+Noah Gragson,4224,Frd,4,28,22,184.585,48.758,Front Row Motorsports,False,False,11,18,green
+Alex Bowman,4045,Chv,48,23,9,184.578,48.760,Hendrick Motorsports,False,False,6,22,green
+Joey Logano,3859,Frd,22,27,12,184.578,48.760,Team Penske,False,False,2,5,green
+Austin Cindric,4180,Frd,2,29,10,184.574,48.761,Team Penske,False,False,1,1,green
+Cody Ware,4125,Frd,51,29,16,184.562,48.764,Rick Ware Racing,False,False,22,15,green
+Kyle Larson,4030,Chv,5,23,7,184.559,48.765,Hendrick Motorsports,False,False,5,11,green
+Alex Bowman,4045,Chv,48,21,10,184.555,48.766,Hendrick Motorsports,False,False,6,22,green
+Denny Hamlin,1361,Tyt,11,26,5,184.551,48.767,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,27,6,184.547,48.768,Hendrick Motorsports,False,False,5,11,green
+Ryan Blaney,4023,Frd,12,29,5,184.547,48.768,Team Penske,False,False,10,8,green
+Austin Cindric,4180,Frd,2,27,10,184.540,48.770,Team Penske,False,False,1,1,green
+Kyle Larson,4030,Chv,5,29,6,184.540,48.770,Hendrick Motorsports,False,False,5,11,green
+Kyle Larson,4030,Chv,5,26,7,184.540,48.770,Hendrick Motorsports,False,False,5,11,green
+Denny Hamlin,1361,Tyt,11,27,4,184.540,48.770,Joe Gibbs Racing,False,False,3,4,green
+Shane Van Gisbergen,4469,Chv,88,5,11,184.528,48.773,Trackhouse Racing,False,False,15,14,green
+Corey LaJoie,4096,Frd,01,5,14,184.517,48.776,Rick Ware Racing,False,False,17,6,green
+BJ McLeod,3973,Chv,78,29,21,184.506,48.779,Live Fast Motorsports,False,False,21,17,green
+Riley Herbst,4269,Tyt,35,25,19,184.506,48.779,23XI Racing,False,False,13,12,green
+John Hunter Nemechek,4092,Tyt,42,23,11,184.502,48.780,Legacy Motor Club,False,False,19,9,green
+Cody Ware,4125,Frd,51,5,16,184.502,48.780,Rick Ware Racing,False,False,22,15,green
+Erik Jones,4059,Tyt,43,23,1,184.494,48.782,Legacy Motor Club,False,False,18,2,green
+Jimmie Johnson,1717,Tyt,84,23,2,184.494,48.782,Legacy Motor Club,False,False,14,19,green
+Riley Herbst,4269,Tyt,35,29,18,184.490,48.783,23XI Racing,False,False,13,12,green
+Christopher Bell,4153,Tyt,20,23,6,184.490,48.783,Joe Gibbs Racing,False,False,4,10,green
+John Hunter Nemechek,4092,Tyt,42,29,11,184.490,48.783,Legacy Motor Club,False,False,19,9,green
+Jimmie Johnson,1717,Tyt,84,29,3,184.475,48.787,Legacy Motor Club,False,False,14,19,green
+Cody Ware,4125,Frd,51,21,19,184.475,48.787,Rick Ware Racing,False,False,22,15,green
+Daniel Suarez,4113,Chv,99,27,2,184.475,48.787,Trackhouse Racing,False,False,12,21,green
+Brad Keselowski,1816,Frd,6,26,16,184.472,48.788,RFK Racing,False,False,8,20,green
+Riley Herbst,4269,Tyt,35,30,16,184.468,48.789,23XI Racing,False,False,13,12,green
+Kyle Larson,4030,Chv,5,21,8,184.468,48.789,Hendrick Motorsports,False,False,5,11,green
+Denny Hamlin,1361,Tyt,11,21,6,184.453,48.793,Joe Gibbs Racing,False,False,3,4,green
+Alex Bowman,4045,Chv,48,27,9,184.445,48.795,Hendrick Motorsports,False,False,6,22,green
+Cody Ware,4125,Frd,51,27,16,184.445,48.795,Rick Ware Racing,False,False,22,15,green
+Corey LaJoie,4096,Frd,01,27,14,184.441,48.796,Rick Ware Racing,False,False,17,6,green
+Erik Jones,4059,Tyt,43,26,1,184.438,48.797,Legacy Motor Club,False,False,18,2,green
+Denny Hamlin,1361,Tyt,11,23,5,184.434,48.798,Joe Gibbs Racing,False,False,3,4,green
+Ryan Blaney,4023,Frd,12,23,3,184.426,48.800,Team Penske,False,False,10,8,green
+Shane Van Gisbergen,4469,Chv,88,29,20,184.422,48.801,Trackhouse Racing,False,False,15,14,green
+Alex Bowman,4045,Chv,48,29,9,184.422,48.801,Hendrick Motorsports,False,False,6,22,green
+Ryan Blaney,4023,Frd,12,26,4,184.415,48.803,Team Penske,False,False,10,8,green
+Jimmie Johnson,1717,Tyt,84,26,2,184.411,48.804,Legacy Motor Club,False,False,14,19,green
+Erik Jones,4059,Tyt,43,29,1,184.411,48.804,Legacy Motor Club,False,False,18,2,green
+John Hunter Nemechek,4092,Tyt,42,27,11,184.400,48.807,Legacy Motor Club,False,False,19,9,green
+Christopher Bell,4153,Tyt,20,26,6,184.381,48.812,Joe Gibbs Racing,False,False,4,10,green
+Chris Buescher,3989,Frd,17,26,19,184.377,48.813,RFK Racing,False,False,9,3,green
+Daniel Suarez,4113,Chv,99,23,4,184.377,48.813,Trackhouse Racing,False,False,12,21,green
+Todd Gilliland,4231,Frd,34,27,8,184.362,48.817,Front Row Motorsports,False,False,7,7,green
+Noah Gragson,4224,Frd,4,29,22,184.354,48.819,Front Row Motorsports,False,False,11,18,green
+Corey LaJoie,4096,Frd,01,23,13,184.339,48.823,Rick Ware Racing,False,False,17,6,green
+BJ McLeod,3973,Chv,78,46,20,184.336,48.824,Live Fast Motorsports,False,False,21,17,green
+Cole Custer,4104,Frd,41,60,15,184.328,48.826,Haas Factory Team,False,False,16,16,caution
+Cody Ware,4125,Frd,51,23,16,184.313,48.830,Rick Ware Racing,False,False,22,15,green
+Joey Logano,3859,Frd,22,21,11,184.305,48.832,Team Penske,False,False,2,5,green
+Daniel Suarez,4113,Chv,99,22,4,184.305,48.832,Trackhouse Racing,False,False,12,21,green
+Jimmie Johnson,1717,Tyt,84,21,2,184.294,48.835,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,26,17,184.287,48.837,Haas Factory Team,False,False,16,16,green
+Erik Jones,4059,Tyt,43,22,1,184.283,48.838,Legacy Motor Club,False,False,18,2,green
+Jimmie Johnson,1717,Tyt,84,22,2,184.279,48.839,Legacy Motor Club,False,False,14,19,green
+Daniel Suarez,4113,Chv,99,21,4,184.279,48.839,Trackhouse Racing,False,False,12,21,green
+Shane Van Gisbergen,4469,Chv,88,17,21,184.260,48.844,Trackhouse Racing,False,False,15,14,green
+Christopher Bell,4153,Tyt,20,27,7,184.256,48.845,Joe Gibbs Racing,False,False,4,10,green
+Noah Gragson,4224,Frd,4,27,22,184.256,48.845,Front Row Motorsports,False,False,11,18,green
+BJ McLeod,3973,Chv,78,21,21,184.253,48.846,Live Fast Motorsports,False,False,21,17,green
+Todd Gilliland,4231,Frd,34,23,8,184.249,48.847,Front Row Motorsports,False,False,7,7,green
+Cody Ware,4125,Frd,51,22,17,184.249,48.847,Rick Ware Racing,False,False,22,15,green
+Ryan Blaney,4023,Frd,12,22,3,184.237,48.850,Team Penske,False,False,10,8,green
+Chris Buescher,3989,Frd,17,21,18,184.226,48.853,RFK Racing,False,False,9,3,green
+Riley Herbst,4269,Tyt,35,22,14,184.219,48.855,23XI Racing,False,False,13,12,green
+BJ McLeod,3973,Chv,78,25,22,184.215,48.856,Live Fast Motorsports,False,False,21,17,green
+Erik Jones,4059,Tyt,43,21,1,184.207,48.858,Legacy Motor Club,False,False,18,2,green
+Brad Keselowski,1816,Frd,6,21,13,184.200,48.860,RFK Racing,False,False,8,20,green
+Shane Van Gisbergen,4469,Chv,88,21,20,184.200,48.860,Trackhouse Racing,False,False,15,14,green
+Cody Ware,4125,Frd,51,30,14,184.196,48.861,Rick Ware Racing,False,False,22,15,green
+BJ McLeod,3973,Chv,78,20,21,184.192,48.862,Live Fast Motorsports,False,False,21,17,green
+Noah Gragson,4224,Frd,4,26,22,184.181,48.865,Front Row Motorsports,False,False,11,18,green
+John Hunter Nemechek,4092,Tyt,42,30,10,184.177,48.866,Legacy Motor Club,False,False,19,9,green
+Shane Van Gisbergen,4469,Chv,88,20,19,184.170,48.868,Trackhouse Racing,False,False,15,14,green
+Shane Van Gisbergen,4469,Chv,88,25,21,184.170,48.868,Trackhouse Racing,False,False,15,14,green
+Denny Hamlin,1361,Tyt,11,22,5,184.170,48.868,Joe Gibbs Racing,False,False,3,4,green
+Cole Custer,4104,Frd,41,21,16,184.170,48.868,Haas Factory Team,False,False,16,16,green
+Alex Bowman,4045,Chv,48,30,8,184.166,48.869,Hendrick Motorsports,False,False,6,22,green
+Noah Gragson,4224,Frd,4,21,22,184.166,48.869,Front Row Motorsports,False,False,11,18,green
+Austin Cindric,4180,Frd,2,23,10,184.162,48.870,Team Penske,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,27,5,184.143,48.875,Team Penske,False,False,10,8,green
+Erik Jones,4059,Tyt,43,27,1,184.136,48.877,Legacy Motor Club,False,False,18,2,green
+Corey LaJoie,4096,Frd,01,30,12,184.136,48.877,Rick Ware Racing,False,False,17,6,green
+Kyle Larson,4030,Chv,5,22,7,184.132,48.878,Hendrick Motorsports,False,False,5,11,green
+Jimmie Johnson,1717,Tyt,84,27,3,184.128,48.879,Legacy Motor Club,False,False,14,19,green
+Jimmie Johnson,1717,Tyt,84,30,3,184.113,48.883,Legacy Motor Club,False,False,14,19,green
+Shane Van Gisbergen,4469,Chv,88,30,21,184.106,48.885,Trackhouse Racing,False,False,15,14,green
+Christopher Bell,4153,Tyt,20,20,4,184.102,48.886,Joe Gibbs Racing,False,False,4,10,green
+Todd Gilliland,4231,Frd,34,20,6,184.094,48.888,Front Row Motorsports,False,False,7,7,green
+Erik Jones,4059,Tyt,43,30,1,184.087,48.890,Legacy Motor Club,False,False,18,2,green
+Alex Bowman,4045,Chv,48,22,10,184.087,48.890,Hendrick Motorsports,False,False,6,22,green
+Austin Cindric,4180,Frd,2,21,9,184.083,48.891,Team Penske,False,False,1,1,green
+Daniel Suarez,4113,Chv,99,20,5,184.079,48.892,Trackhouse Racing,False,False,12,21,green
+Joey Logano,3859,Frd,22,23,12,184.079,48.892,Team Penske,False,False,2,5,green
+Erik Jones,4059,Tyt,43,20,1,184.075,48.893,Legacy Motor Club,False,False,18,2,green
+Riley Herbst,4269,Tyt,35,5,9,184.075,48.893,23XI Racing,False,False,13,12,green
+Christopher Bell,4153,Tyt,20,22,6,184.072,48.894,Joe Gibbs Racing,False,False,4,10,green
+Alex Bowman,4045,Chv,48,28,8,184.068,48.895,Hendrick Motorsports,False,False,6,22,green
+Anthony Alfredo,4301,Chv,62,23,14,184.064,48.896,Beard Motorsports,False,True,20,13,green
+Kyle Larson,4030,Chv,5,30,6,184.060,48.897,Hendrick Motorsports,False,False,5,11,green
+Denny Hamlin,1361,Tyt,11,28,4,184.057,48.898,Joe Gibbs Racing,False,False,3,4,green
+Ryan Blaney,4023,Frd,12,30,5,184.057,48.898,Team Penske,False,False,10,8,green
+Kyle Larson,4030,Chv,5,28,6,184.049,48.900,Hendrick Motorsports,False,False,5,11,green
+Brad Keselowski,1816,Frd,6,23,15,184.049,48.900,RFK Racing,False,False,8,20,green
+Jimmie Johnson,1717,Tyt,84,20,2,184.045,48.901,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,28,11,184.042,48.902,Legacy Motor Club,False,False,19,9,green
+Christopher Bell,4153,Tyt,20,21,5,184.042,48.902,Joe Gibbs Racing,False,False,4,10,green
+Daniel Suarez,4113,Chv,99,28,2,184.042,48.902,Trackhouse Racing,False,False,12,21,green
+Joey Logano,3859,Frd,22,31,12,184.038,48.903,Team Penske,False,False,2,5,green
+Denny Hamlin,1361,Tyt,11,30,4,184.038,48.903,Joe Gibbs Racing,False,False,3,4,green
+John Hunter Nemechek,4092,Tyt,42,22,11,184.038,48.903,Legacy Motor Club,False,False,19,9,green
+Ryan Blaney,4023,Frd,12,21,3,184.034,48.904,Team Penske,False,False,10,8,green
+Corey LaJoie,4096,Frd,01,22,15,184.030,48.905,Rick Ware Racing,False,False,17,6,green
+Chris Buescher,3989,Frd,17,20,18,184.023,48.907,RFK Racing,False,False,9,3,green
+Ryan Blaney,4023,Frd,12,20,3,184.019,48.908,Team Penske,False,False,10,8,green
+Christopher Bell,4153,Tyt,20,30,7,184.019,48.908,Joe Gibbs Racing,False,False,4,10,green
+Cody Ware,4125,Frd,51,28,15,184.019,48.908,Rick Ware Racing,False,False,22,15,green
+BJ McLeod,3973,Chv,78,30,22,184.011,48.910,Live Fast Motorsports,False,False,21,17,green
+Todd Gilliland,4231,Frd,34,21,7,184.011,48.910,Front Row Motorsports,False,False,7,7,green
+Noah Gragson,4224,Frd,4,5,8,184.008,48.911,Front Row Motorsports,False,False,11,18,green
+Brad Keselowski,1816,Frd,6,20,14,183.996,48.914,RFK Racing,False,False,8,20,green
+Daniel Suarez,4113,Chv,99,30,2,183.996,48.914,Trackhouse Racing,False,False,12,21,green
+Cole Custer,4104,Frd,41,23,17,183.993,48.915,Haas Factory Team,False,False,16,16,green
+Denny Hamlin,1361,Tyt,11,4,1,183.989,48.916,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,4,3,183.985,48.917,Hendrick Motorsports,False,False,5,11,green
+Denny Hamlin,1361,Tyt,11,20,7,183.985,48.917,Joe Gibbs Racing,False,False,3,4,green
+Austin Cindric,4180,Frd,2,4,2,183.978,48.919,Team Penske,False,False,1,1,green
+Erik Jones,4059,Tyt,43,28,1,183.978,48.919,Legacy Motor Club,False,False,18,2,green
+Austin Cindric,4180,Frd,2,22,9,183.974,48.920,Team Penske,False,False,1,1,green
+Todd Gilliland,4231,Frd,34,22,8,183.974,48.920,Front Row Motorsports,False,False,7,7,green
+Alex Bowman,4045,Chv,48,4,5,183.963,48.923,Hendrick Motorsports,False,False,6,22,green
+Brad Keselowski,1816,Frd,6,4,7,183.959,48.924,RFK Racing,False,False,8,20,green
+Cole Custer,4104,Frd,41,20,16,183.948,48.927,Haas Factory Team,False,False,16,16,green
+Jimmie Johnson,1717,Tyt,84,28,3,183.944,48.928,Legacy Motor Club,False,False,14,19,green
+Chris Buescher,3989,Frd,17,5,6,183.940,48.929,RFK Racing,False,False,9,3,green
+Austin Cindric,4180,Frd,2,20,8,183.940,48.929,Team Penske,False,False,1,1,green
+Corey LaJoie,4096,Frd,01,28,13,183.936,48.930,Rick Ware Racing,False,False,17,6,green
+Jimmie Johnson,1717,Tyt,84,4,13,183.936,48.930,Legacy Motor Club,False,False,14,19,green
+Todd Gilliland,4231,Frd,34,30,9,183.936,48.930,Front Row Motorsports,False,False,7,7,green
+Anthony Alfredo,4301,Chv,62,31,14,183.929,48.932,Beard Motorsports,False,True,20,13,green
+Chris Buescher,3989,Frd,17,30,19,183.929,48.932,RFK Racing,False,False,9,3,green
+Riley Herbst,4269,Tyt,35,28,18,183.929,48.932,23XI Racing,False,False,13,12,green
+Cole Custer,4104,Frd,41,4,14,183.921,48.934,Haas Factory Team,False,False,16,16,green
+Chris Buescher,3989,Frd,17,6,6,183.921,48.934,RFK Racing,False,False,9,3,green
+Kyle Larson,4030,Chv,5,20,9,183.917,48.935,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,2,31,10,183.914,48.936,Team Penske,False,False,1,1,green
+Noah Gragson,4224,Frd,4,6,7,183.914,48.936,Front Row Motorsports,False,False,11,18,green
+Ryan Blaney,4023,Frd,12,4,9,183.910,48.937,Team Penske,False,False,10,8,green
+John Hunter Nemechek,4092,Tyt,42,20,15,183.906,48.938,Legacy Motor Club,False,False,19,9,green
+Chris Buescher,3989,Frd,17,23,18,183.902,48.939,RFK Racing,False,False,9,3,green
+Joey Logano,3859,Frd,22,4,4,183.902,48.939,Team Penske,False,False,2,5,green
+Austin Cindric,4180,Frd,2,28,10,183.902,48.939,Team Penske,False,False,1,1,green
+Alex Bowman,4045,Chv,48,6,5,183.899,48.940,Hendrick Motorsports,False,False,6,22,green
+Ryan Blaney,4023,Frd,12,28,5,183.895,48.941,Team Penske,False,False,10,8,green
+Todd Gilliland,4231,Frd,34,4,6,183.887,48.943,Front Row Motorsports,False,False,7,7,green
+Joey Logano,3859,Frd,22,6,4,183.880,48.945,Team Penske,False,False,2,5,green
+Corey LaJoie,4096,Frd,01,20,17,183.876,48.946,Rick Ware Racing,False,False,17,6,green
+Daniel Suarez,4113,Chv,99,4,11,183.872,48.947,Trackhouse Racing,False,False,12,21,green
+Cody Ware,4125,Frd,51,20,20,183.869,48.948,Rick Ware Racing,False,False,22,15,green
+Alex Bowman,4045,Chv,48,20,12,183.865,48.949,Hendrick Motorsports,False,False,6,22,green
+Cole Custer,4104,Frd,41,30,18,183.861,48.950,Haas Factory Team,False,False,16,16,green
+Joey Logano,3859,Frd,22,20,11,183.854,48.952,Team Penske,False,False,2,5,green
+Todd Gilliland,4231,Frd,34,6,8,183.854,48.952,Front Row Motorsports,False,False,7,7,green
+Joey Logano,3859,Frd,22,22,12,183.850,48.953,Team Penske,False,False,2,5,green
+Erik Jones,4059,Tyt,43,4,16,183.850,48.953,Legacy Motor Club,False,False,18,2,green
+Austin Cindric,4180,Frd,2,6,2,183.850,48.953,Team Penske,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,28,7,183.850,48.953,Joe Gibbs Racing,False,False,4,10,green
+Riley Herbst,4269,Tyt,35,6,9,183.842,48.955,23XI Racing,False,False,13,12,green
+Todd Gilliland,4231,Frd,34,28,9,183.842,48.955,Front Row Motorsports,False,False,7,7,green
+Anthony Alfredo,4301,Chv,62,4,18,183.842,48.955,Beard Motorsports,False,True,20,13,green
+Joey Logano,3859,Frd,22,28,12,183.839,48.956,Team Penske,False,False,2,5,green
+Chris Buescher,3989,Frd,17,4,8,183.831,48.958,RFK Racing,False,False,9,3,green
+Austin Cindric,4180,Frd,2,30,11,183.827,48.959,Team Penske,False,False,1,1,green
+Noah Gragson,4224,Frd,4,4,10,183.827,48.959,Front Row Motorsports,False,False,11,18,green
+Denny Hamlin,1361,Tyt,11,6,1,183.820,48.961,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,6,3,183.816,48.962,Hendrick Motorsports,False,False,5,11,green
+Shane Van Gisbergen,4469,Chv,88,23,20,183.816,48.962,Trackhouse Racing,False,False,15,14,green
+Anthony Alfredo,4301,Chv,62,28,14,183.812,48.963,Beard Motorsports,False,True,20,13,green
+Brad Keselowski,1816,Frd,6,6,10,183.809,48.964,RFK Racing,False,False,8,20,green
+Riley Herbst,4269,Tyt,35,4,12,183.805,48.965,23XI Racing,False,False,13,12,green
+Ryan Blaney,4023,Frd,12,6,11,183.801,48.966,Team Penske,False,False,10,8,green
+Joey Logano,3859,Frd,22,30,13,183.778,48.972,Team Penske,False,False,2,5,green
+Brad Keselowski,1816,Frd,6,31,16,183.778,48.972,RFK Racing,False,False,8,20,green
+Anthony Alfredo,4301,Chv,62,30,15,183.737,48.983,Beard Motorsports,False,True,20,13,green
+BJ McLeod,3973,Chv,78,28,21,183.737,48.983,Live Fast Motorsports,False,False,21,17,green
+Cole Custer,4104,Frd,41,22,18,183.737,48.983,Haas Factory Team,False,False,16,16,green
+Corey LaJoie,4096,Frd,01,31,13,183.718,48.988,Rick Ware Racing,False,False,17,6,green
+Christopher Bell,4153,Tyt,20,4,20,183.715,48.989,Joe Gibbs Racing,False,False,4,10,green
+Christopher Bell,4153,Tyt,20,7,20,183.715,48.989,Joe Gibbs Racing,False,False,4,10,green
+Ryan Blaney,4023,Frd,12,31,5,183.703,48.992,Team Penske,False,False,10,8,green
+Daniel Suarez,4113,Chv,99,31,2,183.703,48.992,Trackhouse Racing,False,False,12,21,green
+Brad Keselowski,1816,Frd,6,28,16,183.703,48.992,RFK Racing,False,False,8,20,green
+Denny Hamlin,1361,Tyt,11,7,1,183.700,48.993,Joe Gibbs Racing,False,False,3,4,green
+Corey LaJoie,4096,Frd,01,7,13,183.692,48.995,Rick Ware Racing,False,False,17,6,green
+Christopher Bell,4153,Tyt,20,31,7,183.692,48.995,Joe Gibbs Racing,False,False,4,10,green
+Shane Van Gisbergen,4469,Chv,88,22,20,183.688,48.996,Trackhouse Racing,False,False,15,14,green
+Cole Custer,4104,Frd,41,31,18,183.685,48.997,Haas Factory Team,False,False,16,16,green
+Erik Jones,4059,Tyt,43,16,1,183.685,48.997,Legacy Motor Club,False,False,18,2,green
+John Hunter Nemechek,4092,Tyt,42,7,18,183.685,48.997,Legacy Motor Club,False,False,19,9,green
+Alex Bowman,4045,Chv,48,31,8,183.681,48.998,Hendrick Motorsports,False,False,6,22,green
+Denny Hamlin,1361,Tyt,11,31,4,183.677,48.999,Joe Gibbs Racing,False,False,3,4,green
+Chris Buescher,3989,Frd,17,22,19,183.677,48.999,RFK Racing,False,False,9,3,green
+Cody Ware,4125,Frd,51,31,15,183.670,49.001,Rick Ware Racing,False,False,22,15,green
+Kyle Larson,4030,Chv,5,31,6,183.670,49.001,Hendrick Motorsports,False,False,5,11,green
+Brad Keselowski,1816,Frd,6,30,17,183.666,49.002,RFK Racing,False,False,8,20,green
+John Hunter Nemechek,4092,Tyt,42,31,11,183.666,49.002,Legacy Motor Club,False,False,19,9,green
+BJ McLeod,3973,Chv,78,7,22,183.666,49.002,Live Fast Motorsports,False,False,21,17,green
+Riley Herbst,4269,Tyt,35,31,17,183.662,49.003,23XI Racing,False,False,13,12,green
+Jimmie Johnson,1717,Tyt,84,6,15,183.662,49.003,Legacy Motor Club,False,False,14,19,green
+Shane Van Gisbergen,4469,Chv,88,28,20,183.658,49.004,Trackhouse Racing,False,False,15,14,green
+Daniel Suarez,4113,Chv,99,6,13,183.655,49.005,Trackhouse Racing,False,False,12,21,green
+Erik Jones,4059,Tyt,43,31,1,183.655,49.005,Legacy Motor Club,False,False,18,2,green
+Jimmie Johnson,1717,Tyt,84,31,3,183.655,49.005,Legacy Motor Club,False,False,14,19,green
+Cody Ware,4125,Frd,51,7,15,183.655,49.005,Rick Ware Racing,False,False,22,15,green
+Jimmie Johnson,1717,Tyt,84,16,2,183.651,49.006,Legacy Motor Club,False,False,14,19,green
+Brad Keselowski,1816,Frd,6,22,16,183.647,49.007,RFK Racing,False,False,8,20,green
+BJ McLeod,3973,Chv,78,4,22,183.640,49.009,Live Fast Motorsports,False,False,21,17,green
+Todd Gilliland,4231,Frd,34,31,9,183.640,49.009,Front Row Motorsports,False,False,7,7,green
+BJ McLeod,3973,Chv,78,22,21,183.636,49.010,Live Fast Motorsports,False,False,21,17,green
+BJ McLeod,3973,Chv,78,23,21,183.617,49.015,Live Fast Motorsports,False,False,21,17,green
+Chris Buescher,3989,Frd,17,28,19,183.610,49.017,RFK Racing,False,False,9,3,green
+Cole Custer,4104,Frd,41,6,16,183.602,49.019,Haas Factory Team,False,False,16,16,green
+Christopher Bell,4153,Tyt,20,6,21,183.569,49.028,Joe Gibbs Racing,False,False,4,10,green
+Cole Custer,4104,Frd,41,28,17,183.569,49.028,Haas Factory Team,False,False,16,16,green
+Chris Buescher,3989,Frd,17,31,19,183.561,49.030,RFK Racing,False,False,9,3,green
+Anthony Alfredo,4301,Chv,62,6,20,183.550,49.033,Beard Motorsports,False,True,20,13,green
+BJ McLeod,3973,Chv,78,6,22,183.527,49.039,Live Fast Motorsports,False,False,21,17,green
+Jimmie Johnson,1717,Tyt,84,46,22,183.524,49.040,Legacy Motor Club,False,False,14,19,green
+Erik Jones,4059,Tyt,43,6,18,183.512,49.043,Legacy Motor Club,False,False,18,2,green
+Shane Van Gisbergen,4469,Chv,88,6,12,183.490,49.049,Trackhouse Racing,False,False,15,14,green
+Noah Gragson,4224,Frd,4,22,22,183.482,49.051,Front Row Motorsports,False,False,11,18,green
+Shane Van Gisbergen,4469,Chv,88,7,12,183.434,49.064,Trackhouse Racing,False,False,15,14,green
+Riley Herbst,4269,Tyt,35,20,10,183.404,49.072,23XI Racing,False,False,13,12,green
+Shane Van Gisbergen,4469,Chv,88,4,15,183.404,49.072,Trackhouse Racing,False,False,15,14,green
+Noah Gragson,4224,Frd,4,31,20,183.393,49.075,Front Row Motorsports,False,False,11,18,green
+Corey LaJoie,4096,Frd,01,6,14,183.382,49.078,Rick Ware Racing,False,False,17,6,green
+Kyle Larson,4030,Chv,5,7,3,183.374,49.080,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Frd,51,6,17,183.370,49.081,Rick Ware Racing,False,False,22,15,green
+Cody Ware,4125,Frd,51,4,19,183.363,49.083,Rick Ware Racing,False,False,22,15,green
+Anthony Alfredo,4301,Chv,62,20,13,183.363,49.083,Beard Motorsports,False,True,20,13,green
+John Hunter Nemechek,4092,Tyt,42,4,21,183.355,49.085,Legacy Motor Club,False,False,19,9,green
+BJ McLeod,3973,Chv,78,31,22,183.337,49.090,Live Fast Motorsports,False,False,21,17,green
+Corey LaJoie,4096,Frd,01,4,17,183.311,49.097,Rick Ware Racing,False,False,17,6,green
+Anthony Alfredo,4301,Chv,62,21,17,183.311,49.097,Beard Motorsports,False,True,20,13,green
+Shane Van Gisbergen,4469,Chv,88,31,21,183.281,49.105,Trackhouse Racing,False,False,15,14,green
+Joey Logano,3859,Frd,22,7,4,183.281,49.105,Team Penske,False,False,2,5,green
+Chris Buescher,3989,Frd,17,7,6,183.281,49.105,RFK Racing,False,False,9,3,green
+Alex Bowman,4045,Chv,48,7,5,183.273,49.107,Hendrick Motorsports,False,False,6,22,green
+Noah Gragson,4224,Frd,4,23,22,183.270,49.108,Front Row Motorsports,False,False,11,18,green
+Daniel Suarez,4113,Chv,99,5,13,183.266,49.109,Trackhouse Racing,False,False,12,21,green
+Noah Gragson,4224,Frd,4,7,7,183.258,49.111,Front Row Motorsports,False,False,11,18,green
+Erik Jones,4059,Tyt,43,5,19,183.258,49.111,Legacy Motor Club,False,False,18,2,green
+Brad Keselowski,1816,Frd,6,7,10,183.255,49.112,RFK Racing,False,False,8,20,green
+Riley Herbst,4269,Tyt,35,21,14,183.251,49.113,23XI Racing,False,False,13,12,green
+Riley Herbst,4269,Tyt,35,7,9,183.251,49.113,23XI Racing,False,False,13,12,green
+Daniel Suarez,4113,Chv,99,7,14,183.243,49.115,Trackhouse Racing,False,False,12,21,green
+Cole Custer,4104,Frd,41,5,17,183.232,49.118,Haas Factory Team,False,False,16,16,green
+Todd Gilliland,4231,Frd,34,7,8,183.228,49.119,Front Row Motorsports,False,False,7,7,green
+Anthony Alfredo,4301,Chv,62,7,21,183.221,49.121,Beard Motorsports,False,True,20,13,green
+BJ McLeod,3973,Chv,78,5,22,183.214,49.123,Live Fast Motorsports,False,False,21,17,green
+Alex Bowman,4045,Chv,48,5,5,183.210,49.124,Hendrick Motorsports,False,False,6,22,green
+Ryan Blaney,4023,Frd,12,5,12,183.210,49.124,Team Penske,False,False,10,8,green
+Christopher Bell,4153,Tyt,20,5,21,183.202,49.126,Joe Gibbs Racing,False,False,4,10,green
+Austin Cindric,4180,Frd,2,7,2,183.199,49.127,Team Penske,False,False,1,1,green
+Jimmie Johnson,1717,Tyt,84,5,15,183.199,49.127,Legacy Motor Club,False,False,14,19,green
+Anthony Alfredo,4301,Chv,62,5,20,183.187,49.130,Beard Motorsports,False,True,20,13,green
+John Hunter Nemechek,4092,Tyt,42,6,19,183.169,49.135,Legacy Motor Club,False,False,19,9,green
+Ryan Blaney,4023,Frd,12,7,11,183.165,49.136,Team Penske,False,False,10,8,green
+Erik Jones,4059,Tyt,43,7,19,183.158,49.138,Legacy Motor Club,False,False,18,2,green
+Brad Keselowski,1816,Frd,6,5,10,183.150,49.140,RFK Racing,False,False,8,20,green
+Noah Gragson,4224,Frd,4,20,22,183.146,49.141,Front Row Motorsports,False,False,11,18,green
+Joey Logano,3859,Frd,22,5,4,183.143,49.142,Team Penske,False,False,2,5,green
+Denny Hamlin,1361,Tyt,11,5,1,183.135,49.144,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,5,3,183.120,49.148,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,2,5,2,183.117,49.149,Team Penske,False,False,1,1,green
+Jimmie Johnson,1717,Tyt,84,7,16,183.102,49.153,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,7,17,183.087,49.157,Haas Factory Team,False,False,16,16,green
+Todd Gilliland,4231,Frd,34,5,7,182.968,49.189,Front Row Motorsports,False,False,7,7,green
+BJ McLeod,3973,Chv,78,47,18,182.838,49.224,Live Fast Motorsports,False,False,21,17,green
+Cole Custer,4104,Frd,41,8,17,182.719,49.256,Haas Factory Team,False,False,16,16,green
+Ryan Blaney,4023,Frd,12,16,8,182.693,49.263,Team Penske,False,False,10,8,green
+Jimmie Johnson,1717,Tyt,84,8,15,182.674,49.268,Legacy Motor Club,False,False,14,19,green
+Anthony Alfredo,4301,Chv,62,11,20,182.626,49.281,Beard Motorsports,False,True,20,13,green
+Erik Jones,4059,Tyt,43,8,19,182.615,49.284,Legacy Motor Club,False,False,18,2,green
+Jimmie Johnson,1717,Tyt,84,38,22,182.563,49.298,Legacy Motor Club,False,False,14,19,green
+Cody Ware,4125,Frd,51,11,14,182.563,49.298,Rick Ware Racing,False,False,22,15,green
+Cole Custer,4104,Frd,41,11,19,182.563,49.298,Haas Factory Team,False,False,16,16,green
+Erik Jones,4059,Tyt,43,11,21,182.559,49.299,Legacy Motor Club,False,False,18,2,green
+Christopher Bell,4153,Tyt,20,11,18,182.552,49.301,Joe Gibbs Racing,False,False,4,10,green
+Jimmie Johnson,1717,Tyt,84,11,17,182.534,49.306,Legacy Motor Club,False,False,14,19,green
+Brad Keselowski,1816,Frd,6,11,11,182.534,49.306,RFK Racing,False,False,8,20,green
+Anthony Alfredo,4301,Chv,62,8,21,182.534,49.306,Beard Motorsports,False,True,20,13,green
+Christopher Bell,4153,Tyt,20,8,20,182.534,49.306,Joe Gibbs Racing,False,False,4,10,green
+BJ McLeod,3973,Chv,78,8,22,182.519,49.310,Live Fast Motorsports,False,False,21,17,green
+John Hunter Nemechek,4092,Tyt,42,11,16,182.519,49.310,Legacy Motor Club,False,False,19,9,green
+Riley Herbst,4269,Tyt,35,11,9,182.515,49.311,23XI Racing,False,False,13,12,green
+Corey LaJoie,4096,Frd,01,11,12,182.511,49.312,Rick Ware Racing,False,False,17,6,green
+Ryan Blaney,4023,Frd,12,11,13,182.504,49.314,Team Penske,False,False,10,8,green
+Daniel Suarez,4113,Chv,99,11,15,182.497,49.316,Trackhouse Racing,False,False,12,21,green
+Jimmie Johnson,1717,Tyt,84,47,21,182.497,49.316,Legacy Motor Club,False,False,14,19,green
+Todd Gilliland,4231,Frd,34,11,7,182.493,49.317,Front Row Motorsports,False,False,7,7,green
+Alex Bowman,4045,Chv,48,11,5,182.489,49.318,Hendrick Motorsports,False,False,6,22,green
+Joey Logano,3859,Frd,22,11,3,182.485,49.319,Team Penske,False,False,2,5,green
+Austin Cindric,4180,Frd,2,11,2,182.482,49.320,Team Penske,False,False,1,1,green
+Shane Van Gisbergen,4469,Chv,88,11,10,182.474,49.322,Trackhouse Racing,False,False,15,14,green
+Daniel Suarez,4113,Chv,99,8,13,182.419,49.337,Trackhouse Racing,False,False,12,21,green
+Riley Herbst,4269,Tyt,35,23,19,182.400,49.342,23XI Racing,False,False,13,12,green
+BJ McLeod,3973,Chv,78,11,22,182.393,49.344,Live Fast Motorsports,False,False,21,17,green
+Todd Gilliland,4231,Frd,34,8,8,182.389,49.345,Front Row Motorsports,False,False,7,7,green
+Riley Herbst,4269,Tyt,35,8,9,182.367,49.351,23XI Racing,False,False,13,12,green
+Chris Buescher,3989,Frd,17,8,5,182.363,49.352,RFK Racing,False,False,9,3,green
+Noah Gragson,4224,Frd,4,8,7,182.356,49.354,Front Row Motorsports,False,False,11,18,green
+Kyle Larson,4030,Chv,5,8,3,182.352,49.355,Hendrick Motorsports,False,False,5,11,green
+Noah Gragson,4224,Frd,4,11,8,182.349,49.356,Front Row Motorsports,False,False,11,18,green
+Chris Buescher,3989,Frd,17,11,6,182.349,49.356,RFK Racing,False,False,9,3,green
+Denny Hamlin,1361,Tyt,11,8,1,182.341,49.358,Joe Gibbs Racing,False,False,3,4,green
+John Hunter Nemechek,4092,Tyt,42,8,18,182.330,49.361,Legacy Motor Club,False,False,19,9,green
+Alex Bowman,4045,Chv,48,8,6,182.315,49.365,Hendrick Motorsports,False,False,6,22,green
+Austin Cindric,4180,Frd,2,8,2,182.308,49.367,Team Penske,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,8,11,182.308,49.367,Team Penske,False,False,10,8,green
+Joey Logano,3859,Frd,22,8,4,182.308,49.367,Team Penske,False,False,2,5,green
+Brad Keselowski,1816,Frd,6,8,10,182.297,49.370,RFK Racing,False,False,8,20,green
+Shane Van Gisbergen,4469,Chv,88,8,12,182.286,49.373,Trackhouse Racing,False,False,15,14,green
+Corey LaJoie,4096,Frd,01,8,14,182.212,49.393,Rick Ware Racing,False,False,17,6,green
+Cody Ware,4125,Frd,51,8,16,182.197,49.397,Rick Ware Racing,False,False,22,15,green
+Cole Custer,4104,Frd,41,16,14,181.848,49.492,Haas Factory Team,False,False,16,16,green
+Todd Gilliland,4231,Frd,34,16,5,181.829,49.497,Front Row Motorsports,False,False,7,7,green
+Shane Van Gisbergen,4469,Chv,88,9,10,181.748,49.519,Trackhouse Racing,False,False,15,14,green
+Kyle Larson,4030,Chv,5,10,2,181.730,49.524,Hendrick Motorsports,False,False,5,11,green
+Riley Herbst,4269,Tyt,35,9,9,181.697,49.533,23XI Racing,False,False,13,12,green
+Kyle Larson,4030,Chv,5,11,4,181.686,49.536,Hendrick Motorsports,False,False,5,11,green
+Denny Hamlin,1361,Tyt,11,11,1,181.671,49.540,Joe Gibbs Racing,False,False,3,4,green
+Noah Gragson,4224,Frd,4,9,7,181.642,49.548,Front Row Motorsports,False,False,11,18,green
+Denny Hamlin,1361,Tyt,11,12,1,181.609,49.557,Joe Gibbs Racing,False,False,3,4,green
+Corey LaJoie,4096,Frd,01,9,13,181.598,49.560,Rick Ware Racing,False,False,17,6,green
+Chris Buescher,3989,Frd,17,9,5,181.598,49.560,RFK Racing,False,False,9,3,green
+John Hunter Nemechek,4092,Tyt,42,10,16,181.576,49.566,Legacy Motor Club,False,False,19,9,green
+Kyle Larson,4030,Chv,5,9,2,181.572,49.567,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Frd,51,9,15,181.554,49.572,Rick Ware Racing,False,False,22,15,green
+BJ McLeod,3973,Chv,78,12,22,181.547,49.574,Live Fast Motorsports,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,9,1,181.532,49.578,Joe Gibbs Racing,False,False,3,4,green
+Corey LaJoie,4096,Frd,01,10,12,181.528,49.579,Rick Ware Racing,False,False,17,6,green
+Christopher Bell,4153,Tyt,20,10,18,181.521,49.581,Joe Gibbs Racing,False,False,4,10,green
+Denny Hamlin,1361,Tyt,11,10,1,181.507,49.585,Joe Gibbs Racing,False,False,3,4,green
+Cody Ware,4125,Frd,51,10,14,181.507,49.585,Rick Ware Racing,False,False,22,15,green
+Christopher Bell,4153,Tyt,20,12,18,181.496,49.588,Joe Gibbs Racing,False,False,4,10,green
+John Hunter Nemechek,4092,Tyt,42,12,16,181.488,49.590,Legacy Motor Club,False,False,19,9,green
+Anthony Alfredo,4301,Chv,62,12,19,181.477,49.593,Beard Motorsports,False,True,20,13,green
+Riley Herbst,4269,Tyt,35,16,10,181.477,49.593,23XI Racing,False,False,13,12,green
+Anthony Alfredo,4301,Chv,62,10,20,181.470,49.595,Beard Motorsports,False,True,20,13,green
+Austin Cindric,4180,Frd,2,9,3,181.463,49.597,Team Penske,False,False,1,1,green
+Shane Van Gisbergen,4469,Chv,88,10,10,181.452,49.600,Trackhouse Racing,False,False,15,14,green
+Alex Bowman,4045,Chv,48,9,6,181.444,49.602,Hendrick Motorsports,False,False,6,22,green
+Daniel Suarez,4113,Chv,99,12,15,181.433,49.605,Trackhouse Racing,False,False,12,21,green
+Joey Logano,3859,Frd,22,9,4,181.433,49.605,Team Penske,False,False,2,5,green
+Erik Jones,4059,Tyt,43,12,21,181.397,49.615,Legacy Motor Club,False,False,18,2,green
+Todd Gilliland,4231,Frd,34,9,8,181.393,49.616,Front Row Motorsports,False,False,7,7,green
+Jimmie Johnson,1717,Tyt,84,12,17,181.393,49.616,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,9,18,181.371,49.622,Legacy Motor Club,False,False,19,9,green
+Cole Custer,4104,Frd,41,12,19,181.360,49.625,Haas Factory Team,False,False,16,16,green
+Anthony Alfredo,4301,Chv,62,16,18,181.353,49.627,Beard Motorsports,False,True,20,13,green
+Christopher Bell,4153,Tyt,20,9,20,181.335,49.632,Joe Gibbs Racing,False,False,4,10,green
+Ryan Blaney,4023,Frd,12,12,13,181.335,49.632,Team Penske,False,False,10,8,green
+Cody Ware,4125,Frd,51,12,14,181.331,49.633,Rick Ware Racing,False,False,22,15,green
+Corey LaJoie,4096,Frd,01,12,12,181.327,49.634,Rick Ware Racing,False,False,17,6,green
+Austin Cindric,4180,Frd,2,12,2,181.324,49.635,Team Penske,False,False,1,1,green
+Todd Gilliland,4231,Frd,34,10,7,181.316,49.637,Front Row Motorsports,False,False,7,7,green
+Austin Cindric,4180,Frd,2,10,3,181.309,49.639,Team Penske,False,False,1,1,green
+Brad Keselowski,1816,Frd,6,12,11,181.298,49.642,RFK Racing,False,False,8,20,green
+Kyle Larson,4030,Chv,5,12,3,181.294,49.643,Hendrick Motorsports,False,False,5,11,green
+Alex Bowman,4045,Chv,48,10,5,181.294,49.643,Hendrick Motorsports,False,False,6,22,green
+Noah Gragson,4224,Frd,4,12,8,181.287,49.645,Front Row Motorsports,False,False,11,18,green
+Joey Logano,3859,Frd,22,10,4,181.283,49.646,Team Penske,False,False,2,5,green
+Shane Van Gisbergen,4469,Chv,88,12,10,181.283,49.646,Trackhouse Racing,False,False,15,14,green
+Chris Buescher,3989,Frd,17,12,6,181.280,49.647,RFK Racing,False,False,9,3,green
+Brad Keselowski,1816,Frd,6,9,11,181.280,49.647,RFK Racing,False,False,8,20,green
+BJ McLeod,3973,Chv,78,10,22,181.247,49.656,Live Fast Motorsports,False,False,21,17,green
+BJ McLeod,3973,Chv,78,16,21,181.243,49.657,Live Fast Motorsports,False,False,21,17,green
+Joey Logano,3859,Frd,22,12,4,181.221,49.663,Team Penske,False,False,2,5,green
+Riley Herbst,4269,Tyt,35,12,9,181.196,49.670,23XI Racing,False,False,13,12,green
+Ryan Blaney,4023,Frd,12,9,12,181.192,49.671,Team Penske,False,False,10,8,green
+Brad Keselowski,1816,Frd,6,16,12,181.189,49.672,RFK Racing,False,False,8,20,green
+Kyle Larson,4030,Chv,5,16,6,181.167,49.678,Hendrick Motorsports,False,False,5,11,green
+Todd Gilliland,4231,Frd,34,12,7,181.167,49.678,Front Row Motorsports,False,False,7,7,green
+BJ McLeod,3973,Chv,78,9,22,181.148,49.683,Live Fast Motorsports,False,False,21,17,green
+Daniel Suarez,4113,Chv,99,16,16,181.148,49.683,Trackhouse Racing,False,False,12,21,green
+Christopher Bell,4153,Tyt,20,16,20,181.145,49.684,Joe Gibbs Racing,False,False,4,10,green
+Alex Bowman,4045,Chv,48,12,5,181.145,49.684,Hendrick Motorsports,False,False,6,22,green
+Alex Bowman,4045,Chv,48,16,9,181.119,49.691,Hendrick Motorsports,False,False,6,22,green
+Daniel Suarez,4113,Chv,99,9,14,181.119,49.691,Trackhouse Racing,False,False,12,21,green
+Ryan Blaney,4023,Frd,12,10,13,181.101,49.696,Team Penske,False,False,10,8,green
+Anthony Alfredo,4301,Chv,62,9,21,181.090,49.699,Beard Motorsports,False,True,20,13,green
+Chris Buescher,3989,Frd,17,10,6,181.068,49.705,RFK Racing,False,False,9,3,green
+Erik Jones,4059,Tyt,43,9,19,181.065,49.706,Legacy Motor Club,False,False,18,2,green
+Noah Gragson,4224,Frd,4,10,8,181.043,49.712,Front Row Motorsports,False,False,11,18,green
+Riley Herbst,4269,Tyt,35,10,9,181.025,49.717,23XI Racing,False,False,13,12,green
+Jimmie Johnson,1717,Tyt,84,9,16,181.006,49.722,Legacy Motor Club,False,False,14,19,green
+Cole Custer,4104,Frd,41,9,17,181.003,49.723,Haas Factory Team,False,False,16,16,green
+Daniel Suarez,4113,Chv,99,10,15,181.003,49.723,Trackhouse Racing,False,False,12,21,green
+Brad Keselowski,1816,Frd,6,10,11,180.988,49.727,RFK Racing,False,False,8,20,green
+Joey Logano,3859,Frd,22,16,7,180.963,49.734,Team Penske,False,False,2,5,green
+Jimmie Johnson,1717,Tyt,84,10,17,180.948,49.738,Legacy Motor Club,False,False,14,19,green
+Erik Jones,4059,Tyt,43,10,21,180.941,49.740,Legacy Motor Club,False,False,18,2,green
+Cole Custer,4104,Frd,41,10,19,180.930,49.743,Haas Factory Team,False,False,16,16,green
+Austin Cindric,4180,Frd,2,16,4,180.825,49.772,Team Penske,False,False,1,1,green
+Chris Buescher,3989,Frd,17,16,11,180.603,49.833,RFK Racing,False,False,9,3,green
+Noah Gragson,4224,Frd,4,16,13,180.574,49.841,Front Row Motorsports,False,False,11,18,green
+Corey LaJoie,4096,Frd,01,16,17,180.487,49.865,Rick Ware Racing,False,False,17,6,green
+Cody Ware,4125,Frd,51,16,19,180.451,49.875,Rick Ware Racing,False,False,22,15,green
+Shane Van Gisbergen,4469,Chv,88,16,15,180.451,49.875,Trackhouse Racing,False,False,15,14,green
+Jimmie Johnson,1717,Tyt,84,36,22,180.339,49.906,Legacy Motor Club,False,False,14,19,green
+Jimmie Johnson,1717,Tyt,84,37,22,180.263,49.927,Legacy Motor Club,False,False,14,19,green
+John Hunter Nemechek,4092,Tyt,42,16,22,180.220,49.939,Legacy Motor Club,False,False,19,9,green
+Denny Hamlin,1361,Tyt,11,16,3,180.097,49.973,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,13,3,179.158,50.235,Hendrick Motorsports,False,False,5,11,green
+Todd Gilliland,4231,Frd,34,13,7,179.144,50.239,Front Row Motorsports,False,False,7,7,green
+Alex Bowman,4045,Chv,48,13,5,179.144,50.239,Hendrick Motorsports,False,False,6,22,green
+Austin Cindric,4180,Frd,2,13,2,179.140,50.240,Team Penske,False,False,1,1,green
+Joey Logano,3859,Frd,22,13,4,179.129,50.243,Team Penske,False,False,2,5,green
+Riley Herbst,4269,Tyt,35,13,9,179.119,50.246,23XI Racing,False,False,13,12,green
+Denny Hamlin,1361,Tyt,11,13,1,179.072,50.259,Joe Gibbs Racing,False,False,3,4,green
+Brad Keselowski,1816,Frd,6,13,11,179.058,50.263,RFK Racing,False,False,8,20,green
+Chris Buescher,3989,Frd,17,13,6,179.055,50.264,RFK Racing,False,False,9,3,green
+Cody Ware,4125,Frd,51,13,14,179.037,50.269,Rick Ware Racing,False,False,22,15,green
+Corey LaJoie,4096,Frd,01,13,12,178.976,50.286,Rick Ware Racing,False,False,17,6,green
+Noah Gragson,4224,Frd,4,13,8,178.973,50.287,Front Row Motorsports,False,False,11,18,green
+Ryan Blaney,4023,Frd,12,13,13,178.966,50.289,Team Penske,False,False,10,8,green
+Shane Van Gisbergen,4469,Chv,88,13,10,178.958,50.291,Trackhouse Racing,False,False,15,14,green
+Cole Custer,4104,Frd,41,13,19,178.951,50.293,Haas Factory Team,False,False,16,16,green
+Erik Jones,4059,Tyt,43,13,21,178.934,50.298,Legacy Motor Club,False,False,18,2,green
+Christopher Bell,4153,Tyt,20,13,18,178.930,50.299,Joe Gibbs Racing,False,False,4,10,green
+John Hunter Nemechek,4092,Tyt,42,13,16,178.926,50.300,Legacy Motor Club,False,False,19,9,green
+Anthony Alfredo,4301,Chv,62,13,20,178.916,50.303,Beard Motorsports,False,True,20,13,green
+BJ McLeod,3973,Chv,78,13,22,178.894,50.309,Live Fast Motorsports,False,False,21,17,green
+Jimmie Johnson,1717,Tyt,84,13,17,178.894,50.309,Legacy Motor Club,False,False,14,19,green
+Daniel Suarez,4113,Chv,99,13,15,178.866,50.317,Trackhouse Racing,False,False,12,21,green
+Noah Gragson,4224,Frd,4,60,17,178.820,50.330,Front Row Motorsports,False,False,11,18,pitting in
+Erik Jones,4059,Tyt,43,15,11,178.070,50.542,Legacy Motor Club,False,False,18,2,green
+Riley Herbst,4269,Tyt,35,54,13,177.613,50.672,23XI Racing,False,False,13,12,restart
+Cody Ware,4125,Frd,51,54,11,177.476,50.711,Rick Ware Racing,False,False,22,15,restart
+Denny Hamlin,1361,Tyt,11,14,1,177.427,50.725,Joe Gibbs Racing,False,False,3,4,green
+Denny Hamlin,1361,Tyt,11,54,15,177.305,50.760,Joe Gibbs Racing,False,False,3,4,restart
+Kyle Larson,4030,Chv,5,54,16,177.274,50.769,Hendrick Motorsports,False,False,5,11,restart
+Christopher Bell,4153,Tyt,20,54,14,177.214,50.786,Joe Gibbs Racing,False,False,4,10,restart
+Noah Gragson,4224,Frd,4,14,8,177.144,50.806,Front Row Motorsports,False,False,11,18,green
+Shane Van Gisbergen,4469,Chv,88,14,10,177.141,50.807,Trackhouse Racing,False,False,15,14,green
+Corey LaJoie,4096,Frd,01,14,12,177.141,50.807,Rick Ware Racing,False,False,17,6,green
+Anthony Alfredo,4301,Chv,62,14,19,177.134,50.809,Beard Motorsports,False,True,20,13,green
+John Hunter Nemechek,4092,Tyt,42,14,15,177.127,50.811,Legacy Motor Club,False,False,19,9,green
+Christopher Bell,4153,Tyt,20,14,17,177.127,50.811,Joe Gibbs Racing,False,False,4,10,green
+Todd Gilliland,4231,Frd,34,54,8,177.117,50.814,Front Row Motorsports,False,False,7,7,restart
+Chris Buescher,3989,Frd,17,14,6,177.113,50.815,RFK Racing,False,False,9,3,green
+Brad Keselowski,1816,Frd,6,14,11,177.110,50.816,RFK Racing,False,False,8,20,green
+Austin Cindric,4180,Frd,2,14,2,177.082,50.824,Team Penske,False,False,1,1,green
+John Hunter Nemechek,4092,Tyt,42,54,17,177.082,50.824,Legacy Motor Club,False,False,19,9,restart
+Riley Herbst,4269,Tyt,35,14,9,177.075,50.826,23XI Racing,False,False,13,12,green
+Cody Ware,4125,Frd,51,14,14,177.071,50.827,Rick Ware Racing,False,False,22,15,green
+Daniel Suarez,4113,Chv,99,14,16,177.057,50.831,Trackhouse Racing,False,False,12,21,green
+Ryan Blaney,4023,Frd,12,14,13,177.054,50.832,Team Penske,False,False,10,8,green
+Cole Custer,4104,Frd,41,14,20,177.040,50.836,Haas Factory Team,False,False,16,16,green
+Jimmie Johnson,1717,Tyt,84,14,18,177.040,50.836,Legacy Motor Club,False,False,14,19,green
+Todd Gilliland,4231,Frd,34,14,7,177.036,50.837,Front Row Motorsports,False,False,7,7,green
+Alex Bowman,4045,Chv,48,14,5,177.029,50.839,Hendrick Motorsports,False,False,6,22,green
+Jimmie Johnson,1717,Tyt,84,15,14,177.022,50.841,Legacy Motor Club,False,False,14,19,green
+BJ McLeod,3973,Chv,78,14,22,176.995,50.849,Live Fast Motorsports,False,False,21,17,green
+Joey Logano,3859,Frd,22,14,4,176.988,50.851,Team Penske,False,False,2,5,green
+Erik Jones,4059,Tyt,43,14,21,176.984,50.852,Legacy Motor Club,False,False,18,2,green
+Cole Custer,4104,Frd,41,54,12,176.984,50.852,Haas Factory Team,False,False,16,16,restart
+Kyle Larson,4030,Chv,5,14,3,176.963,50.858,Hendrick Motorsports,False,False,5,11,green
+Erik Jones,4059,Tyt,43,54,6,176.908,50.874,Legacy Motor Club,False,False,18,2,restart
+Noah Gragson,4224,Frd,4,54,4,176.727,50.926,Front Row Motorsports,False,False,11,18,restart
+Anthony Alfredo,4301,Chv,62,54,10,176.720,50.928,Beard Motorsports,False,True,20,13,restart
+Joey Logano,3859,Frd,22,54,2,176.613,50.959,Team Penske,False,False,2,5,restart
+BJ McLeod,3973,Chv,78,15,22,176.602,50.962,Live Fast Motorsports,False,False,21,17,green
+Cole Custer,4104,Frd,41,15,19,176.547,50.978,Haas Factory Team,False,False,16,16,green
+BJ McLeod,3973,Chv,78,54,18,176.495,50.993,Live Fast Motorsports,False,False,21,17,restart
+Shane Van Gisbergen,4469,Chv,88,54,9,176.491,50.994,Trackhouse Racing,False,False,15,14,restart
+Austin Cindric,4180,Frd,2,54,1,176.422,51.014,Team Penske,False,False,1,1,restart
+Anthony Alfredo,4301,Chv,62,15,20,176.198,51.079,Beard Motorsports,False,True,20,13,green
+Ryan Blaney,4023,Frd,12,54,7,176.163,51.089,Team Penske,False,False,10,8,restart
+Denny Hamlin,1361,Tyt,11,15,1,176.142,51.095,Joe Gibbs Racing,False,False,3,4,green
+Corey LaJoie,4096,Frd,01,54,5,176.129,51.099,Rick Ware Racing,False,False,17,6,restart
+Daniel Suarez,4113,Chv,99,15,17,176.074,51.115,Trackhouse Racing,False,False,12,21,green
+Chris Buescher,3989,Frd,17,54,3,175.963,51.147,RFK Racing,False,False,9,3,restart
+Ryan Blaney,4023,Frd,12,15,15,175.905,51.164,Team Penske,False,False,10,8,green
+Todd Gilliland,4231,Frd,34,15,7,175.829,51.186,Front Row Motorsports,False,False,7,7,green
+John Hunter Nemechek,4092,Tyt,42,15,18,175.822,51.188,Legacy Motor Club,False,False,19,9,green
+Cody Ware,4125,Frd,51,15,16,175.812,51.191,Rick Ware Racing,False,False,22,15,green
+Brad Keselowski,1816,Frd,6,15,12,175.802,51.194,RFK Racing,False,False,8,20,green
+Shane Van Gisbergen,4469,Chv,88,15,10,175.785,51.199,Trackhouse Racing,False,False,15,14,green
+Alex Bowman,4045,Chv,48,15,5,175.771,51.203,Hendrick Motorsports,False,False,6,22,green
+Christopher Bell,4153,Tyt,20,15,21,175.768,51.204,Joe Gibbs Racing,False,False,4,10,green
+Joey Logano,3859,Frd,22,15,4,175.747,51.210,Team Penske,False,False,2,5,green
+Chris Buescher,3989,Frd,17,15,6,175.740,51.212,RFK Racing,False,False,9,3,green
+Riley Herbst,4269,Tyt,35,15,9,175.740,51.212,23XI Racing,False,False,13,12,green
+Noah Gragson,4224,Frd,4,15,8,175.733,51.214,Front Row Motorsports,False,False,11,18,green
+Kyle Larson,4030,Chv,5,15,3,175.726,51.216,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,2,15,2,175.713,51.220,Team Penske,False,False,1,1,green
+Corey LaJoie,4096,Frd,01,15,13,175.702,51.223,Rick Ware Racing,False,False,17,6,green
+Jimmie Johnson,1717,Tyt,84,54,19,175.309,51.338,Legacy Motor Club,False,False,14,19,restart
+Jimmie Johnson,1717,Tyt,84,60,18,175.121,51.393,Legacy Motor Club,False,False,14,19,pitting in
+Christopher Bell,4153,Tyt,20,1,18,173.987,51.728,Joe Gibbs Racing,False,False,4,10,start
+Anthony Alfredo,4301,Chv,62,1,16,172.997,52.024,Beard Motorsports,False,True,20,13,start
+BJ McLeod,3973,Chv,78,1,20,172.884,52.058,Live Fast Motorsports,False,False,21,17,start
+Erik Jones,4059,Tyt,43,1,15,172.741,52.101,Legacy Motor Club,False,False,18,2,start
+Cody Ware,4125,Frd,51,1,21,172.675,52.121,Rick Ware Racing,False,False,22,15,start
+Cole Custer,4104,Frd,41,1,13,172.506,52.172,Haas Factory Team,False,False,16,16,start
+Riley Herbst,4269,Tyt,35,1,14,172.344,52.221,23XI Racing,False,False,13,12,start
+Noah Gragson,4224,Frd,4,1,11,172.318,52.229,Front Row Motorsports,False,False,11,18,start
+Corey LaJoie,4096,Frd,01,1,19,172.269,52.244,Rick Ware Racing,False,False,17,6,start
+Todd Gilliland,4231,Frd,34,1,6,172.226,52.257,Front Row Motorsports,False,False,7,7,start
+Shane Van Gisbergen,4469,Chv,88,1,17,172.166,52.275,Trackhouse Racing,False,False,15,14,start
+Jimmie Johnson,1717,Tyt,84,1,12,172.163,52.276,Legacy Motor Club,False,False,14,19,start
+Chris Buescher,3989,Frd,17,1,9,172.124,52.288,RFK Racing,False,False,9,3,start
+Kyle Larson,4030,Chv,5,1,4,172.081,52.301,Hendrick Motorsports,False,False,5,11,start
+Daniel Suarez,4113,Chv,99,1,10,172.032,52.316,Trackhouse Racing,False,False,12,21,start
+Denny Hamlin,1361,Tyt,11,1,2,171.992,52.328,Joe Gibbs Racing,False,False,3,4,start
+John Hunter Nemechek,4092,Tyt,42,1,22,171.976,52.333,Legacy Motor Club,False,False,19,9,start
+Ryan Blaney,4023,Frd,12,1,8,171.710,52.414,Team Penske,False,False,10,8,start
+Brad Keselowski,1816,Frd,6,1,7,171.399,52.509,RFK Racing,False,False,8,20,start
+Joey Logano,3859,Frd,22,1,3,171.376,52.516,Team Penske,False,False,2,5,start
+Alex Bowman,4045,Chv,48,1,5,171.265,52.550,Hendrick Motorsports,False,False,6,22,start
+Austin Cindric,4180,Frd,2,1,1,171.034,52.621,Team Penske,False,False,1,1,start
+Austin Cindric,4180,Frd,2,48,2,165.633,54.337,Team Penske,False,False,1,1,green
+Corey LaJoie,4096,Frd,01,48,4,164.543,54.697,Rick Ware Racing,False,False,17,6,green
+Joey Logano,3859,Frd,22,48,3,164.390,54.748,Team Penske,False,False,2,5,green
+Chris Buescher,3989,Frd,17,48,1,164.255,54.793,RFK Racing,False,False,9,3,green
+Noah Gragson,4224,Frd,4,48,6,163.827,54.936,Front Row Motorsports,False,False,11,18,green
+Ryan Blaney,4023,Frd,12,48,5,163.556,55.027,Team Penske,False,False,10,8,green
+Kyle Larson,4030,Chv,5,46,21,162.610,55.347,Hendrick Motorsports,False,False,5,11,pitting out
+Shane Van Gisbergen,4469,Chv,88,48,7,162.259,55.467,Trackhouse Racing,False,False,15,14,green
+Anthony Alfredo,4301,Chv,62,48,8,162.045,55.540,Beard Motorsports,False,True,20,13,green
+John Hunter Nemechek,4092,Tyt,42,47,19,161.363,55.775,Legacy Motor Club,False,False,19,9,pitting out
+Erik Jones,4059,Tyt,43,48,9,161.264,55.809,Legacy Motor Club,False,False,18,2,green
+Austin Cindric,4180,Frd,2,45,5,160.757,55.985,Team Penske,False,False,1,1,pitting out
+Denny Hamlin,1361,Tyt,11,47,20,160.456,56.090,Joe Gibbs Racing,False,False,3,4,pitting out
+Brad Keselowski,1816,Frd,6,46,1,160.445,56.094,RFK Racing,False,False,8,20,"pitting out,pitting out"
+Cody Ware,4125,Frd,51,48,12,160.416,56.104,Rick Ware Racing,False,False,22,15,green
+Cole Custer,4104,Frd,41,46,2,160.282,56.151,Haas Factory Team,False,False,16,16,pitting out
+Cole Custer,4104,Frd,41,48,11,159.980,56.257,Haas Factory Team,False,False,16,16,green
+Todd Gilliland,4231,Frd,34,48,10,159.515,56.421,Front Row Motorsports,False,False,7,7,green
+Chris Buescher,3989,Frd,17,46,3,159.205,56.531,RFK Racing,False,False,9,3,pitting out
+Denny Hamlin,1361,Tyt,11,44,11,158.884,56.645,Joe Gibbs Racing,False,False,3,4,pitting out
+Kyle Larson,4030,Chv,5,44,12,158.275,56.863,Hendrick Motorsports,False,False,5,11,pitting out
+Todd Gilliland,4231,Frd,34,45,6,158.225,56.881,Front Row Motorsports,False,False,7,7,pitting out
+BJ McLeod,3973,Chv,78,48,15,157.074,57.298,Live Fast Motorsports,False,False,21,17,green
+Anthony Alfredo,4301,Chv,62,44,13,157.046,57.308,Beard Motorsports,False,True,20,13,pitting out
+Erik Jones,4059,Tyt,43,44,14,156.748,57.417,Legacy Motor Club,False,False,18,2,pitting out
+Shane Van Gisbergen,4469,Chv,88,44,15,156.166,57.631,Trackhouse Racing,False,False,15,14,pitting out
+Riley Herbst,4269,Tyt,35,48,13,155.127,58.017,23XI Racing,False,False,13,12,green
+John Hunter Nemechek,4092,Tyt,42,44,17,154.927,58.092,Legacy Motor Club,False,False,19,9,pitting out
+Christopher Bell,4153,Tyt,20,48,14,154.485,58.258,Joe Gibbs Racing,False,False,4,10,green
+Riley Herbst,4269,Tyt,35,44,16,154.382,58.297,23XI Racing,False,False,13,12,pitting out
+Alex Bowman,4045,Chv,48,45,13,146.206,61.557,Hendrick Motorsports,False,False,6,22,green
+Cody Ware,4125,Frd,51,47,15,145.806,61.726,Rick Ware Racing,False,False,22,15,green
+Ryan Blaney,4023,Frd,12,46,8,145.631,61.800,Team Penske,False,False,10,8,green
+Noah Gragson,4224,Frd,4,46,9,145.021,62.060,Front Row Motorsports,False,False,11,18,green
+Corey LaJoie,4096,Frd,01,46,7,144.820,62.146,Rick Ware Racing,False,False,17,6,green
+Kyle Larson,4030,Chv,5,47,22,144.353,62.347,Hendrick Motorsports,False,False,5,11,green
+BJ McLeod,3973,Chv,78,45,21,144.106,62.454,Live Fast Motorsports,False,False,21,17,green
+Daniel Suarez,4113,Chv,99,45,11,144.069,62.470,Trackhouse Racing,False,False,12,21,green
+Joey Logano,3859,Frd,22,46,6,143.497,62.719,Team Penske,False,False,2,5,green
+Joey Logano,3859,Frd,22,45,7,142.461,63.175,Team Penske,False,False,2,5,pitting out
+Christopher Bell,4153,Tyt,20,45,20,142.012,63.375,Joe Gibbs Racing,False,False,4,10,green
+Corey LaJoie,4096,Frd,01,45,8,141.556,63.579,Rick Ware Racing,False,False,17,6,pitting out
+Jimmie Johnson,1717,Tyt,84,35,22,141.329,63.681,Legacy Motor Club,False,False,14,19,green
+Ryan Blaney,4023,Frd,12,45,9,139.624,64.459,Team Penske,False,False,10,8,pitting out
+Jimmie Johnson,1717,Tyt,84,48,16,139.371,64.576,Legacy Motor Club,False,False,14,19,green
+Noah Gragson,4224,Frd,4,45,10,139.116,64.694,Front Row Motorsports,False,False,11,18,pitting out
+Daniel Suarez,4113,Chv,99,44,18,138.998,64.749,Trackhouse Racing,False,False,12,21,pitting out
+Cody Ware,4125,Frd,51,46,4,136.382,65.991,Rick Ware Racing,False,False,22,15,pitting out
+Alex Bowman,4045,Chv,48,44,19,135.808,66.270,Hendrick Motorsports,False,False,6,22,pitting out
+Christopher Bell,4153,Tyt,20,44,20,134.042,67.143,Joe Gibbs Racing,False,False,4,10,pitting out
+Chris Buescher,3989,Frd,17,47,1,131.710,68.332,RFK Racing,False,False,9,3,green
+Brad Keselowski,1816,Frd,6,47,2,130.323,69.059,RFK Racing,False,False,8,20,pitting in
+Todd Gilliland,4231,Frd,34,46,10,129.810,69.332,Front Row Motorsports,False,False,7,7,green
+BJ McLeod,3973,Chv,78,44,21,129.351,69.578,Live Fast Motorsports,False,False,21,17,pitting out
+Cole Custer,4104,Frd,41,47,12,128.868,69.839,Haas Factory Team,False,False,16,16,green
+Austin Cindric,4180,Frd,2,46,5,128.709,69.925,Team Penske,False,False,1,1,green
+Shane Van Gisbergen,4469,Chv,88,45,14,128.430,70.077,Trackhouse Racing,False,False,15,14,green
+Kyle Larson,4030,Chv,5,45,12,126.566,71.109,Hendrick Motorsports,False,False,5,11,pitting in
+Erik Jones,4059,Tyt,43,45,16,126.271,71.275,Legacy Motor Club,False,False,18,2,green
+Anthony Alfredo,4301,Chv,62,45,15,126.013,71.421,Beard Motorsports,False,True,20,13,green
+John Hunter Nemechek,4092,Tyt,42,45,18,126.005,71.426,Legacy Motor Club,False,False,19,9,green
+Riley Herbst,4269,Tyt,35,45,17,125.929,71.469,23XI Racing,False,False,13,12,green
+Jimmie Johnson,1717,Tyt,84,34,22,122.059,73.735,Legacy Motor Club,False,False,14,19,pitting out
+Denny Hamlin,1361,Tyt,11,45,19,120.877,74.456,Joe Gibbs Racing,False,False,3,4,green
+Kyle Larson,4030,Chv,5,48,19,120.466,74.710,Hendrick Motorsports,False,False,5,11,green
+John Hunter Nemechek,4092,Tyt,42,48,17,119.949,75.032,Legacy Motor Club,False,False,19,9,green
+Denny Hamlin,1361,Tyt,11,48,18,104.571,86.066,Joe Gibbs Racing,False,False,3,4,green
+BJ McLeod,3973,Chv,78,52,19,104.209,86.365,Live Fast Motorsports,False,False,21,17,caution
+Denny Hamlin,1361,Tyt,11,49,18,101.628,88.558,Joe Gibbs Racing,False,False,3,4,caution
+Kyle Larson,4030,Chv,5,49,19,101.326,88.822,Hendrick Motorsports,False,False,5,11,caution
+John Hunter Nemechek,4092,Tyt,42,49,17,94.216,95.525,Legacy Motor Club,False,False,19,9,caution
+Jimmie Johnson,1717,Tyt,84,49,16,93.219,96.547,Legacy Motor Club,False,False,14,19,caution
+Brad Keselowski,1816,Frd,6,48,20,88.311,101.913,RFK Racing,False,False,8,20,"pitting in,pitting out"
+BJ McLeod,3973,Chv,78,49,15,79.135,113.730,Live Fast Motorsports,False,False,21,17,caution
+BJ McLeod,3973,Chv,78,53,19,78.944,114.005,Live Fast Motorsports,False,False,21,17,caution
+Jimmie Johnson,1717,Tyt,84,53,18,78.588,114.522,Legacy Motor Club,False,False,14,19,caution
+Kyle Larson,4030,Chv,5,53,16,78.167,115.138,Hendrick Motorsports,False,False,5,11,caution
+Jimmie Johnson,1717,Tyt,84,52,18,77.415,116.256,Legacy Motor Club,False,False,14,19,caution
+John Hunter Nemechek,4092,Tyt,42,53,17,77.268,116.478,Legacy Motor Club,False,False,19,9,caution
+Denny Hamlin,1361,Tyt,11,53,15,76.999,116.885,Joe Gibbs Racing,False,False,3,4,caution
+Christopher Bell,4153,Tyt,20,53,13,76.474,117.687,Joe Gibbs Racing,False,False,4,10,caution
+Riley Herbst,4269,Tyt,35,53,14,75.999,118.422,23XI Racing,False,False,13,12,caution
+Cody Ware,4125,Frd,51,53,12,75.340,119.458,Rick Ware Racing,False,False,22,15,caution
+Riley Herbst,4269,Tyt,35,49,13,75.216,119.656,23XI Racing,False,False,13,12,caution
+Christopher Bell,4153,Tyt,20,49,14,75.207,119.670,Joe Gibbs Racing,False,False,4,10,caution
+Todd Gilliland,4231,Frd,34,53,10,75.133,119.787,Front Row Motorsports,False,False,7,7,caution
+Chris Buescher,3989,Frd,17,49,1,74.989,120.017,RFK Racing,False,False,9,3,caution
+Austin Cindric,4180,Frd,2,49,2,74.730,120.433,Team Penske,False,False,1,1,caution
+Joey Logano,3859,Frd,22,49,3,74.691,120.497,Team Penske,False,False,2,5,caution
+Cole Custer,4104,Frd,41,53,11,74.680,120.515,Haas Factory Team,False,False,16,16,caution
+Erik Jones,4059,Tyt,43,53,8,74.388,120.988,Legacy Motor Club,False,False,18,2,caution
+Ryan Blaney,4023,Frd,12,49,5,74.279,121.164,Team Penske,False,False,10,8,caution
+Corey LaJoie,4096,Frd,01,49,4,74.206,121.284,Rick Ware Racing,False,False,17,6,caution
+Cody Ware,4125,Frd,51,49,12,74.133,121.404,Rick Ware Racing,False,False,22,15,caution
+Noah Gragson,4224,Frd,4,49,6,74.113,121.437,Front Row Motorsports,False,False,11,18,caution
+Shane Van Gisbergen,4469,Chv,88,49,7,74.055,121.531,Trackhouse Racing,False,False,15,14,caution
+Anthony Alfredo,4301,Chv,62,49,8,73.863,121.848,Beard Motorsports,False,True,20,13,caution
+Anthony Alfredo,4301,Chv,62,53,9,73.812,121.932,Beard Motorsports,False,True,20,13,caution
+Erik Jones,4059,Tyt,43,49,9,73.749,122.036,Legacy Motor Club,False,False,18,2,caution
+Shane Van Gisbergen,4469,Chv,88,53,7,73.637,122.221,Trackhouse Racing,False,False,15,14,caution
+Cole Custer,4104,Frd,41,49,10,73.606,122.273,Haas Factory Team,False,False,16,16,caution
+Todd Gilliland,4231,Frd,34,49,11,73.520,122.415,Front Row Motorsports,False,False,7,7,caution
+Ryan Blaney,4023,Frd,12,53,5,73.215,122.925,Team Penske,False,False,10,8,caution
+Noah Gragson,4224,Frd,4,53,6,72.783,123.656,Front Row Motorsports,False,False,11,18,caution
+Corey LaJoie,4096,Frd,01,53,3,72.333,124.425,Rick Ware Racing,False,False,17,6,caution
+Joey Logano,3859,Frd,22,53,4,72.012,124.979,Team Penske,False,False,2,5,caution
+Denny Hamlin,1361,Tyt,11,51,15,71.541,125.802,Joe Gibbs Racing,False,False,3,4,caution
+Austin Cindric,4180,Frd,2,53,2,71.525,125.830,Team Penske,False,False,1,1,caution
+Kyle Larson,4030,Chv,5,51,17,71.217,126.374,Hendrick Motorsports,False,False,5,11,pitting out
+Chris Buescher,3989,Frd,17,53,1,71.051,126.669,RFK Racing,False,False,9,3,caution
+Cody Ware,4125,Frd,51,51,12,70.719,127.264,Rick Ware Racing,False,False,22,15,caution
+Todd Gilliland,4231,Frd,34,51,11,70.654,127.382,Front Row Motorsports,False,False,7,7,caution
+Cole Custer,4104,Frd,41,51,10,70.628,127.428,Haas Factory Team,False,False,16,16,caution
+Christopher Bell,4153,Tyt,20,51,14,70.578,127.518,Joe Gibbs Racing,False,False,4,10,caution
+Erik Jones,4059,Tyt,43,51,9,70.566,127.540,Legacy Motor Club,False,False,18,2,caution
+Riley Herbst,4269,Tyt,35,51,13,70.496,127.667,23XI Racing,False,False,13,12,caution
+John Hunter Nemechek,4092,Tyt,42,51,16,70.462,127.729,Legacy Motor Club,False,False,19,9,pitting out
+Shane Van Gisbergen,4469,Chv,88,51,7,70.392,127.856,Trackhouse Racing,False,False,15,14,caution
+Anthony Alfredo,4301,Chv,62,51,8,70.350,127.931,Beard Motorsports,False,True,20,13,caution
+Joey Logano,3859,Frd,22,51,3,70.302,128.019,Team Penske,False,False,2,5,caution
+Austin Cindric,4180,Frd,2,51,2,70.157,128.283,Team Penske,False,False,1,1,caution
+Ryan Blaney,4023,Frd,12,51,6,70.147,128.302,Team Penske,False,False,10,8,caution
+Noah Gragson,4224,Frd,4,51,5,70.123,128.345,Front Row Motorsports,False,False,11,18,caution
+Chris Buescher,3989,Frd,17,51,1,70.082,128.421,RFK Racing,False,False,9,3,caution
+Corey LaJoie,4096,Frd,01,51,4,70.041,128.497,Rick Ware Racing,False,False,17,6,caution
+Chris Buescher,3989,Frd,17,52,1,69.893,128.768,RFK Racing,False,False,9,3,caution
+Corey LaJoie,4096,Frd,01,52,4,69.776,128.985,Rick Ware Racing,False,False,17,6,caution
+Austin Cindric,4180,Frd,2,52,2,69.682,129.159,Team Penske,False,False,1,1,caution
+Noah Gragson,4224,Frd,4,52,5,69.542,129.419,Front Row Motorsports,False,False,11,18,caution
+Ryan Blaney,4023,Frd,12,52,6,69.506,129.486,Team Penske,False,False,10,8,caution
+Joey Logano,3859,Frd,22,52,3,69.497,129.502,Team Penske,False,False,2,5,caution
+Denny Hamlin,1361,Tyt,11,50,18,69.388,129.705,Joe Gibbs Racing,False,False,3,4,caution
+Kyle Larson,4030,Chv,5,50,19,69.340,129.796,Hendrick Motorsports,False,False,5,11,pitting in
+Anthony Alfredo,4301,Chv,62,52,8,69.261,129.943,Beard Motorsports,False,True,20,13,caution
+Shane Van Gisbergen,4469,Chv,88,52,7,69.234,129.994,Trackhouse Racing,False,False,15,14,caution
+Erik Jones,4059,Tyt,43,52,9,69.180,130.095,Legacy Motor Club,False,False,18,2,caution
+Todd Gilliland,4231,Frd,34,52,11,69.052,130.337,Front Row Motorsports,False,False,7,7,caution
+Cole Custer,4104,Frd,41,52,10,69.039,130.362,Haas Factory Team,False,False,16,16,caution
+Cody Ware,4125,Frd,51,52,12,69.026,130.386,Rick Ware Racing,False,False,22,15,caution
+John Hunter Nemechek,4092,Tyt,42,52,16,68.870,130.681,Legacy Motor Club,False,False,19,9,caution
+Riley Herbst,4269,Tyt,35,52,13,68.726,130.954,23XI Racing,False,False,13,12,caution
+Denny Hamlin,1361,Tyt,11,52,15,68.715,130.975,Joe Gibbs Racing,False,False,3,4,caution
+Kyle Larson,4030,Chv,5,52,17,68.654,131.093,Hendrick Motorsports,False,False,5,11,caution
+Christopher Bell,4153,Tyt,20,52,14,68.637,131.125,Joe Gibbs Racing,False,False,4,10,caution
+Chris Buescher,3989,Frd,17,50,1,68.401,131.577,RFK Racing,False,False,9,3,caution
+Austin Cindric,4180,Frd,2,50,2,68.373,131.631,Team Penske,False,False,1,1,caution
+Corey LaJoie,4096,Frd,01,50,4,68.370,131.637,Rick Ware Racing,False,False,17,6,caution
+Noah Gragson,4224,Frd,4,50,5,68.368,131.640,Front Row Motorsports,False,False,11,18,caution
+Joey Logano,3859,Frd,22,50,3,68.194,131.976,Team Penske,False,False,2,5,caution
+Anthony Alfredo,4301,Chv,62,50,8,68.126,132.109,Beard Motorsports,False,True,20,13,caution
+Shane Van Gisbergen,4469,Chv,88,50,7,68.096,132.166,Trackhouse Racing,False,False,15,14,caution
+Ryan Blaney,4023,Frd,12,50,6,67.889,132.569,Team Penske,False,False,10,8,caution
+Erik Jones,4059,Tyt,43,50,9,67.879,132.588,Legacy Motor Club,False,False,18,2,caution
+Cole Custer,4104,Frd,41,50,10,67.834,132.676,Haas Factory Team,False,False,16,16,caution
+Riley Herbst,4269,Tyt,35,50,13,67.669,133.001,23XI Racing,False,False,13,12,caution
+Cody Ware,4125,Frd,51,50,12,67.622,133.093,Rick Ware Racing,False,False,22,15,caution
+Jimmie Johnson,1717,Tyt,84,50,16,67.603,133.131,Legacy Motor Club,False,False,14,19,pitting in
+Christopher Bell,4153,Tyt,20,50,14,67.587,133.161,Joe Gibbs Racing,False,False,4,10,caution
+John Hunter Nemechek,4092,Tyt,42,50,17,67.585,133.166,Legacy Motor Club,False,False,19,9,pitting in
+BJ McLeod,3973,Chv,78,50,15,67.572,133.191,Live Fast Motorsports,False,False,21,17,pitting in
+Todd Gilliland,4231,Frd,34,50,11,67.554,133.226,Front Row Motorsports,False,False,7,7,caution
+Jimmie Johnson,1717,Tyt,84,51,18,62.206,144.680,Legacy Motor Club,False,False,14,19,pitting out
+BJ McLeod,3973,Chv,78,51,19,51.164,175.905,Live Fast Motorsports,False,False,21,17,pitting out

@@ -1,0 +1,95 @@
+
+Main Execution 
+    Start([Start Program])
+        |
+    LoadJSON[/Load 'track_list.json'/]
+        |
+    CheckJSON{JSON Valid?}
+        |
+        |--> No --> ErrJSON[/Print Error/] --> End([End])
+        |--> Yes --> LoopStart{For Each Track<br>in Metadata}   
+
+Loop Logic
+    LoopStart
+        |
+    Track Available
+        |
+    GenPath [Construct CSV File Path]
+        |
+    CallFunc [[Call: calculate_driver_ratings]]
+
+Calculation Function Logic
+    *Function: calculate_driver_ratings(csv_path)*
+    
+    ReadCSV
+        |
+    ValidCSV
+        |
+        |--> No --> RetNone [Return None]
+        |--> Yes
+              |
+            GroupDriver [Group Data by Driver]
+              |
+            CalcRaw [Calculate Raw Stats]
+
+        Norm -> Weight [Apply Weights]
+        
+            *Weighting Logic*
+            W1  [Finish Pos: 30%]
+            W2  [Avg Run Pos: 25%]
+            W3  [Pos Gained: 15%]
+            W4  [Avg Speed: 15%]
+            W5  [Laps Led: 10%]
+            W6  [Fastest Lap: 5%]
+    
+        Weight
+            |
+        SumScore[Sum Weighted Scores<br>= driver_rating]
+            |
+        SortDesc[Sort Descending]
+
+Back to Main Loop
+    CallFunc --> RetResult{Result Valid?}
+    RetNone --> RetResult
+    SortDesc --> RetResult
+    
+    RetResult
+        |
+        |--> No --> LogErr[Log: Could not calculate]
+        |--> Yes
+              |
+            TagCat[Tag with Track Category]
+              |
+            Store[Append to 'all_ratings']
+    
+    Store --> LoopStart
+    LogErr --> LoopStart
+
+Aggregation Block
+    LoopStart
+        |
+    All Track Processed
+        |
+    CheckList{Is 'all_ratings' empty?}
+        |
+        |--> No --> Concat[Concatenate all DataFrames]
+        |--> Yes --> PrintNoData[/Print: No ratings calculated/] --> End
+
+Final Processing
+    Concat 
+        |
+        |--> CalcOverall[Group by Driver & Mean<br>= 'Overall_rating']
+        |       > Merge[Merge Overall & Category Data]
+        |--> CalcCat[Pivot by Category & Mean<br>= SSW, SW, RC, etc.]
+                > Merge
+    
+    Merge
+        |
+    SortFinal[sort by Overall Rating]
+        |
+    Format[Rename Columns & Fill Missing 'x']
+        |
+    PrintFinal[/Print: Saul's Nascar Driver Ratings/]
+        |
+    End([End Program])
+
