@@ -1,0 +1,575 @@
+[
+    {
+        "race_num": "01",
+        "track_id": "bowman_gray",
+        "track_name": "Bowman Gray Stadium",
+        "race_name": "Cook Out Clash at Bowman Gray",
+        "race_date": "02.02.25",
+        "race_date_full": "Feb. 02, 2025",
+        "race_laps": 200,
+        "track_leght_miles": 0.25,
+        "track_category": "Short Intermediate",
+        "point_race": "False",
+        "race_lap_info_file-path": "2.02.25bowman_gray.csv"
+    },
+
+    {
+        "race_num": "02",
+        "track_id": "daytona",
+        "track_name": "Daytona International Speedway",
+        "race_name": "Duel 1 at DAYTONA",
+        "race_date": "02.13.25",
+        "race_date_full": "Feb. 13, 2025",
+        "race_laps": 60,
+        "track_leght_miles": 2.5,
+        "track_category": "Superspeedway",
+        "point_race": "False",
+        "race_lap_info_file-path": "CODENAME_NSIGHT\\track_ino\\2.13.25daytona_duel_1.csv"
+    },
+
+    {
+        "race_num": "03",
+        "track_id": "daytona",
+        "track_name": "Daytona International Speedway",
+        "race_name": "Duel 2 at DAYTONA",
+        "race_date": "02.13.25",
+        "race_date_full": "Feb. 13, 2025",
+        "race_laps": 60,
+        "track_leght_miles": 2.5,
+        "track_category": "Superspeedway",
+        "point_race": "False",
+        "race_lap_info_file-path": "2.13.25daytona_duel_2.csv"
+    },
+
+    {
+        "race_num": "04",
+        "track_id": "daytona",
+        "track_name": "Daytona International Speedway",
+        "race_name": "Daytona 500",
+        "race_date": "02.16.25",
+        "race_date_full": "Feb. 16, 2025",
+        "race_laps": 200,
+        "track_leght_miles": 2.5,
+        "track_category": "Superspeedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "2.16.25daytona.csv"
+    },
+
+    {
+        "race_num": "05",
+        "track_id": "atlanta",
+        "track_name": "EchoPark Speedway",
+        "race_name": "Ambetter Health 400",
+        "race_date": "02.23.25",
+        "race_date_full": "Feb. 23, 2025",
+        "race_laps": 260,
+        "track_leght_miles": 1.54,
+        "track_category": "Superspeedway",
+        "point_race": "True",
+        "race_lap_info_file-path":"2.23.25atlanta.csv"
+    },
+
+    {
+        "race_num": "06",
+        "track_id": "cota",
+        "track_name": "Curcuit of the Americas",
+        "race_name": "EchoPark Automotive Grand Prix",
+        "race_date": "03.02.25",
+        "race_date_full": "Mar. 02, 2025",
+        "race_laps": 95,
+        "track_leght_miles": 2.356,
+        "track_category": "Road Course",
+        "point_race": "True",
+        "race_lap_info_file-path":"3.02.25cota.csv"
+    },
+
+    {
+        "race_num": "07",
+        "track_id": "phoenix",
+        "track_name": "Phoenix Raceway",
+        "race_name": "Shriners Children's 500",
+        "race_date": "03.09.25",
+        "race_date_full": "Mar. 09, 2025",
+        "race_laps": 312,
+        "track_leght_miles": 1.0,
+        "track_category": "Short Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "3.09.25phoenix.csv"
+    },
+
+    {
+        "race_num": "08",
+        "track_id": "las_vegas",
+        "track_name": "Las Vegas Motor Speedway",
+        "race_name": "Pennzoil 400 presented by Jiffy Lube",
+        "race_date": "03.16.25",
+        "race_date_full": "Mar. 16, 2025",
+        "race_laps": 267,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race":"True",
+        "race_lap_info_file-path": "3.16.25las_vegas.csv"
+    },
+
+    {
+        "race_num": "09",
+        "track_id": "homestead",
+        "track_name": "Homestead-Miami Speedway",
+        "race_name": "Straight Talk Wireless 400",
+        "race_date": "03.23.25",
+        "race_date_full": "Mar. 23, 2025",
+        "race_laps": 267,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "3.23.25homestead_miami.csv"
+    },
+
+    {
+        "race_num": "10",
+        "track_id": "martinsville",
+        "track_name": "Martinsville Speedway",
+        "race_name": "Cook Out 400",
+        "race_date": "03.30.25",
+        "race_date_full": "Mar. 30, 2025",
+        "race_laps": 400,
+        "track_leght_miles": 0.526,
+        "track_category": "Concrete",
+        "point_race": "True",
+        "race_lap_info_file-path":"3.30.25martinsville.csv"
+    },
+
+    {
+        "race_num": "11",
+        "track_id": "darlington",
+        "track_name": "Darlington Speedway",
+        "race_name": "Goodyear 400",
+        "race_date": "04.06.25",
+        "race_date_full": "Apr. 06, 2025",
+        "race_laps": 293,
+        "track_leght_miles": 1.366,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "4.06.25darlington.csv"
+    },
+
+    {
+        "race_num": "12",
+        "track_id": "bristol",
+        "track_name": "Bristol Motor Speedway",
+        "race_name": "Food City 400",
+        "race_date": "04.13.25",
+        "race_date_full": "Apr. 13, 2025",
+        "race_laps": 500,
+        "track_leght_miles": 0.533,
+        "track_category": "Concrete",
+        "point_race": "True",
+        "race_lap_info_file-path": "4.13.25bristol.csv"
+    },
+
+    {
+        "race_num": "13",
+        "track_id": "talladega",
+        "track_name": "Talladega Superspeedway",
+        "race_name": "Jack Link's 500",
+        "race_date": "04.27.25",
+        "race_date_full": "Apr. 27, 2025",
+        "race_laps": 188,
+        "track_leght_miles": 2.66,
+        "track_category": "Superspeedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "4.27.25talladega.csv"
+    },
+
+    {
+        "race_num": "14",
+        "track_id": "texas",
+        "track_name": "Texas Motor Speedway",
+        "race_name": "Wurth 400 Presented By LIQUI MOLY",
+        "race_date": "05.04.25",
+        "race_date_full": "May 04, 2025 ",
+        "race_laps": 267,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "5.04.25texas.csv"
+    },
+    
+    {
+        "race_num": "15",
+        "track_id": "kansas",
+        "track_name": "Kansas Speedway",
+        "race_name": "AdventHealth 400",
+        "race_date": "05.11.25",
+        "race_date_full": "May 11, 2025 ",
+        "race_laps": 267,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "5.11.25kansas.csv"
+    },
+
+    {
+        "race_num": "16",
+        "track_id": "north_wilkesboro",
+        "track_name": "North Wilkesboro Speedway",
+        "race_name": "NASCAR All-Star Open",
+        "race_date": "05.18.25",
+        "race_date_full": "May 18, 2025 ",
+        "race_laps": 100,
+        "track_leght_miles": 0.625,
+        "track_category": "Short Intermediate",
+        "point_race": "False",
+        "race_lap_info_file-path": "5.18.25north_wilkesboro_open.csv"
+    },
+
+    {
+        "race_num": "17",
+        "track_id": "north_wilkesboro",
+        "track_name": "North Wilkesboro Speedway",
+        "race_name": "NASCAR All-Star Race",
+        "race_date": "05.18.25",
+        "race_date_full": "May 18, 2025 ",
+        "race_laps": 250,
+        "track_leght_miles": 0.625,
+        "track_category": "Short Intermediate",
+        "point_race": "False",
+        "race_lap_info_file-path": "5.18.25north_wilkesboro_all_star_race.csv"
+    },
+
+    {
+        "race_num": "18",
+        "track_id": "charlotte",
+        "track_name": "Charlotte Motor Speedway",
+        "race_name": "Coca-Cola 600",
+        "race_date": "05.25.25",
+        "race_date_full": "May 25, 2025 ",
+        "race_laps": 400,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "5.25.25charlotte.csv"
+    },
+
+    {
+        "race_num": "19",
+        "track_id": "nashville",
+        "track_name": "Nashville Superspeedway",
+        "race_name": "Cracker Barrel 400",
+        "race_date": "06.01.25",
+        "race_date_full": "Jun. 01, 2025",
+        "race_laps": 300,
+        "track_leght_miles": 1.333,
+        "track_category": "Concrete",
+        "point_race": "True",
+        "race_lap_info_file-path": "6.01.25nashville.csv"
+    },
+
+    {
+        "race_num": "20",
+        "track_id": "michigan",
+        "track_name": "Michigan International Speedway",
+        "race_name": "FireKeepers Casino 400",
+        "race_date": "06.08.25",
+        "race_date_full": "Jun. 08, 2025",
+        "race_laps": 200,
+        "track_leght_miles": 2.0,
+        "track_category": "Speedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "6.08.25michigan.csv"
+    },
+
+    {
+        "race_num": "21",
+        "track_id": "autódromo_hermanos_rodríguez",
+        "track_name": "Autódromo Hermanos Rodríguez",
+        "race_name": "Viva Mexico 250",
+        "race_date": "06.15.25",
+        "race_date_full": "Jun. 15, 2025",
+        "race_laps": 100,
+        "track_leght_miles": 2.42,
+        "track_category": "Road Course",
+        "point_race": "True",
+        "race_lap_info_file-path": "6.15.25mexico.csv"
+    },
+
+    {
+        "race_num": "22",
+        "track_id": "pocono",
+        "track_name": "Pocono Raceway",
+        "race_name": "The Great American Getaway 400 Presented by VisitPA.com",
+        "race_date": "06.22.25",
+        "race_date_full": "Jun. 22, 2025",
+        "race_laps": 160,
+        "track_leght_miles": 2.5,
+        "track_category" : "Speedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "6.22.25pocono.csv"
+    },
+
+    {
+        "race_num": "23",
+        "track_id": "atlanta",
+        "track_name": "EchoPark Speedway",
+        "race_name": "Quaker State 400 Available at Walmart",
+        "race_date": "06.28.25",
+        "race_date_full": "Jun. 28, 2025",
+        "race_laps": 160,
+        "track_leght_miles": 1.54,
+        "track_category": "Superspeedway",
+        "point_race": "True",
+        "race_lap_info_file-path":"6.28.25atlanta.csv"
+    },
+
+    {
+        "race_num": "24",
+        "track_id": "chicago",
+        "track_name": "Chicago Street Course",
+        "race_name": "Grant Park 165",
+        "race_date": "07.06.25",
+        "race_date_full": "Jul. 06, 2025",
+        "race_laps": 75,
+        "track_leght_miles": 2.2,
+        "track_category": "Road Course",
+        "point_race": "True",
+        "race_lap_info_file-path": "7.06.25chicago.csv"
+    },
+
+    {
+        "race_num": "25",
+        "track_id": "sonoma",
+        "track_name": "Sonoma Raceway",
+        "race_name": "Toyota/Save Mart 350",
+        "race_date": "07.13.25",
+        "race_date_full": "Jul. 13, 2025",
+        "race_laps": 110,
+        "track_leght_miles": 1.99,
+        "track_category": "Road Course",
+        "point_race": "True",
+        "race_lap_info_file-path": "7.13.25sonoma.csv"
+    },
+    
+    {
+        "race_num": "26",
+        "track_id": "dover",
+        "track_name": "Dover Motor Speedway",
+        "race_name": "Autotrader EchoPark Automotive 400",
+        "race_date": "07.20.25",
+        "race_date_full": "Jul. 20, 2025",
+        "race_laps": 400,
+        "track_leght_miles": 1,
+        "track_category": "Concrete",
+        "point_race": "True",
+        "race_lap_info_file-path": "7.20.25dover.csv"
+    },
+    
+    {
+        "race_num": "27",
+        "track_id": "indianapolis",
+        "track_name": "Indianapolis Motor Speedway",
+        "race_name": "Brickyard 400",
+        "race_date": "07.27.25",
+        "race_date_full": "Jul. 27, 2025",
+        "race_laps": 160,
+        "track_leght_miles": 2.5,
+        "track_category": "Speedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "7.27.25indianapolis.csv"
+    },
+
+    {
+        "race_num": "28",
+        "track_id": "iowa",
+        "track_name": "Iowa Speedway",
+        "race_name": "Iowa Corn 350 Powered by Ethanol",
+        "race_date": "08.03.25",
+        "race_date_full": "Aug. 03, 2025",
+        "race_laps": 350,
+        "track_leght_miles": 0.875,
+        "track_category": "Short Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "8.03.25iowa.csv"
+    },
+
+    {
+        "race_num": "29",
+        "track_id": "watkins_glen",
+        "track_name": "Watkins Glen International",
+        "race_name": "Go Bowling at The Glen",
+        "race_date": "08.10.25",
+        "race_date_full": "Aug. 10, 2025",
+        "race_laps": 90,
+        "track_leght_miles": 2.45,
+        "track_category": "Road Course",
+        "point_race": "True",
+        "race_lap_info_file-path": "8.10.25watkins_glen.csv"
+    },
+
+    {
+        "race_num": "30",
+        "track_id": "richmond",
+        "track_name": "Richmond Raceway",
+        "race_name": "Cook Out 400",
+        "race_date": "08.16.25",
+        "race_date_full": "Aug. 16, 2025",
+        "race_laps": 400,
+        "track_leght_miles": 0.75,
+        "track_category": "Short Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "8.16.25richmond.csv"
+    },
+    
+    {
+        "race_num": "31",
+        "track_id": "daytona",
+        "track_name": "Daytona International Speedway",
+        "race_name": "Coke Zero Sugar 400",
+        "race_date": "08.23.25",
+        "race_date_full": "Aug. 23, 2025",
+        "race_laps": 160,
+        "track_leght_miles": 2.5,
+        "track_category": "Superspeedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "8.23.25daytona.csv"
+    },
+
+    {
+        "race_num": "32",
+        "track_id": "darlington",
+        "track_name": "Darlington Speedway",
+        "race_name": "Cook Out Southern 500",
+        "race_date": "08.31.25",
+        "race_date_full": "Aug. 31, 2025",
+        "race_laps": 367,
+        "track_leght_miles": 1.366,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "8.31.25darlington.csv"
+    },
+    
+    {
+        "race_num": "33",
+        "track_id": "world_wide_technology",
+        "track_name": "World Wide Technology Raceway",
+        "race_name": "Enjoy Illinois 300",
+        "race_date": "09.07.25",
+        "race_date_full": "Sep. 07, 2025",
+        "race_laps": 240,
+        "track_leght_miles": 1.25,
+        "track_category":"Short Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "9.07.25world_wide_technology.csv"
+    },
+
+    {
+        "race_num": "34",
+        "track_id": "bristol",
+        "track_name": "Bristol Motor Speedway",
+        "race_name": "Bass Pro Shops Night Race",
+        "race_date": "09.13.25",
+        "race_date_full": "Sep. 13, 2025",
+        "race_laps": 500,
+        "track_leght_miles": 0.533,
+        "track_category": "Concrete",
+        "point_race": "True",
+        "race_lap_info_file-path": "9.13.25bristol.csv"
+    },
+    
+    {
+        "race_num": "35",
+        "track_id": "new_hampshire",
+        "track_name": "New Hampshire Motor Speedway",
+        "race_name": "Mobil 1 301",
+        "race_date": "09.21.25",
+        "race_date_full": "Sep. 21, 2025",
+        "race_laps": 301,
+        "track_leght_miles": 1.058,
+        "track_category": "Short Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "9.21.25new_hampshire.csv"
+    },
+    
+    {
+        "race_num": "36",
+        "track_id": "kansas",
+        "track_name": "Kansas Speedway",
+        "race_name": "Hollywood Casino 400 Presented by ESPN BET",
+        "race_date": "09.28.25",
+        "race_date_full": "Sep. 28, 2025",
+        "race_laps": 267,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "9.28.25kansas.csv"
+    },
+
+    {
+        "race_num": "37",
+        "track_id": "charlotte",
+        "track_name": "Charlotte Motor Speedway",
+        "race_name": "Bank of America ROVAL 400",
+        "race_date": "10.05.25",
+        "race_date_full": "Oct. 05, 2025",
+        "race_laps": 109,
+        "track_leght_miles": 2.32,
+        "track_category":"Road Course",
+        "point_race": "True",
+        "race_lap_info_file-path": "10.05.25charlotte.csv"
+    },
+    
+    {
+        "race_num": "38",
+        "track_id": "las_vegas",
+        "track_name": "Las Vegas Motor Speedway",
+        "race_name": "South Point 400",
+        "race_date": "10.12.25",
+        "race_date_full": "Oct. 12, 2025",
+        "race_laps": 267,
+        "track_leght_miles": 1.5,
+        "track_category": "Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "10.12.25las_vegas.csv"
+    },
+    
+    {
+        "race_num": "39",
+        "track_id": "talladega",
+        "track_name": "Talladega Superspeedway",
+        "race_name": "YellaWood 500",
+        "race_date": "10.19.25",
+        "race_date_full": "Oct. 19, 2025",
+        "race_laps": 188,
+        "track_leght_miles": 2.66,
+        "track_category": "Superspeedway",
+        "point_race": "True",
+        "race_lap_info_file-path": "10.19.25talladega.csv"
+    },
+    
+    {
+        "race_num": "40",
+        "track_id": "martinsville",
+        "track_name": "Martinsville Speedway",
+        "race_name": "Xfinity 500",
+        "race_date": "10.26.25",
+        "race_date_full": "Oct. 26, 2025",
+        "race_laps": 500,
+        "track_leght_miles": 0.526,
+        "track_category": "Concrete",
+        "point_race": "True",
+        "race_lap_info_file-path": "10.26.25martinsville.csv"
+    },
+
+    {
+        "race_num": "41",
+        "track_id": "phoenix",
+        "track_name": "Phoenix Raceway",
+        "race_name": "NASCAR Cup Series Championship",
+        "race_date": "11.02.25",
+        "race_date_full": "Nov. 02, 2025",
+        "race_laps": 312,
+        "track_leght_miles": 1,
+        "track_category": "Short Intermediate",
+        "point_race": "True",
+        "race_lap_info_file-path": "11.02.25phoenix.csv"
+    }
+]   
