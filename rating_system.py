@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+import sys
 
 def calculate_driver_ratings(csv_path):
     try:
@@ -82,7 +83,7 @@ def calculate_driver_ratings(csv_path):
     return final_ratings[['driver_name', 'driver_rating']]
 
 
-def analyze_all_tracks(tracks_metadata):
+def analyze_all_tracks(tracks_metadata, season_folder, series_folder):
     all_ratings = []
     for track in tracks_metadata:
 
@@ -90,7 +91,7 @@ def analyze_all_tracks(tracks_metadata):
             print(f"--- {track ['race_num']} |-{track['race_date']}-| Skipping {track['race_name']}")
             continue
 
-        csv_file_path = os.path.join('race_info', '2025season', '2025ncs', os.path.basename(track['race_lap_info_file-path']))
+        csv_file_path = os.path.join('race_info', season_folder, series_folder, os.path.basename(track['race_lap_info_file-path']))
         
         print(f"--- {track ['race_num']} | {track['race_date']} | Analyzing {track['race_name']}")
         ratings_df = calculate_driver_ratings(csv_file_path)
@@ -152,13 +153,61 @@ def analyze_all_tracks(tracks_metadata):
 
 
 if __name__ == '__main__': 
+    print("Select Season:")
+    print("1. 2025")
+    print("2. 2026")
+    season_input = input("Enter choice (1 or 2): ").strip()
+
+    season_map = {
+        '1': '2025', '2025': '2025',
+        '2': '2026', '2026': '2026'
+    }
+    
+    selected_season = season_map.get(season_input)
+    
+    if not selected_season:
+        print("Invalid season selected. Exiting.")
+        sys.exit()
+
+    print(f"\nSelect Series for {selected_season}:")
+    print("1. NCS: NASCAR Cup Series")
+    if selected_season == '2025':
+        print("2. NXS: NASCAR Xfinity Series")
+    else:
+        print("2. NOAPS: NASCAR O'Reilly Auto Parts Series")
+    print("3. NCTS: NASCAR Craftsman Truck Series")
+    print("4. ARCA: ARCA Menards Series")
+    series_input = input("Enter choice (1-4): ").strip().upper()
+
+    series_folders = {}
+    if selected_season == '2025':
+        series_folders = {
+            '1': 'cup2025', 'NCS': 'cup2025',
+            '2': 'xfinity2025', 'NXS': 'xfinity2025',
+            '3': 'truck2025', 'NCTS': 'truck2025',
+            '4': 'arca2025', 'ARCA': 'arca2025'
+        }
+    else: # 2026
+        series_folders = {
+            '1': 'cup2026', 'NCS': 'cup2026',
+            '2': 'o_reilly2026', 'NOAPS': 'o_reilly2026',
+            '3': 'truck2026', 'NCTS': 'truck2026',
+            '4': 'arca2026', 'ARCA': 'arca2026'
+        }
+
+    selected_series = series_folders.get(series_input)
+
+    if not selected_series:
+        print("Invalid series selected. Exiting.")
+        sys.exit()
+
     json_file_path = 'track_list.json'
 
     try:
         with open(json_file_path, 'r') as f:
             tracks = json.load(f)
         
-        analyze_all_tracks(tracks)
+        analyze_all_tracks(tracks, selected_season, selected_series)
 
     except FileNotFoundError:
         print(f" Error | The file was not found at {json_file_path}")
@@ -166,4 +215,3 @@ if __name__ == '__main__':
         print(f"Error: Could not decode JSON from the file at {json_file_path}")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
->>>>>>> master
