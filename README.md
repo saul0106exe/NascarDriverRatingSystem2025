@@ -12,16 +12,24 @@ At first **(v.1.0)** this program just processed data from the Daytona 500 but n
 ## 📊 Data Sources & Requirements
 The system uses raw CSV data provided by **[LapRaptor.com](https://www.lapraptor.com)**.
 
-### Required File Structure
+### Required File Structure (CURRENTLY WORKING FOR NEXT UPDATE)
 ```text 
 /project_root
  │
- ├── rating_system.py       # The main script
- ├── track_list.json        # Configuration file for the schedule
- └── track_info/            # Folder containing all race CSV files
-      ├── 2.02.25bowman_gray.csv
-      ├── 2.13.25daytona_duel_1.csv
-      └── ...
+ ├── rating_system.py           # The main script
+ ├── rating_system_gamofy.py    # 2ndary main script 
+ ├── track_list.json            # Configuration file for the schedule
+ └── race_info/                 # Folder containing all race CSV files
+      ├──2025
+           ├──cup2025           # Only one required currently 
+                ├──2.02.25bowman_gray.csv
+                └── ...
+           ├──xfinity2025
+                └── ...
+           ├──truck2025
+                └── ...
+           ├──arca2025
+                └── ...
 ```
 
 ### Required CSV Columns
