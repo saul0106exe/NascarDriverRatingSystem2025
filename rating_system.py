@@ -182,17 +182,17 @@ if __name__ == '__main__':
     series_folders = {}
     if selected_season == '2025':
         series_folders = {
-            '1': 'cup2025', 'NCS': 'cup2025',
-            '2': 'xfinity2025', 'NXS': 'xfinity2025',
-            '3': 'truck2025', 'NCTS': 'truck2025',
-            '4': 'arca2025', 'ARCA': 'arca2025'
+            '1': 'NASCAR_Cup_Series', 'NCS': 'NASCAR_Cup_Series',
+            '2': 'Xfinity_Series', 'NXS': 'Xfinity_Series',
+            '3': 'Craftsman_Truck_Series', 'NCTS': 'Craftsman_Truck_Series',
+            '4': 'NASCAR_Cup_Series', 'ARCA': 'NASCAR_Cup_Series'
         }
     else: # 2026
         series_folders = {
-            '1': 'cup2026', 'NCS': 'cup2026',
-            '2': 'o_reilly2026', 'NOAPS': 'o_reilly2026',
-            '3': 'truck2026', 'NCTS': 'truck2026',
-            '4': 'arca2026', 'ARCA': 'arca2026'
+            '1': 'NASCAR_Cup_Series', 'NCS': 'NASCAR_Cup_Series',
+            '2': 'Oreilly_Series', 'NOAPS': 'Oreilly_Series',
+            '3': 'Craftsman_Truck_Series', 'NCTS': 'Craftsman_Truck_Series',
+            '4': 'NASCAR_Cup_Series', 'ARCA': 'NASCAR_Cup_Series'
         }
 
     selected_series = series_folders.get(series_input)
